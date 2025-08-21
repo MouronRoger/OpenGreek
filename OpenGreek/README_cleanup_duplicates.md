@@ -68,3 +68,4 @@ Run with --execute to actually remove the files
 ## Safety Note
 
 Always run with `--dry-run` first to preview changes before using `--execute`.
+

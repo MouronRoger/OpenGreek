@@ -95,3 +95,4 @@ result = asyncio.run(map_table_structure())
 print(f"\n🎯 Greek content found: {'✅ YES' if result else '❌ NO'}")
 
 
+
