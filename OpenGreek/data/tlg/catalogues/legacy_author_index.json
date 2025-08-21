@@ -1,0 +1,1842 @@
+{
+    "heb0001": {
+        "name": "Hebrew Bible",
+        "century": -10,
+        "type": "Religious"
+    },
+    "tlg0001": {
+        "name": "Apollonius Rhodius",
+        "century": -3,
+        "type": "Poet"
+    },
+    "tlg0003": {
+        "name": "Thucydides",
+        "century": -5,
+        "type": "Historian"
+    },
+    "tlg0004": {
+        "name": "Diogenes Laertius",
+        "century": 3,
+        "type": "Biographer"
+    },
+    "tlg0005": {
+        "name": "Theocritus",
+        "century": -3,
+        "type": "Poet"
+    },
+    "tlg0006": {
+        "name": "Euripides",
+        "century": -5,
+        "type": "Poet"
+    },
+    "tlg0007": {
+        "name": "Plutarch",
+        "century": 1,
+        "type": "Platonist"
+    },
+    "tlg0008": {
+        "name": "Athenaeus of Naucratis",
+        "century": 2,
+        "type": "Grammarian"
+    },
+    "tlg0010": {
+        "name": "Isocrates",
+        "century": -4,
+        "type": "Rhetorician"
+    },
+    "tlg0011": {
+        "name": "Sophocles",
+        "century": -5,
+        "type": "Poet"
+    },
+    "tlg0012": {
+        "name": "Homer",
+        "century": -8,
+        "type": "Poet"
+    },
+    "tlg0013": {
+        "name": "Homeric Hymns",
+        "century": -7,
+        "type": "Poet"
+    },
+    "tlg0014": {
+        "name": "Demosthenes",
+        "century": -4,
+        "type": "Rhetorician"
+    },
+    "tlg0015": {
+        "name": "Herodian",
+        "century": 2,
+        "type": "Grammarian"
+    },
+    "tlg0016": {
+        "name": "Herodotus",
+        "century": -5,
+        "type": "Historian"
+    },
+    "tlg0017": {
+        "name": "Isaeus",
+        "century": -4,
+        "type": "Rhetorician"
+    },
+    "tlg0018": {
+        "name": "Philo Judaeus",
+        "century": 1,
+        "type": "Religious"
+    },
+    "tlg0019": {
+        "name": "Aristophanes",
+        "century": -5,
+        "type": "Poet"
+    },
+    "tlg0020": {
+        "name": "Hesiod",
+        "century": -8,
+        "type": "Poet"
+    },
+    "tlg0022": {
+        "name": "Nicander of Colophon",
+        "century": -2,
+        "type": "Poet"
+    },
+    "tlg0023": {
+        "name": "Oppian",
+        "century": 2,
+        "type": "Poet"
+    },
+    "tlg0024": {
+        "name": "Oppian of Apamea",
+        "century": 3,
+        "type": "Poet"
+    },
+    "tlg0026": {
+        "name": "Aeschines",
+        "century": -4,
+        "type": "Rhetorician"
+    },
+    "tlg0027": {
+        "name": "Andocides",
+        "century": -4,
+        "type": "Rhetorician"
+    },
+    "tlg0028": {
+        "name": "Antiphon",
+        "century": -5,
+        "type": "Rhetorician"
+    },
+    "tlg0029": {
+        "name": "Dinarchus",
+        "century": -4,
+        "type": "Rhetorician"
+    },
+    "tlg0030": {
+        "name": "Hyperides",
+        "century": -4,
+        "type": "Rhetorician"
+    },
+    "tlg0031": {
+        "name": "New Testament",
+        "century": 1,
+        "type": "Christian"
+    },
+    "tlg0032": {
+        "name": "Xenophon",
+        "century": -5,
+        "type": "Historian"
+    },
+    "tlg0033": {
+        "name": "Pindar",
+        "century": -6,
+        "type": "Poet"
+    },
+    "tlg0034": {
+        "name": "Lycurgus",
+        "century": -4,
+        "type": "Rhetorician"
+    },
+    "tlg0035": {
+        "name": "Moschus",
+        "century": -2,
+        "type": "Poet"
+    },
+    "tlg0036": {
+        "name": "Bion of Phlossa",
+        "century": -2,
+        "type": "Poet"
+    },
+    "tlg0037": {
+        "name": "Anacharsis",
+        "century": -6,
+        "type": "Pre-Socratic"
+    },
+    "tlg0039": {
+        "name": "Mithridatis Epistula",
+        "century": -1,
+        "type": "Epistolary"
+    },
+    "tlg0041": {
+        "name": "Chionis Epistulae",
+        "century": -3,
+        "type": "Epistolary"
+    },
+    "tlg0044": {
+        "name": "Antiochus Epistolographus",
+        "century": -3,
+        "type": "Epistolary"
+    },
+    "tlg0045": {
+        "name": "Artaxerxis Epistulae",
+        "century": -5,
+        "type": "Epistolary"
+    },
+    "tlg0046": {
+        "name": "Niciae Epistula",
+        "century": -5,
+        "type": "Epistolary"
+    },
+    "tlg0048": {
+        "name": "Philip II, King of Macedonia",
+        "century": -4,
+        "type": "Epistolary"
+    },
+    "tlg0053": {
+        "name": "Phalaridis Epistulae",
+        "century": -4,
+        "type": "Epistolary"
+    },
+    "tlg0055": {
+        "name": "Themistocles",
+        "century": -5,
+        "type": "Epistolary"
+    },
+    "tlg0057": {
+        "name": "Galen",
+        "century": 2,
+        "type": "Physician"
+    },
+    "tlg0058": {
+        "name": "Aeneas Tacticus",
+        "century": -4,
+        "type": "Military"
+    },
+    "tlg0059": {
+        "name": "Plato",
+        "century": -4,
+        "type": "Platonic"
+    },
+    "tlg0060": {
+        "name": "Diodorus Siculus",
+        "century": -1,
+        "type": "Historian"
+    },
+    "tlg0061": {
+        "name": "Pseudo-Lucian",
+        "century": 2,
+        "type": "Satirist"
+    },
+    "tlg0062": {
+        "name": "Lucian of Samosata",
+        "century": 2,
+        "type": "Satirist"
+    },
+    "tlg0064": {
+        "name": "Hanno",
+        "century": -5,
+        "type": "Explorer"
+    },
+    "tlg0065": {
+        "name": "Scylax of Caryanda",
+        "century": -6,
+        "type": "Geographer"
+    },
+    "tlg0066": {
+        "name": "Heraclides, Criticus",
+        "century": -3,
+        "type": "Geographer"
+    },
+    "tlg0067": {
+        "name": "Agatharchides",
+        "century": -2,
+        "type": "Geographer"
+    },
+    "tlg0068": {
+        "name": "Pseudo-Scymnus",
+        "century": -2,
+        "type": "Geographer"
+    },
+    "tlg0069": {
+        "name": "Dionysius, Calliphontis",
+        "century": -1,
+        "type": "Geographer"
+    },
+    "tlg0070": {
+        "name": "Isidore, of Charax",
+        "century": 1,
+        "type": "Geographer"
+    },
+    "tlg0071": {
+        "name": "Pseudo-Arrianus",
+        "century": 2,
+        "type": "Geographer"
+    },
+    "tlg0074": {
+        "name": "Arrian",
+        "century": 2,
+        "type": "Historian"
+    },
+    "tlg0075": {
+        "name": "Pseudo-Arrianus",
+        "century": 2,
+        "type": "Geographer"
+    },
+    "tlg0077": {
+        "name": "Stadiasmus Magni Maris",
+        "century": 3,
+        "type": "Geographer"
+    },
+    "tlg0081": {
+        "name": "Dionysius of Halicarnassus",
+        "century": -1,
+        "type": "Historian"
+    },
+    "tlg0082": {
+        "name": "Apollonius Dyscolus",
+        "century": 2,
+        "type": "Grammarian"
+    },
+    "tlg0083": {
+        "name": "Dionysius of Byzantium",
+        "century": 2,
+        "type": "Geographer"
+    },
+    "tlg0084": {
+        "name": "Dionysius Periegetes",
+        "century": 2,
+        "type": "Geographer"
+    },
+    "tlg0085": {
+        "name": "Aeschylus",
+        "century": -5,
+        "type": "Poet"
+    },
+    "tlg0086": {
+        "name": "Aristotle",
+        "century": -4,
+        "type": "Peripatetic"
+    },
+    "tlg0087": {
+        "name": "Aelius Herodianus",
+        "century": 2,
+        "type": "Grammarian"
+    },
+    "tlg0088": {
+        "name": "Aristoxenus",
+        "century": -4,
+        "type": "Peripatetic"
+    },
+    "tlg0090": {
+        "name": "Agathemerus",
+        "century": 3,
+        "type": "Geographer"
+    },
+    "tlg0092": {
+        "name": "Anonymi Geographiae Expositio Compendiaria",
+        "century": 3,
+        "type": "Geographer"
+    },
+    "tlg0093": {
+        "name": "Theophrastus",
+        "century": -4,
+        "type": "Peripatetic"
+    },
+    "tlg0094": {
+        "name": "Pseudo-Plutarch",
+        "century": 1,
+        "type": "Biographer"
+    },
+    "tlg0096": {
+        "name": "Aesop",
+        "century": -6,
+        "type": "Fabulist"
+    },
+    "tlg0097": {
+        "name": "Diogenianus of Heraclea",
+        "century": 2,
+        "type": "Grammarian"
+    },
+    "tlg0098": {
+        "name": "Zenobius Sophista",
+        "century": 2,
+        "type": "Grammarian"
+    },
+    "tlg0099": {
+        "name": "Strabo",
+        "century": -1,
+        "type": "Geographer"
+    },
+    "tlg0199": {
+        "name": "Bacchylides",
+        "century": -5,
+        "type": "Poet"
+    },
+    "tlg0233": {
+        "name": "Hipponax",
+        "century": -6,
+        "type": "Poet"
+    },
+    "tlg0284": {
+        "name": "Aristides, Aelius",
+        "century": 2,
+        "type": "Rhetorician"
+    },
+    "tlg0317": {
+        "name": "Acta Joannis",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg0319": {
+        "name": "Critias",
+        "century": -5,
+        "type": "Poet"
+    },
+    "tlg0341": {
+        "name": "Lycophron",
+        "century": -3,
+        "type": "Poet"
+    },
+    "tlg0357": {
+        "name": "Didymus Alexandrinus",
+        "century": 4,
+        "type": "Christian"
+    },
+    "tlg0358": {
+        "name": "Nicomachus of Gerasa",
+        "century": 2,
+        "type": "Neopythagorean"
+    },
+    "tlg0361": {
+        "name": "Cleonides",
+        "century": 2,
+        "type": "Music"
+    },
+    "tlg0362": {
+        "name": "Carmina Delphis Inventa",
+        "century": -2,
+        "type": "Religious"
+    },
+    "tlg0363": {
+        "name": "Claudius Ptolemaeus",
+        "century": 2,
+        "type": "Mathematician"
+    },
+    "tlg0385": {
+        "name": "Cassius Dio Cocceianus",
+        "century": 2,
+        "type": "Historian"
+    },
+    "tlg0509": {
+        "name": "Myia",
+        "century": -6,
+        "type": "Pythagorean"
+    },
+    "tlg0521": {
+        "name": "Epicharmus",
+        "century": -5,
+        "type": "Poet"
+    },
+    "tlg0525": {
+        "name": "Pausanias",
+        "century": 2,
+        "type": "Geographer"
+    },
+    "tlg0526": {
+        "name": "Flavius Josephus",
+        "century": 1,
+        "type": "Historian"
+    },
+    "tlg0527": {
+        "name": "Old Testament",
+        "century": -10,
+        "type": "Religious"
+    },
+    "tlg0529": {
+        "name": "Arius Didymus",
+        "century": -1,
+        "type": "Stoic"
+    },
+    "tlg0530": {
+        "name": "Pseudo-Galen",
+        "century": 2,
+        "type": "Physician"
+    },
+    "tlg0532": {
+        "name": "Achilles Tatius",
+        "century": 2,
+        "type": "Novelist"
+    },
+    "tlg0533": {
+        "name": "Callimachus",
+        "century": -3,
+        "type": "Poet"
+    },
+    "tlg0535": {
+        "name": "Demades",
+        "century": -4,
+        "type": "Rhetorician"
+    },
+    "tlg0537": {
+        "name": "Epicurus",
+        "century": -4,
+        "type": "Epicurean"
+    },
+    "tlg0540": {
+        "name": "Lysias",
+        "century": -5,
+        "type": "Rhetorician"
+    },
+    "tlg0541": {
+        "name": "Menander",
+        "century": -4,
+        "type": "Poet"
+    },
+    "tlg0542": {
+        "name": "Julius Pollux",
+        "century": 2,
+        "type": "Grammarian"
+    },
+    "tlg0543": {
+        "name": "Polybius",
+        "century": -2,
+        "type": "Historian"
+    },
+    "tlg0544": {
+        "name": "Sextus Empiricus",
+        "century": 2,
+        "type": "Skeptic"
+    },
+    "tlg0545": {
+        "name": "Aelian",
+        "century": 2,
+        "type": "Miscellaneous"
+    },
+    "tlg0548": {
+        "name": "Apollodorus",
+        "century": 1,
+        "type": "Mythographer"
+    },
+    "tlg0550": {
+        "name": "Apollonius of Perga",
+        "century": -3,
+        "type": "Mathematician"
+    },
+    "tlg0551": {
+        "name": "Appianus of Alexandria",
+        "century": 2,
+        "type": "Historian"
+    },
+    "tlg0552": {
+        "name": "Archimedes",
+        "century": -3,
+        "type": "Mathematician"
+    },
+    "tlg0553": {
+        "name": "Artemidorus",
+        "century": 2,
+        "type": "Independent"
+    },
+    "tlg0554": {
+        "name": "tlg0554",
+        "century": 4,
+        "type": "Unknown"
+    },
+    "tlg0555": {
+        "name": "Clement of Alexandria",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg0556": {
+        "name": "Asclepiodotus",
+        "century": -1,
+        "type": "Military"
+    },
+    "tlg0557": {
+        "name": "Epictetus",
+        "century": 1,
+        "type": "Stoic"
+    },
+    "tlg0559": {
+        "name": "Hero of Alexandria",
+        "century": 1,
+        "type": "Engineer"
+    },
+    "tlg0560": {
+        "name": "Longinus",
+        "century": 3,
+        "type": "Rhetorician"
+    },
+    "tlg0561": {
+        "name": "Longus",
+        "century": 2,
+        "type": "Novelist"
+    },
+    "tlg0562": {
+        "name": "Marcus Aurelius",
+        "century": 2,
+        "type": "Stoic"
+    },
+    "tlg0563": {
+        "name": "Maximus of Tyre",
+        "century": 2,
+        "type": "Platonist"
+    },
+    "tlg0564": {
+        "name": "Rufus of Ephesus",
+        "century": 1,
+        "type": "Physician"
+    },
+    "tlg0565": {
+        "name": "Soranus",
+        "century": 2,
+        "type": "Physician"
+    },
+    "tlg0572": {
+        "name": "Gaius Romanus",
+        "century": 2,
+        "type": "Jurist"
+    },
+    "tlg0575": {
+        "name": "Moschion Gnomologus",
+        "century": 2,
+        "type": "Unknown"
+    },
+    "tlg0579": {
+        "name": "Orphica",
+        "century": -6,
+        "type": "Religious"
+    },
+    "tlg0580": {
+        "name": "Paradoxographus Florentinus",
+        "century": 2,
+        "type": "Paradoxographer"
+    },
+    "tlg0591": {
+        "name": "Antisthenes",
+        "century": -5,
+        "type": "Cynic"
+    },
+    "tlg0592": {
+        "name": "Hermogenes",
+        "century": 2,
+        "type": "Rhetorician"
+    },
+    "tlg0593": {
+        "name": "Gorgias of Leontini",
+        "century": -5,
+        "type": "Sophist"
+    },
+    "tlg0594": {
+        "name": "Alexander Numenius",
+        "century": 2,
+        "type": "Rhetorician"
+    },
+    "tlg0606": {
+        "name": "Rufus Soph.",
+        "century": 1,
+        "type": "Grammarian"
+    },
+    "tlg0607": {
+        "name": "Aelius Theon",
+        "century": 1,
+        "type": "Rhetorician"
+    },
+    "tlg0609": {
+        "name": "Tryphon I Grammaticus",
+        "century": -1,
+        "type": "Grammarian"
+    },
+    "tlg0610": {
+        "name": "Alcidamas",
+        "century": -4,
+        "type": "Rhetorician"
+    },
+    "tlg0612": {
+        "name": "Dio Chrysostom",
+        "century": 1,
+        "type": "Rhetorician"
+    },
+    "tlg0613": {
+        "name": "Demetrius of Phaleron",
+        "century": -4,
+        "type": "Peripatetic"
+    },
+    "tlg0614": {
+        "name": "Babrius",
+        "century": 1,
+        "type": "Fabulist"
+    },
+    "tlg0615": {
+        "name": "Aspasius",
+        "century": 2,
+        "type": "Peripatetic"
+    },
+    "tlg0616": {
+        "name": "Polyaenus Macedo",
+        "century": 2,
+        "type": "Military"
+    },
+    "tlg0618": {
+        "name": "Antigoni Epistula",
+        "century": -3,
+        "type": "Epistolary"
+    },
+    "tlg0620": {
+        "name": "Archytas of Tarentum",
+        "century": -4,
+        "type": "Pythagorean"
+    },
+    "tlg0623": {
+        "name": "Cratetis Epistulae",
+        "century": -3,
+        "type": "Cynic"
+    },
+    "tlg0626": {
+        "name": "Heraclitus of Ephesus",
+        "century": -6,
+        "type": "Pre-Socratic"
+    },
+    "tlg0627": {
+        "name": "Hippocrates",
+        "century": -5,
+        "type": "Physician"
+    },
+    "tlg0628": {
+        "name": "Musonius Rufus",
+        "century": 1,
+        "type": "Stoic"
+    },
+    "tlg0629": {
+        "name": "Periander",
+        "century": -6,
+        "type": "Pre-Socratic"
+    },
+    "tlg0632": {
+        "name": "Pythagoras",
+        "century": -6,
+        "type": "Pythagorean"
+    },
+    "tlg0633": {
+        "name": "Lysis",
+        "century": -4,
+        "type": "Pythagorean"
+    },
+    "tlg0634": {
+        "name": "Xenocrates of Chalcedon",
+        "century": -4,
+        "type": "Platonic"
+    },
+    "tlg0636": {
+        "name": "Socrates Epistulae",
+        "century": -4,
+        "type": "Epistolary"
+    },
+    "tlg0637": {
+        "name": "Socraticorum Epistulae",
+        "century": -4,
+        "type": "Epistolary"
+    },
+    "tlg0638": {
+        "name": "Philostratus the Athenian",
+        "century": 3,
+        "type": "Sophist"
+    },
+    "tlg0639": {
+        "name": "Menecrates Medicus",
+        "century": -4,
+        "type": "Physician"
+    },
+    "tlg0640": {
+        "name": "Alciphron",
+        "century": 2,
+        "type": "Epistolary"
+    },
+    "tlg0641": {
+        "name": "Xenophon of Ephesus",
+        "century": 2,
+        "type": "Novelist"
+    },
+    "tlg0643": {
+        "name": "Anonymus Londinensis",
+        "century": 1,
+        "type": "Medical"
+    },
+    "tlg0644": {
+        "name": "Aristophanes of Byzantium",
+        "century": -3,
+        "type": "Grammarian"
+    },
+    "tlg0645": {
+        "name": "Justin Martyr",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg0646": {
+        "name": "Pseudo-Justinus Martyr",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg0647": {
+        "name": "Tryphiodorus",
+        "century": 5,
+        "type": "Poet"
+    },
+    "tlg0648": {
+        "name": "Onasander",
+        "century": 1,
+        "type": "Military"
+    },
+    "tlg0649": {
+        "name": "Lesbonax (Rhetorician)",
+        "century": 1,
+        "type": "Rhetorician"
+    },
+    "tlg0652": {
+        "name": "Philostratus Minor",
+        "century": 3,
+        "type": "Sophist"
+    },
+    "tlg0653": {
+        "name": "Aratus Solensis",
+        "century": -3,
+        "type": "Poet"
+    },
+    "tlg0655": {
+        "name": "Parthenius of Nicaea",
+        "century": -1,
+        "type": "Poet"
+    },
+    "tlg0656": {
+        "name": "Dioscurides Pedianus",
+        "century": 1,
+        "type": "Physician"
+    },
+    "tlg0657": {
+        "name": "Crateuas",
+        "century": -1,
+        "type": "Physician"
+    },
+    "tlg0658": {
+        "name": "Heliodorus of Emesa",
+        "century": 3,
+        "type": "Novelist"
+    },
+    "tlg0666": {
+        "name": "Adrianus of Tyre",
+        "century": 2,
+        "type": "Sophist"
+    },
+    "tlg0671": {
+        "name": "Philumenus",
+        "century": 3,
+        "type": "Physician"
+    },
+    "tlg0676": {
+        "name": "Aglaias, Byzantius",
+        "century": 4,
+        "type": "Poet"
+    },
+    "tlg0693": {
+        "name": "Albinus",
+        "century": 2,
+        "type": "Platonist"
+    },
+    "tlg0708": {
+        "name": "Ammonius Grammaticus",
+        "century": 4,
+        "type": "Grammarian"
+    },
+    "tlg0719": {
+        "name": "Aretaeus of Cappadocia",
+        "century": 2,
+        "type": "Physician"
+    },
+    "tlg0731": {
+        "name": "Adamantius Judaeus",
+        "century": 4,
+        "type": "Physician"
+    },
+    "tlg0732": {
+        "name": "Alexander of Aphrodisias",
+        "century": 2,
+        "type": "Peripatetic"
+    },
+    "tlg0733": {
+        "name": "Cassius Iatrosophista",
+        "century": 3,
+        "type": "Physician"
+    },
+    "tlg0751": {
+        "name": "Pseudo-Hippocrates",
+        "century": -5,
+        "type": "Physician"
+    },
+    "tlg1118": {
+        "name": "Pseudo-Dioscorides",
+        "century": 1,
+        "type": "Physician"
+    },
+    "tlg1126": {
+        "name": "Anubion, Poeta Astrologus",
+        "century": 1,
+        "type": "Astrologer"
+    },
+    "tlg1129": {
+        "name": "Anonymi de Barbarismo et Soloecismo",
+        "century": 2,
+        "type": "Grammarian"
+    },
+    "tlg1131": {
+        "name": "Anonymus Ad Avircium Marcellum contra Cataphrygas",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg1134": {
+        "name": "Anonymous Iamblichi",
+        "century": -5,
+        "type": "Sophist"
+    },
+    "tlg1146": {
+        "name": "Antipater Tarsensis",
+        "century": -2,
+        "type": "Stoic"
+    },
+    "tlg1147": {
+        "name": "Antiphon of Athens",
+        "century": -5,
+        "type": "Sophist"
+    },
+    "tlg1181": {
+        "name": "Aristarchus of Samos",
+        "century": -3,
+        "type": "Astronomer"
+    },
+    "tlg1188": {
+        "name": "Aristocles of Messene",
+        "century": 2,
+        "type": "Peripatetic"
+    },
+    "tlg1193": {
+        "name": "Ariston of Chios",
+        "century": -3,
+        "type": "Stoic"
+    },
+    "tlg1194": {
+        "name": "Aristonicus of Alexandria",
+        "century": -2,
+        "type": "Grammarian"
+    },
+    "tlg1205": {
+        "name": "Athenagoras",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg1210": {
+        "name": "Autolycus",
+        "century": -4,
+        "type": "Mathematician"
+    },
+    "tlg1216": {
+        "name": "Barnabae Epistula",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg1220": {
+        "name": "Batrachomyomachia",
+        "century": -1,
+        "type": "Poet"
+    },
+    "tlg1247": {
+        "name": "Cebes",
+        "century": -4,
+        "type": "Socratic"
+    },
+    "tlg1252": {
+        "name": "Certamen Homeri et Hesiodi",
+        "century": 2,
+        "type": "Literary"
+    },
+    "tlg1264": {
+        "name": "Chrysippus",
+        "century": -3,
+        "type": "Stoic"
+    },
+    "tlg1269": {
+        "name": "Cleanthes",
+        "century": -3,
+        "type": "Stoic"
+    },
+    "tlg1271": {
+        "name": "Clemens Romanus (Clement of Rome)",
+        "century": 1,
+        "type": "Christian"
+    },
+    "tlg1272": {
+        "name": "Cleomedes",
+        "century": 1,
+        "type": "Stoic"
+    },
+    "tlg1286": {
+        "name": "Hermetica",
+        "century": 1,
+        "type": "Religious"
+    },
+    "tlg1287": {
+        "name": "Crantor",
+        "century": -4,
+        "type": "Platonic"
+    },
+    "tlg1304": {
+        "name": "Democritus",
+        "century": -5,
+        "type": "Pre-Socratic"
+    },
+    "tlg1309": {
+        "name": "Dialexeis",
+        "century": -5,
+        "type": "Sophist"
+    },
+    "tlg1311": {
+        "name": "Didache",
+        "century": 1,
+        "type": "Christian"
+    },
+    "tlg1319": {
+        "name": "Diogenes of Apollonia",
+        "century": -5,
+        "type": "Pre-Socratic"
+    },
+    "tlg1320": {
+        "name": "Diogenes Babylonius",
+        "century": -2,
+        "type": "Stoic"
+    },
+    "tlg1325": {
+        "name": "Diogenes Sinopensis Epistulae",
+        "century": 1,
+        "type": "Cynic"
+    },
+    "tlg1329": {
+        "name": "Dionysius Corinthius",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg1337": {
+        "name": "Dorotheus of Sidon",
+        "century": 1,
+        "type": "Astrologer"
+    },
+    "tlg1347": {
+        "name": "Epimenides",
+        "century": -6,
+        "type": "Pre-Socratic"
+    },
+    "tlg1367": {
+        "name": "Euripides Epistulae",
+        "century": -4,
+        "type": "Epistolary"
+    },
+    "tlg1383": {
+        "name": "Geminus",
+        "century": 1,
+        "type": "Mathematician"
+    },
+    "tlg1389": {
+        "name": "Harpocration",
+        "century": 2,
+        "type": "Grammarian"
+    },
+    "tlg1390": {
+        "name": "Hecataeus of Abderita",
+        "century": -4,
+        "type": "Historian"
+    },
+    "tlg1402": {
+        "name": "Hephaestion",
+        "century": 2,
+        "type": "Grammarian"
+    },
+    "tlg1409": {
+        "name": "Heraclides Ponticus",
+        "century": -4,
+        "type": "Platonic"
+    },
+    "tlg1413": {
+        "name": "Heraclitus Paradoxographus",
+        "century": 1,
+        "type": "Paradoxographer"
+    },
+    "tlg1414": {
+        "name": "Heraclitus",
+        "century": -6,
+        "type": "Pre-Socratic"
+    },
+    "tlg1416": {
+        "name": "Philo of Byblos",
+        "century": 1,
+        "type": "Historian"
+    },
+    "tlg1419": {
+        "name": "Hermas, 2nd cent.",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg1431": {
+        "name": "Hipparchus",
+        "century": -2,
+        "type": "Astronomer"
+    },
+    "tlg1434": {
+        "name": "Hippias of Elis",
+        "century": -5,
+        "type": "Sophist"
+    },
+    "tlg1441": {
+        "name": "Iamblichus (Scr. Erot.)",
+        "century": 2,
+        "type": "Novelist"
+    },
+    "tlg1443": {
+        "name": "Ignatius of Antioch",
+        "century": 1,
+        "type": "Christian"
+    },
+    "tlg1447": {
+        "name": "Irenaeus, Saint, Bishop of Lyon",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg1463": {
+        "name": "Liber Enoch",
+        "century": -3,
+        "type": "Religious"
+    },
+    "tlg1482": {
+        "name": "Cyranides",
+        "century": 4,
+        "type": "Magical"
+    },
+    "tlg1484": {
+        "name": "Martyrium Polycarpi",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg1486": {
+        "name": "Matron of Pitana",
+        "century": 3,
+        "type": "Parodist"
+    },
+    "tlg1487": {
+        "name": "Maximus, Astrologus",
+        "century": 4,
+        "type": "Astrologer"
+    },
+    "tlg1542": {
+        "name": "Numenius of Apamea",
+        "century": 2,
+        "type": "Neopythagorean"
+    },
+    "tlg1548": {
+        "name": "Oenomaus of Gadara",
+        "century": 2,
+        "type": "Cynic"
+    },
+    "tlg1551": {
+        "name": "Oracula Sibyllina",
+        "century": -2,
+        "type": "Religious"
+    },
+    "tlg1553": {
+        "name": "Palaiphatos",
+        "century": -4,
+        "type": "Mythographer"
+    },
+    "tlg1562": {
+        "name": "Parmenides",
+        "century": -5,
+        "type": "Pre-Socratic"
+    },
+    "tlg1595": {
+        "name": "Philodemus",
+        "century": -1,
+        "type": "Epicurean"
+    },
+    "tlg1596": {
+        "name": "Philolaus of Croton",
+        "century": -5,
+        "type": "Pythagorean"
+    },
+    "tlg1600": {
+        "name": "Philostratus Sophista",
+        "century": 3,
+        "type": "Sophist"
+    },
+    "tlg1602": {
+        "name": "Philoxenus of Alexandria",
+        "century": -1,
+        "type": "Grammarian"
+    },
+    "tlg1617": {
+        "name": "Marcus Antonius Polemon",
+        "century": 2,
+        "type": "Sophist"
+    },
+    "tlg1622": {
+        "name": "Polycarp",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg1626": {
+        "name": "Polycrates Ephesius",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg1634": {
+        "name": "Prodicus",
+        "century": -5,
+        "type": "Sophist"
+    },
+    "tlg1664": {
+        "name": "Seniores Alexandrini",
+        "century": 1,
+        "type": "Christian"
+    },
+    "tlg1665": {
+        "name": "Seniores Apud Irenaeum",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg1669": {
+        "name": "Serapion Astrologus",
+        "century": 2,
+        "type": "Astrologer"
+    },
+    "tlg1681": {
+        "name": "Solonis Epistulae",
+        "century": -6,
+        "type": "Epistolary"
+    },
+    "tlg1692": {
+        "name": "Speusippus",
+        "century": -4,
+        "type": "Platonic"
+    },
+    "tlg1699": {
+        "name": "Teles Megarenesis",
+        "century": -3,
+        "type": "Cynic"
+    },
+    "tlg1701": {
+        "name": "Testamentum Abrahae",
+        "century": 1,
+        "type": "Religious"
+    },
+    "tlg1705": {
+        "name": "Thales",
+        "century": -6,
+        "type": "Pre-Socratic"
+    },
+    "tlg1719": {
+        "name": "Theodosius of Bithynia",
+        "century": -2,
+        "type": "Mathematician"
+    },
+    "tlg1724": {
+        "name": "Theon Smyrnaeus",
+        "century": 2,
+        "type": "Platonist"
+    },
+    "tlg1725": {
+        "name": "Theophilus",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg1749": {
+        "name": "Vitae Hesiodi Particula",
+        "century": 2,
+        "type": "Biographer"
+    },
+    "tlg1750": {
+        "name": "Vitae Prophetarum",
+        "century": 1,
+        "type": "Religious"
+    },
+    "tlg1763": {
+        "name": "Tryphon II Grammaticus",
+        "century": 1,
+        "type": "Grammarian"
+    },
+    "tlg1764": {
+        "name": "Vettius Valens",
+        "century": 2,
+        "type": "Astrologer"
+    },
+    "tlg1765": {
+        "name": "Vitae Aesopi",
+        "century": 1,
+        "type": "Biographer"
+    },
+    "tlg1766": {
+        "name": "Tatianus",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg1799": {
+        "name": "Euclid",
+        "century": -3,
+        "type": "Mathematician"
+    },
+    "tlg1801": {
+        "name": "Parodica Anonyma",
+        "century": -3,
+        "type": "Parodist"
+    },
+    "tlg1802": {
+        "name": "Versus heroici",
+        "century": 2,
+        "type": "Poet"
+    },
+    "tlg1803": {
+        "name": "Bruti Epistulae",
+        "century": -1,
+        "type": "Epistolary"
+    },
+    "tlg1805": {
+        "name": "Vitae Homeri",
+        "century": 2,
+        "type": "Biographer"
+    },
+    "tlg2000": {
+        "name": "Plotinus",
+        "century": 3,
+        "type": "Neoplatonist"
+    },
+    "tlg2001": {
+        "name": "Themistius",
+        "century": 4,
+        "type": "Peripatetic"
+    },
+    "tlg2003": {
+        "name": "Julian, Emperor of Rome",
+        "century": 4,
+        "type": "Neoplatonist"
+    },
+    "tlg2016": {
+        "name": "Martyrium Perpetuae et Felcitatis",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg2018": {
+        "name": "Eusebius of Caesarea",
+        "century": 4,
+        "type": "Christian"
+    },
+    "tlg2021": {
+        "name": "Epiphanius",
+        "century": 4,
+        "type": "Christian"
+    },
+    "tlg2022": {
+        "name": "Gregory of Nazianzus",
+        "century": 4,
+        "type": "Christian"
+    },
+    "tlg2023": {
+        "name": "Iamblichus",
+        "century": 3,
+        "type": "Neoplatonist"
+    },
+    "tlg2027": {
+        "name": "Valerius Apsines",
+        "century": 3,
+        "type": "Rhetorician"
+    },
+    "tlg2029": {
+        "name": "Anonymi summaria ratio geographiae in sphaera intelligendae",
+        "century": 3,
+        "type": "Geographer"
+    },
+    "tlg2032": {
+        "name": "Pappus Alexandrinus",
+        "century": 4,
+        "type": "Mathematician"
+    },
+    "tlg2034": {
+        "name": "Porphyrius",
+        "century": 3,
+        "type": "Neoplatonist"
+    },
+    "tlg2035": {
+        "name": "Athanasius",
+        "century": 4,
+        "type": "Christian"
+    },
+    "tlg2036": {
+        "name": "Dexippus",
+        "century": 3,
+        "type": "Historian"
+    },
+    "tlg2038": {
+        "name": "Acta Thomae",
+        "century": 3,
+        "type": "Christian"
+    },
+    "tlg2039": {
+        "name": "Diophantus Alexandrinus",
+        "century": 3,
+        "type": "Mathematician"
+    },
+    "tlg2040": {
+        "name": "Basil, Saint, Bishop of Caesarea",
+        "century": 4,
+        "type": "Christian"
+    },
+    "tlg2041": {
+        "name": "Marcellus of Ankara",
+        "century": 4,
+        "type": "Christian"
+    },
+    "tlg2042": {
+        "name": "Origen",
+        "century": 3,
+        "type": "Christian"
+    },
+    "tlg2045": {
+        "name": "Nonnus of Panopolis",
+        "century": 5,
+        "type": "Poet"
+    },
+    "tlg2046": {
+        "name": "Quintus Smyrnaeus",
+        "century": 4,
+        "type": "Poet"
+    },
+    "tlg2048": {
+        "name": "Sozomenus",
+        "century": 5,
+        "type": "Christian"
+    },
+    "tlg2049": {
+        "name": "Sallustius",
+        "century": 4,
+        "type": "Neoplatonist"
+    },
+    "tlg2050": {
+        "name": "Eunapius",
+        "century": 4,
+        "type": "Historian"
+    },
+    "tlg2057": {
+        "name": "Socrates Scholasticus",
+        "century": 5,
+        "type": "Christian"
+    },
+    "tlg2058": {
+        "name": "Philostorgius",
+        "century": 5,
+        "type": "Christian"
+    },
+    "tlg2115": {
+        "name": "Hippolytus",
+        "century": 2,
+        "type": "Christian"
+    },
+    "tlg2135": {
+        "name": "Alypius",
+        "century": 4,
+        "type": "Music"
+    },
+    "tlg2136": {
+        "name": "Bacchius Geron",
+        "century": 4,
+        "type": "Music"
+    },
+    "tlg2137": {
+        "name": "Gaudentius",
+        "century": 4,
+        "type": "Music"
+    },
+    "tlg2138": {
+        "name": "Canticum Euripidis",
+        "century": 2,
+        "type": "Music"
+    },
+    "tlg2139": {
+        "name": "Epitaphium Sicili",
+        "century": 2,
+        "type": "Epitaph"
+    },
+    "tlg2140": {
+        "name": "Iamblichus Alchemista",
+        "century": 3,
+        "type": "Alchemist"
+    },
+    "tlg2178": {
+        "name": "Cassius Longinus",
+        "century": 3,
+        "type": "Rhetorician"
+    },
+    "tlg2189": {
+        "name": "Callinicus",
+        "century": 4,
+        "type": "Rhetorician"
+    },
+    "tlg2200": {
+        "name": "Libanius",
+        "century": 4,
+        "type": "Rhetorician"
+    },
+    "tlg2233": {
+        "name": "Pseudo-Polemon",
+        "century": 4,
+        "type": "Physiognomist"
+    },
+    "tlg2371": {
+        "name": "Chronicon Paschale",
+        "century": 7,
+        "type": "Christian"
+    },
+    "tlg2583": {
+        "name": "Manetho Astrologus",
+        "century": 4,
+        "type": "Astrologer"
+    },
+    "tlg2586": {
+        "name": "Menander Rhetor",
+        "century": 3,
+        "type": "Rhetorician"
+    },
+    "tlg2601": {
+        "name": "Tiberius Rhetor",
+        "century": 3,
+        "type": "Rhetorician"
+    },
+    "tlg2632": {
+        "name": "Comarius",
+        "century": 1,
+        "type": "Alchemist"
+    },
+    "tlg2640": {
+        "name": "Eusebius Myndius",
+        "century": 4,
+        "type": "Neoplatonist"
+    },
+    "tlg2655": {
+        "name": "Damigeron",
+        "century": 4,
+        "type": "Magical"
+    },
+    "tlg2691": {
+        "name": "Musaeus, Eleusinius",
+        "century": 5,
+        "type": "Poet"
+    },
+    "tlg2703": {
+        "name": "Anna Comnena",
+        "century": 12,
+        "type": "Historian"
+    },
+    "tlg2733": {
+        "name": "Evagrius, Scholasticus",
+        "century": 6,
+        "type": "Christian"
+    },
+    "tlg2768": {
+        "name": "Gelasius",
+        "century": 5,
+        "type": "Christian"
+    },
+    "tlg2806": {
+        "name": "Marcus Diaconus",
+        "century": 5,
+        "type": "Christian"
+    },
+    "tlg2934": {
+        "name": "John of Damascus, Saint",
+        "century": 8,
+        "type": "Christian"
+    },
+    "tlg2948": {
+        "name": "Acta Philippi",
+        "century": 4,
+        "type": "Christian"
+    },
+    "tlg2949": {
+        "name": "Acta Barnabae",
+        "century": 5,
+        "type": "Christian"
+    },
+    "tlg2959": {
+        "name": "Methodius",
+        "century": 3,
+        "type": "Christian"
+    },
+    "tlg2970": {
+        "name": "Severus Philosophus",
+        "century": 5,
+        "type": "Neoplatonist"
+    },
+    "tlg2972": {
+        "name": "Anonymi de Terrae Motibus",
+        "century": 6,
+        "type": "Scientific"
+    },
+    "tlg3118": {
+        "name": "Syntipas",
+        "century": 11,
+        "type": "Fabulist"
+    },
+    "tlg3129": {
+        "name": "Theophylactus",
+        "century": 11,
+        "type": "Christian"
+    },
+    "tlg3135": {
+        "name": "Zonaras",
+        "century": 12,
+        "type": "Historian"
+    },
+    "tlg3156": {
+        "name": "Anonymi Exegesis in Hesiodi Theogoniam",
+        "century": 12,
+        "type": "Commentator"
+    },
+    "tlg4003": {
+        "name": "Marcianus, of Heraclea",
+        "century": 5,
+        "type": "Geographer"
+    },
+    "tlg4013": {
+        "name": "Simplicius",
+        "century": 6,
+        "type": "Neoplatonist"
+    },
+    "tlg4015": {
+        "name": "John Philoponus",
+        "century": 6,
+        "type": "Christian"
+    },
+    "tlg4016": {
+        "name": "Ammonius",
+        "century": 5,
+        "type": "Neoplatonist"
+    },
+    "tlg4017": {
+        "name": "Syrianus",
+        "century": 5,
+        "type": "Neoplatonist"
+    },
+    "tlg4018": {
+        "name": "Asclepius",
+        "century": 6,
+        "type": "Neoplatonist"
+    },
+    "tlg4019": {
+        "name": "Olympiodorus",
+        "century": 6,
+        "type": "Neoplatonist"
+    },
+    "tlg4020": {
+        "name": "Elias Neoplatonicus",
+        "century": 6,
+        "type": "Neoplatonist"
+    },
+    "tlg4021": {
+        "name": "David the Invincible",
+        "century": 6,
+        "type": "Neoplatonist"
+    },
+    "tlg4024": {
+        "name": "Agathias Scholasticus",
+        "century": 6,
+        "type": "Historian"
+    },
+    "tlg4026": {
+        "name": "Anonymi in Aristotelis Artem Rhetoricam",
+        "century": 5,
+        "type": "Commentator"
+    },
+    "tlg4027": {
+        "name": "Anonymi In Aristotelis Categorias",
+        "century": 6,
+        "type": "Commentator"
+    },
+    "tlg4029": {
+        "name": "Procopius",
+        "century": 6,
+        "type": "Historian"
+    },
+    "tlg4030": {
+        "name": "Sophonias",
+        "century": 13,
+        "type": "Commentator"
+    },
+    "tlg4031": {
+        "name": "Eustratius",
+        "century": 11,
+        "type": "Commentator"
+    },
+    "tlg4033": {
+        "name": "Anonymi In Aristotelis Ethica Nicomachea",
+        "century": 12,
+        "type": "Commentator"
+    },
+    "tlg4034": {
+        "name": "Michael of Ephesus",
+        "century": 11,
+        "type": "Commentator"
+    },
+    "tlg4036": {
+        "name": "Proclus",
+        "century": 5,
+        "type": "Neoplatonist"
+    },
+    "tlg4037": {
+        "name": "Anonymi Paradoxographi",
+        "century": 2,
+        "type": "Paradoxographer"
+    },
+    "tlg4072": {
+        "name": "Eutocius",
+        "century": 6,
+        "type": "Mathematician"
+    },
+    "tlg4075": {
+        "name": "Marinus, 5th century",
+        "century": 5,
+        "type": "Neoplatonist"
+    },
+    "tlg4081": {
+        "name": "Colluthus of Lycopolis",
+        "century": 5,
+        "type": "Poet"
+    },
+    "tlg4084": {
+        "name": "Zosimus",
+        "century": 5,
+        "type": "Historian"
+    },
+    "tlg4086": {
+        "name": "Agathodaemon",
+        "century": 2,
+        "type": "Alchemist"
+    },
+    "tlg4089": {
+        "name": "Theodoretus",
+        "century": 5,
+        "type": "Christian"
+    },
+    "tlg4090": {
+        "name": "Cyril of Alexandria",
+        "century": 5,
+        "type": "Christian"
+    },
+    "tlg4091": {
+        "name": "Callistratus",
+        "century": 3,
+        "type": "Rhetorician"
+    },
+    "tlg4102": {
+        "name": "Catenae (Novum Testamentum)",
+        "century": 5,
+        "type": "Christian"
+    },
+    "tlg4170": {
+        "name": "Vitae Pindari et varia de Pindaro",
+        "century": 2,
+        "type": "Biographer"
+    },
+    "tlg4174": {
+        "name": "Paraphrases in Dioynsium Periegetam",
+        "century": 4,
+        "type": "Commentator"
+    },
+    "tlg4193": {
+        "name": "Anonymi In Aristotelis Sophisticos Elenchos",
+        "century": 6,
+        "type": "Commentator"
+    },
+    "tlg5019": {
+        "name": "Scholia in Dionysium Periegetam",
+        "century": 4,
+        "type": "Commentator"
+    },
+    "tlg5022": {
+        "name": "Scholia in Euclidem",
+        "century": 4,
+        "type": "Commentator"
+    },
+    "tlg5023": {
+        "name": "Scholia in Euripidem",
+        "century": 2,
+        "type": "Commentator"
+    },
+    "tlg5026": {
+        "name": "Scholia in Homerum",
+        "century": 2,
+        "type": "Commentator"
+    },
+    "tlg5028": {
+        "name": "Scholia in Isocratem",
+        "century": 2,
+        "type": "Commentator"
+    },
+    "tlg5029": {
+        "name": "Scholia in Lucianum",
+        "century": 9,
+        "type": "Commentator"
+    },
+    "tlg5031": {
+        "name": "Scholia in Nicandrum",
+        "century": 2,
+        "type": "Commentator"
+    },
+    "tlg5034": {
+        "name": "Scholia in Pindarum",
+        "century": 2,
+        "type": "Commentator"
+    },
+    "tlg5037": {
+        "name": "Scholia in Sophoclem",
+        "century": 1,
+        "type": "Commentator"
+    },
+    "tlg7000": {
+        "name": "Greek Anthology",
+        "century": -6,
+        "type": "Anthology"
+    },
+    "tlg9004": {
+        "name": "Anonymi In Aristotelis Librum Alterum Analyticorum Posteriorum",
+        "century": 6,
+        "type": "Commentator"
+    },
+    "tlg9006": {
+        "name": "Gregory II, of Cyprus, Patriarch of Constantinople",
+        "century": 13,
+        "type": "Christian"
+    },
+    "tlg9007": {
+        "name": "Appendix Proverbiorum",
+        "century": 2,
+        "type": "Gnomologist"
+    },
+    "tlg9010": {
+        "name": "Suda",
+        "century": 10,
+        "type": "Lexicographer"
+    },
+    "tlg9019": {
+        "name": "Stephanus of Alexandria",
+        "century": 7,
+        "type": "Neoplatonist"
+    }
+}

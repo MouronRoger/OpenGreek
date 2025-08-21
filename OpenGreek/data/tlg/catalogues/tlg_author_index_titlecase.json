@@ -1,0 +1,9117 @@
+{
+  "tlg0001": {
+    "century": -5,
+    "name": "Apollonius Rhodius",
+    "type": "Poet"
+  },
+  "tlg0002": {
+    "century": -5,
+    "name": "Theognis",
+    "type": "Poet"
+  },
+  "tlg0003": {
+    "century": -5,
+    "name": "Thucydides",
+    "type": "Poet"
+  },
+  "tlg0004": {
+    "century": -5,
+    "name": "Diogenes Laertius",
+    "type": "Poet"
+  },
+  "tlg0005": {
+    "century": -4,
+    "name": "Theocritus",
+    "type": "Poet"
+  },
+  "tlg0006": {
+    "century": -5,
+    "name": "Euripides",
+    "type": "Poet"
+  },
+  "tlg0007": {
+    "century": -1,
+    "name": "Plutarchus",
+    "type": "Poet"
+  },
+  "tlg0008": {
+    "century": -1,
+    "name": "Athenaeus",
+    "type": "Poet"
+  },
+  "tlg0009": {
+    "century": -7,
+    "name": "Sappho",
+    "type": "Poet"
+  },
+  "tlg0010": {
+    "century": -3,
+    "name": "Isocrates",
+    "type": "Poet"
+  },
+  "tlg0011": {
+    "century": -4,
+    "name": "Sophocles",
+    "type": "Poet"
+  },
+  "tlg0012": {
+    "century": -6,
+    "name": "Homerus",
+    "type": "Poet"
+  },
+  "tlg0013": {
+    "century": -4,
+    "name": "Hymni Homerici",
+    "type": "Poet"
+  },
+  "tlg0014": {
+    "century": -2,
+    "name": "Demosthenes",
+    "type": "Poet"
+  },
+  "tlg0015": {
+    "century": -2,
+    "name": "Herodianus",
+    "type": "Poet"
+  },
+  "tlg0016": {
+    "century": -7,
+    "name": "Herodotus",
+    "type": "Poet"
+  },
+  "tlg0017": {
+    "century": -1,
+    "name": "Isaeus",
+    "type": "Poet"
+  },
+  "tlg0018": {
+    "century": -2,
+    "name": "Philo Judaeus",
+    "type": "Poet"
+  },
+  "tlg0019": {
+    "century": -3,
+    "name": "Aristophanes",
+    "type": "Poet"
+  },
+  "tlg0020": {
+    "century": -5,
+    "name": "Hesiodus",
+    "type": "Poet"
+  },
+  "tlg0022": {
+    "century": -1,
+    "name": "Nicander",
+    "type": "Poet"
+  },
+  "tlg0023": {
+    "century": -2,
+    "name": "Oppianus",
+    "type": "Poet"
+  },
+  "tlg0024": {
+    "century": -2,
+    "name": "Oppianus",
+    "type": "Poet"
+  },
+  "tlg0026": {
+    "century": -4,
+    "name": "Aeschines",
+    "type": "Poet"
+  },
+  "tlg0027": {
+    "century": -2,
+    "name": "Andocides",
+    "type": "Poet"
+  },
+  "tlg0028": {
+    "century": -5,
+    "name": "Antiphon",
+    "type": "Poet"
+  },
+  "tlg0029": {
+    "century": -3,
+    "name": "Dinarchus",
+    "type": "Poet"
+  },
+  "tlg0030": {
+    "century": -3,
+    "name": "Hyperides",
+    "type": "Poet"
+  },
+  "tlg0031": {
+    "century": -3,
+    "name": "Novum Testamentum",
+    "type": "Poet"
+  },
+  "tlg0032": {
+    "century": -5,
+    "name": "Xenophon",
+    "type": "Poet"
+  },
+  "tlg0033": {
+    "century": -6,
+    "name": "Pindarus",
+    "type": "Poet"
+  },
+  "tlg0034": {
+    "century": -4,
+    "name": "Lycurgus",
+    "type": "Poet"
+  },
+  "tlg0035": {
+    "century": -2,
+    "name": "Moschus",
+    "type": "Poet"
+  },
+  "tlg0036": {
+    "century": -3,
+    "name": "Bion",
+    "type": "Poet"
+  },
+  "tlg0037": {
+    "century": -6,
+    "name": "Anacharsidis Epistulae",
+    "type": "Poet"
+  },
+  "tlg0038": {
+    "century": -5,
+    "name": "Arcesilai Epistula",
+    "type": "Poet"
+  },
+  "tlg0039": {
+    "century": -3,
+    "name": "Mithridatis Epistula",
+    "type": "Poet"
+  },
+  "tlg0040": {
+    "century": -5,
+    "name": "Calani Epistula",
+    "type": "Poet"
+  },
+  "tlg0041": {
+    "century": -5,
+    "name": "Chionis Epistulae",
+    "type": "Poet"
+  },
+  "tlg0042": {
+    "century": -4,
+    "name": "Alexandri Magni Epistulae",
+    "type": "Poet"
+  },
+  "tlg0043": {
+    "century": -4,
+    "name": "Amasis Epistulae",
+    "type": "Poet"
+  },
+  "tlg0044": {
+    "century": -5,
+    "name": "Antiochi Regis Epistulae",
+    "type": "Poet"
+  },
+  "tlg0045": {
+    "century": -2,
+    "name": "Artaxerxis Epistulae",
+    "type": "Poet"
+  },
+  "tlg0046": {
+    "century": -3,
+    "name": "Niciae Epistula",
+    "type": "Poet"
+  },
+  "tlg0047": {
+    "century": -2,
+    "name": "Pausaniae I Et Xerxis Epistulae",
+    "type": "Poet"
+  },
+  "tlg0048": {
+    "century": -5,
+    "name": "Philippus Ii Rex Macedonum",
+    "type": "Poet"
+  },
+  "tlg0049": {
+    "century": -7,
+    "name": "Pisistrati Epistula",
+    "type": "Poet"
+  },
+  "tlg0050": {
+    "century": -2,
+    "name": "Ptolemaei Ii Philadelphi Et Eleazari Epistulae",
+    "type": "Poet"
+  },
+  "tlg0051": {
+    "century": -4,
+    "name": "〈Melissa〉",
+    "type": "Poet"
+  },
+  "tlg0052": {
+    "century": -1,
+    "name": "Menippus",
+    "type": "Poet"
+  },
+  "tlg0053": {
+    "century": -3,
+    "name": "Phalaridis Epistulae",
+    "type": "Poet"
+  },
+  "tlg0054": {
+    "century": -3,
+    "name": "〈Theano〉",
+    "type": "Poet"
+  },
+  "tlg0055": {
+    "century": -3,
+    "name": "Themistoclis Epistulae",
+    "type": "Poet"
+  },
+  "tlg0056": {
+    "century": -5,
+    "name": "Thrasybuli Epistula",
+    "type": "Poet"
+  },
+  "tlg0057": {
+    "century": -1,
+    "name": "Galenus",
+    "type": "Poet"
+  },
+  "tlg0058": {
+    "century": -4,
+    "name": "Aeneas",
+    "type": "Poet"
+  },
+  "tlg0059": {
+    "century": -5,
+    "name": "Plato",
+    "type": "Poet"
+  },
+  "tlg0060": {
+    "century": -5,
+    "name": "Diodorus Siculus",
+    "type": "Poet"
+  },
+  "tlg0061": {
+    "century": -1,
+    "name": "Pseudo–Lucianus",
+    "type": "Poet"
+  },
+  "tlg0062": {
+    "century": -1,
+    "name": "Lucianus",
+    "type": "Poet"
+  },
+  "tlg0063": {
+    "century": -3,
+    "name": "Dionysius Thrax",
+    "type": "Poet"
+  },
+  "tlg0064": {
+    "century": -4,
+    "name": "Periplus Hannonis",
+    "type": "Poet"
+  },
+  "tlg0065": {
+    "century": -1,
+    "name": "Scylax",
+    "type": "Poet"
+  },
+  "tlg0066": {
+    "century": -4,
+    "name": "Dicaearchus",
+    "type": "Poet"
+  },
+  "tlg0067": {
+    "century": -1,
+    "name": "Agatharchides",
+    "type": "Poet"
+  },
+  "tlg0068": {
+    "century": -4,
+    "name": "Pseudo–Scymnus",
+    "type": "Poet"
+  },
+  "tlg0069": {
+    "century": -5,
+    "name": "Dionysius",
+    "type": "Poet"
+  },
+  "tlg0071": {
+    "century": -4,
+    "name": "Periplus Maris Erythraei",
+    "type": "Poet"
+  },
+  "tlg0072": {
+    "century": -4,
+    "name": "Anonymi Grammatici",
+    "type": "Poet"
+  },
+  "tlg0074": {
+    "century": -2,
+    "name": "Flavius Arrianus",
+    "type": "Poet"
+  },
+  "tlg0075": {
+    "century": -4,
+    "name": "Periplus Ponti Euxini",
+    "type": "Poet"
+  },
+  "tlg0077": {
+    "century": -4,
+    "name": "Periplus Maris Magni",
+    "type": "Poet"
+  },
+  "tlg0079": {
+    "century": -3,
+    "name": "Menippus",
+    "type": "Poet"
+  },
+  "tlg0081": {
+    "century": -3,
+    "name": "Dionysius Halicarnassensis",
+    "type": "Poet"
+  },
+  "tlg0082": {
+    "century": -3,
+    "name": "Apollonius Dyscolus",
+    "type": "Poet"
+  },
+  "tlg0083": {
+    "century": -5,
+    "name": "Dionysius",
+    "type": "Poet"
+  },
+  "tlg0084": {
+    "century": -4,
+    "name": "Dionysius",
+    "type": "Poet"
+  },
+  "tlg0085": {
+    "century": -3,
+    "name": "Aeschylus",
+    "type": "Poet"
+  },
+  "tlg0086": {
+    "century": -4,
+    "name": "Aristoteles Et Corpus Aristotelicum",
+    "type": "Poet"
+  },
+  "tlg0087": {
+    "century": -2,
+    "name": "Aelius Herodianus Et Pseudo–Herodianus",
+    "type": "Poet"
+  },
+  "tlg0088": {
+    "century": -6,
+    "name": "Aristoxenus",
+    "type": "Poet"
+  },
+  "tlg0089": {
+    "century": -4,
+    "name": "Praxiphanes",
+    "type": "Poet"
+  },
+  "tlg0090": {
+    "century": -3,
+    "name": "Agathemerus",
+    "type": "Poet"
+  },
+  "tlg0092": {
+    "century": -4,
+    "name": "Anonymi Geographiae Expositio Compendiaria",
+    "type": "Poet"
+  },
+  "tlg0093": {
+    "century": -5,
+    "name": "Theophrastus",
+    "type": "Poet"
+  },
+  "tlg0094": {
+    "century": -1,
+    "name": "Pseudo–Plutarchus",
+    "type": "Poet"
+  },
+  "tlg0095": {
+    "century": -4,
+    "name": "Hermodorus",
+    "type": "Poet"
+  },
+  "tlg0096": {
+    "century": -6,
+    "name": "Aesopus Et Aesopica",
+    "type": "Poet"
+  },
+  "tlg0097": {
+    "century": -4,
+    "name": "Diogenianus",
+    "type": "Poet"
+  },
+  "tlg0098": {
+    "century": -2,
+    "name": "Zenobius Sophista",
+    "type": "Poet"
+  },
+  "tlg0099": {
+    "century": -4,
+    "name": "Strabo",
+    "type": "Poet"
+  },
+  "tlg0116": {
+    "century": -2,
+    "name": "Abydenus",
+    "type": "Poet"
+  },
+  "tlg0125": {
+    "century": -2,
+    "name": "Zenonis Epistula",
+    "type": "Poet"
+  },
+  "tlg0127": {
+    "century": -7,
+    "name": "Aulus Licinius Archias",
+    "type": "Poet"
+  },
+  "tlg0131": {
+    "century": -4,
+    "name": "Archimelus",
+    "type": "Poet"
+  },
+  "tlg0137": {
+    "century": -4,
+    "name": "Asclepiades",
+    "type": "Poet"
+  },
+  "tlg0141": {
+    "century": -1,
+    "name": "Athenaeus",
+    "type": "Poet"
+  },
+  "tlg0146": {
+    "century": -1,
+    "name": "Boethus",
+    "type": "Poet"
+  },
+  "tlg0165": {
+    "century": -1,
+    "name": "Diodorus",
+    "type": "Poet"
+  },
+  "tlg0174": {
+    "century": -4,
+    "name": "Diotimus",
+    "type": "Poet"
+  },
+  "tlg0186": {
+    "century": -1,
+    "name": "Marcus Cornelius Fronto",
+    "type": "Poet"
+  },
+  "tlg0197": {
+    "century": -3,
+    "name": "Hedyle",
+    "type": "Poet"
+  },
+  "tlg0198": {
+    "century": -5,
+    "name": "Hedylus",
+    "type": "Poet"
+  },
+  "tlg0199": {
+    "century": -2,
+    "name": "Bacchylides",
+    "type": "Poet"
+  },
+  "tlg0200": {
+    "century": -4,
+    "name": "Mantissa Proverbiorum",
+    "type": "Poet"
+  },
+  "tlg0201": {
+    "century": -1,
+    "name": "Isyllus",
+    "type": "Poet"
+  },
+  "tlg0202": {
+    "century": -3,
+    "name": "Mace(Donius)",
+    "type": "Poet"
+  },
+  "tlg0203": {
+    "century": -3,
+    "name": "Limenius",
+    "type": "Poet"
+  },
+  "tlg0204": {
+    "century": -5,
+    "name": "Aristonous",
+    "type": "Poet"
+  },
+  "tlg0205": {
+    "century": -1,
+    "name": "Philodamus",
+    "type": "Poet"
+  },
+  "tlg0206": {
+    "century": -4,
+    "name": "Theocles",
+    "type": "Poet"
+  },
+  "tlg0207": {
+    "century": -4,
+    "name": "Hermocles",
+    "type": "Poet"
+  },
+  "tlg0208": {
+    "century": -4,
+    "name": "Dosiadas",
+    "type": "Poet"
+  },
+  "tlg0209": {
+    "century": -7,
+    "name": "Seleucus",
+    "type": "Poet"
+  },
+  "tlg0210": {
+    "century": -5,
+    "name": "Euphronius",
+    "type": "Poet"
+  },
+  "tlg0211": {
+    "century": -5,
+    "name": "Simias",
+    "type": "Poet"
+  },
+  "tlg0212": {
+    "century": -5,
+    "name": "Philetas",
+    "type": "Poet"
+  },
+  "tlg0213": {
+    "century": -3,
+    "name": "Hermesianax",
+    "type": "Poet"
+  },
+  "tlg0214": {
+    "century": -4,
+    "name": "Phanocles",
+    "type": "Poet"
+  },
+  "tlg0215": {
+    "century": -4,
+    "name": "Antagoras",
+    "type": "Poet"
+  },
+  "tlg0216": {
+    "century": -1,
+    "name": "Alexander",
+    "type": "Poet"
+  },
+  "tlg0217": {
+    "century": -6,
+    "name": "Anacreon Junior",
+    "type": "Poet"
+  },
+  "tlg0218": {
+    "century": -2,
+    "name": "Nicaenetus",
+    "type": "Poet"
+  },
+  "tlg0219": {
+    "century": -3,
+    "name": "Rhianus",
+    "type": "Poet"
+  },
+  "tlg0220": {
+    "century": -2,
+    "name": "Moero",
+    "type": "Poet"
+  },
+  "tlg0221": {
+    "century": -3,
+    "name": "Euphorion",
+    "type": "Poet"
+  },
+  "tlg0222": {
+    "century": -4,
+    "name": "Eratosthenes Et Eratosthenica",
+    "type": "Poet"
+  },
+  "tlg0227": {
+    "century": -4,
+    "name": "Anonymi Curetum Hymnus",
+    "type": "Poet"
+  },
+  "tlg0228": {
+    "century": -3,
+    "name": "Anonymi Hymnus In Dactylos Idaeos",
+    "type": "Poet"
+  },
+  "tlg0230": {
+    "century": -5,
+    "name": "Lyrica Adespota (Ca)",
+    "type": "Poet"
+  },
+  "tlg0231": {
+    "century": -5,
+    "name": "Elegiaca Adespota (Ca)",
+    "type": "Poet"
+  },
+  "tlg0232": {
+    "century": -3,
+    "name": "Archilochus",
+    "type": "Poet"
+  },
+  "tlg0233": {
+    "century": -3,
+    "name": "Hipponax",
+    "type": "Poet"
+  },
+  "tlg0234": {
+    "century": -5,
+    "name": "Elegiaca Adespota (Ieg)",
+    "type": "Poet"
+  },
+  "tlg0235": {
+    "century": -6,
+    "name": "Iambica Adespota (Ieg)",
+    "type": "Poet"
+  },
+  "tlg0236": {
+    "century": -4,
+    "name": "Alcibiades",
+    "type": "Poet"
+  },
+  "tlg0237": {
+    "century": -4,
+    "name": "Anacreon",
+    "type": "Poet"
+  },
+  "tlg0238": {
+    "century": -6,
+    "name": "Ananius",
+    "type": "Poet"
+  },
+  "tlg0239": {
+    "century": -8,
+    "name": "Antimachus",
+    "type": "Poet"
+  },
+  "tlg0240": {
+    "century": -4,
+    "name": "Hermolochus",
+    "type": "Poet"
+  },
+  "tlg0241": {
+    "century": -1,
+    "name": "Aristoxenus",
+    "type": "Poet"
+  },
+  "tlg0242": {
+    "century": -3,
+    "name": "Asius",
+    "type": "Poet"
+  },
+  "tlg0243": {
+    "century": -6,
+    "name": "Callinus",
+    "type": "Poet"
+  },
+  "tlg0244": {
+    "century": -7,
+    "name": "Cleobulina Scriptor Aenigmatum",
+    "type": "Poet"
+  },
+  "tlg0245": {
+    "century": -4,
+    "name": "Demodocus",
+    "type": "Poet"
+  },
+  "tlg0246": {
+    "century": -5,
+    "name": "Dionysius Chalcus",
+    "type": "Poet"
+  },
+  "tlg0247": {
+    "century": -1,
+    "name": "Dionysius Ii",
+    "type": "Poet"
+  },
+  "tlg0248": {
+    "century": -4,
+    "name": "Diphilus",
+    "type": "Poet"
+  },
+  "tlg0249": {
+    "century": -4,
+    "name": "Echembrotus",
+    "type": "Poet"
+  },
+  "tlg0250": {
+    "century": -3,
+    "name": "Euclides",
+    "type": "Poet"
+  },
+  "tlg0251": {
+    "century": -3,
+    "name": "Euenus",
+    "type": "Poet"
+  },
+  "tlg0252": {
+    "century": -3,
+    "name": "Hermippus",
+    "type": "Poet"
+  },
+  "tlg0253": {
+    "century": -8,
+    "name": "[Homerus]",
+    "type": "Poet"
+  },
+  "tlg0254": {
+    "century": -2,
+    "name": "Melanthius",
+    "type": "Poet"
+  },
+  "tlg0255": {
+    "century": -4,
+    "name": "Mimnermus",
+    "type": "Poet"
+  },
+  "tlg0256": {
+    "century": -2,
+    "name": "Panarces Scriptor Aenigmatum",
+    "type": "Poet"
+  },
+  "tlg0257": {
+    "century": -4,
+    "name": "Philiscus",
+    "type": "Poet"
+  },
+  "tlg0258": {
+    "century": -6,
+    "name": "Pigres",
+    "type": "Poet"
+  },
+  "tlg0259": {
+    "century": -2,
+    "name": "Scythinus",
+    "type": "Poet"
+  },
+  "tlg0260": {
+    "century": -3,
+    "name": "Semonides",
+    "type": "Poet"
+  },
+  "tlg0261": {
+    "century": -4,
+    "name": "Simonides",
+    "type": "Poet"
+  },
+  "tlg0262": {
+    "century": -1,
+    "name": "Socrates",
+    "type": "Poet"
+  },
+  "tlg0263": {
+    "century": -4,
+    "name": "Solon",
+    "type": "Poet"
+  },
+  "tlg0264": {
+    "century": -5,
+    "name": "Susarion",
+    "type": "Poet"
+  },
+  "tlg0265": {
+    "century": -4,
+    "name": "Timocreon",
+    "type": "Poet"
+  },
+  "tlg0266": {
+    "century": -1,
+    "name": "Tyrtaeus",
+    "type": "Poet"
+  },
+  "tlg0267": {
+    "century": -4,
+    "name": "Xenophanes",
+    "type": "Poet"
+  },
+  "tlg0268": {
+    "century": -5,
+    "name": "Mesomedes",
+    "type": "Poet"
+  },
+  "tlg0269": {
+    "century": -3,
+    "name": "Nautarum Cantiunculae",
+    "type": "Poet"
+  },
+  "tlg0271": {
+    "century": -3,
+    "name": "Conventus Avium",
+    "type": "Poet"
+  },
+  "tlg0272": {
+    "century": -5,
+    "name": "De Arboribus Avibusque Fabulae",
+    "type": "Poet"
+  },
+  "tlg0273": {
+    "century": -4,
+    "name": "Scolia Alphabetica",
+    "type": "Poet"
+  },
+  "tlg0275": {
+    "century": -2,
+    "name": "Peirazomene",
+    "type": "Poet"
+  },
+  "tlg0276": {
+    "century": -5,
+    "name": "Cantus Lugubris",
+    "type": "Poet"
+  },
+  "tlg0277": {
+    "century": -5,
+    "name": "Monodia",
+    "type": "Poet"
+  },
+  "tlg0278": {
+    "century": -6,
+    "name": "Praelusio Mimi",
+    "type": "Poet"
+  },
+  "tlg0279": {
+    "century": -4,
+    "name": "Discipulorum Cantiuncula",
+    "type": "Poet"
+  },
+  "tlg0280": {
+    "century": -4,
+    "name": "Andromachus",
+    "type": "Poet"
+  },
+  "tlg0281": {
+    "century": -4,
+    "name": "Marcellus",
+    "type": "Poet"
+  },
+  "tlg0282": {
+    "century": -4,
+    "name": "Anonymus De Viribus Herbarum",
+    "type": "Poet"
+  },
+  "tlg0283": {
+    "century": -6,
+    "name": "Heraclides Ponticus Junior",
+    "type": "Poet"
+  },
+  "tlg0284": {
+    "century": -2,
+    "name": "Aelius Aristides",
+    "type": "Poet"
+  },
+  "tlg0286": {
+    "century": -6,
+    "name": "Carmen Astrologicum",
+    "type": "Poet"
+  },
+  "tlg0288": {
+    "century": -7,
+    "name": "Pisander",
+    "type": "Poet"
+  },
+  "tlg0289": {
+    "century": -4,
+    "name": "Ammonius",
+    "type": "Poet"
+  },
+  "tlg0290": {
+    "century": -3,
+    "name": "Encomium Ducis Thebaidos",
+    "type": "Poet"
+  },
+  "tlg0291": {
+    "century": -4,
+    "name": "Alcman",
+    "type": "Poet"
+  },
+  "tlg0292": {
+    "century": -4,
+    "name": "Stesichorus",
+    "type": "Poet"
+  },
+  "tlg0293": {
+    "century": -6,
+    "name": "Ibycus",
+    "type": "Poet"
+  },
+  "tlg0294": {
+    "century": -4,
+    "name": "Corinna",
+    "type": "Poet"
+  },
+  "tlg0295": {
+    "century": -4,
+    "name": "Carmina Popularia (Pmg)",
+    "type": "Poet"
+  },
+  "tlg0296": {
+    "century": -4,
+    "name": "Carmina Convivialia (Pmg)",
+    "type": "Poet"
+  },
+  "tlg0297": {
+    "century": -5,
+    "name": "Lyrica Adespota (Pmg)",
+    "type": "Poet"
+  },
+  "tlg0298": {
+    "century": -5,
+    "name": "Eumelus",
+    "type": "Poet"
+  },
+  "tlg0299": {
+    "century": -2,
+    "name": "Terpander",
+    "type": "Poet"
+  },
+  "tlg0300": {
+    "century": -5,
+    "name": "Acta Alexandrinorum",
+    "type": "Poet"
+  },
+  "tlg0301": {
+    "century": -1,
+    "name": "Thespis",
+    "type": "Poet"
+  },
+  "tlg0302": {
+    "century": -5,
+    "name": "Choerilus",
+    "type": "Poet"
+  },
+  "tlg0303": {
+    "century": -3,
+    "name": "Phrynichus",
+    "type": "Poet"
+  },
+  "tlg0304": {
+    "century": -5,
+    "name": "Acta Et Martyrium Apollonii",
+    "type": "Poet"
+  },
+  "tlg0305": {
+    "century": -2,
+    "name": "Aristias",
+    "type": "Poet"
+  },
+  "tlg0306": {
+    "century": -4,
+    "name": "Aristarchus",
+    "type": "Poet"
+  },
+  "tlg0307": {
+    "century": -3,
+    "name": "Neophron",
+    "type": "Poet"
+  },
+  "tlg0308": {
+    "century": -5,
+    "name": "Ion",
+    "type": "Poet"
+  },
+  "tlg0309": {
+    "century": -2,
+    "name": "Achaeus",
+    "type": "Poet"
+  },
+  "tlg0310": {
+    "century": -4,
+    "name": "Carcinus",
+    "type": "Poet"
+  },
+  "tlg0311": {
+    "century": -5,
+    "name": "Iophon",
+    "type": "Poet"
+  },
+  "tlg0312": {
+    "century": -4,
+    "name": "Philocles",
+    "type": "Poet"
+  },
+  "tlg0313": {
+    "century": -3,
+    "name": "Theognis",
+    "type": "Poet"
+  },
+  "tlg0314": {
+    "century": -3,
+    "name": "Morsimus",
+    "type": "Poet"
+  },
+  "tlg0315": {
+    "century": -3,
+    "name": "Sthenelus",
+    "type": "Poet"
+  },
+  "tlg0316": {
+    "century": -4,
+    "name": "Xenocles",
+    "type": "Poet"
+  },
+  "tlg0317": {
+    "century": -5,
+    "name": "Acta Joannis",
+    "type": "Poet"
+  },
+  "tlg0318": {
+    "century": -1,
+    "name": "Agathon",
+    "type": "Poet"
+  },
+  "tlg0319": {
+    "century": -2,
+    "name": "Critias",
+    "type": "Poet"
+  },
+  "tlg0320": {
+    "century": -5,
+    "name": "Diogenes",
+    "type": "Poet"
+  },
+  "tlg0321": {
+    "century": -6,
+    "name": "Aeschylus",
+    "type": "Poet"
+  },
+  "tlg0322": {
+    "century": -4,
+    "name": "Dicaeogenes",
+    "type": "Poet"
+  },
+  "tlg0323": {
+    "century": -5,
+    "name": "Antiphon",
+    "type": "Poet"
+  },
+  "tlg0324": {
+    "century": -3,
+    "name": "Patrocles",
+    "type": "Poet"
+  },
+  "tlg0325": {
+    "century": -3,
+    "name": "Astydamas",
+    "type": "Poet"
+  },
+  "tlg0326": {
+    "century": -5,
+    "name": "Sophocles Junior",
+    "type": "Poet"
+  },
+  "tlg0327": {
+    "century": -6,
+    "name": "Carcinus Junior",
+    "type": "Poet"
+  },
+  "tlg0328": {
+    "century": -4,
+    "name": "Chaeremon",
+    "type": "Poet"
+  },
+  "tlg0329": {
+    "century": -3,
+    "name": "Theodectas",
+    "type": "Poet"
+  },
+  "tlg0330": {
+    "century": -4,
+    "name": "Dionysius I",
+    "type": "Poet"
+  },
+  "tlg0331": {
+    "century": -5,
+    "name": "〈Polyidus〉",
+    "type": "Poet"
+  },
+  "tlg0332": {
+    "century": -4,
+    "name": "Cleaenetus",
+    "type": "Poet"
+  },
+  "tlg0333": {
+    "century": -4,
+    "name": "Timocles",
+    "type": "Poet"
+  },
+  "tlg0334": {
+    "century": -4,
+    "name": "Diogenes",
+    "type": "Poet"
+  },
+  "tlg0335": {
+    "century": -4,
+    "name": "Philiscus",
+    "type": "Poet"
+  },
+  "tlg0336": {
+    "century": -5,
+    "name": "Crates",
+    "type": "Poet"
+  },
+  "tlg0337": {
+    "century": -3,
+    "name": "Python",
+    "type": "Poet"
+  },
+  "tlg0338": {
+    "century": -3,
+    "name": "Sosiphanes",
+    "type": "Poet"
+  },
+  "tlg0339": {
+    "century": -2,
+    "name": "Moschion",
+    "type": "Poet"
+  },
+  "tlg0340": {
+    "century": -1,
+    "name": "Sositheus",
+    "type": "Poet"
+  },
+  "tlg0341": {
+    "century": -4,
+    "name": "Lycophron",
+    "type": "Poet"
+  },
+  "tlg0342": {
+    "century": -5,
+    "name": "Nicomachus",
+    "type": "Poet"
+  },
+  "tlg0343": {
+    "century": -3,
+    "name": "Ezechiel",
+    "type": "Poet"
+  },
+  "tlg0344": {
+    "century": -4,
+    "name": "Melanthius",
+    "type": "Poet"
+  },
+  "tlg0345": {
+    "century": -3,
+    "name": "Apollonides",
+    "type": "Poet"
+  },
+  "tlg0346": {
+    "century": -3,
+    "name": "Pompeius Macer",
+    "type": "Poet"
+  },
+  "tlg0347": {
+    "century": -3,
+    "name": "Serapion",
+    "type": "Poet"
+  },
+  "tlg0348": {
+    "century": -2,
+    "name": "Biotus",
+    "type": "Poet"
+  },
+  "tlg0349": {
+    "century": -4,
+    "name": "Demonax",
+    "type": "Poet"
+  },
+  "tlg0350": {
+    "century": -4,
+    "name": "〈Dionysius Scymnaeus〉",
+    "type": "Poet"
+  },
+  "tlg0351": {
+    "century": -5,
+    "name": "[Hippothoon]",
+    "type": "Poet"
+  },
+  "tlg0352": {
+    "century": -1,
+    "name": "Isidorus",
+    "type": "Poet"
+  },
+  "tlg0353": {
+    "century": -4,
+    "name": "〈Sclerias〉",
+    "type": "Poet"
+  },
+  "tlg0354": {
+    "century": -2,
+    "name": "Zenodotus",
+    "type": "Poet"
+  },
+  "tlg0355": {
+    "century": 5,
+    "name": "Zopyrus",
+    "type": "Historian"
+  },
+  "tlg0357": {
+    "century": -3,
+    "name": "Didymus Scriptor De Mensuris",
+    "type": "Poet"
+  },
+  "tlg0358": {
+    "century": -3,
+    "name": "Nicomachus",
+    "type": "Poet"
+  },
+  "tlg0359": {
+    "century": -3,
+    "name": "Isidorus Scriptor Hymnorum",
+    "type": "Poet"
+  },
+  "tlg0360": {
+    "century": -2,
+    "name": "Armenidas",
+    "type": "Poet"
+  },
+  "tlg0361": {
+    "century": -4,
+    "name": "Cleonides",
+    "type": "Poet"
+  },
+  "tlg0363": {
+    "century": -3,
+    "name": "Claudius Ptolemaeus",
+    "type": "Poet"
+  },
+  "tlg0364": {
+    "century": -3,
+    "name": "Danaïs Vel Danaïdes",
+    "type": "Poet"
+  },
+  "tlg0365": {
+    "century": -3,
+    "name": "Apollodorus",
+    "type": "Poet"
+  },
+  "tlg0366": {
+    "century": -4,
+    "name": "Lasus",
+    "type": "Poet"
+  },
+  "tlg0367": {
+    "century": -1,
+    "name": "Tynnichus",
+    "type": "Poet"
+  },
+  "tlg0368": {
+    "century": -6,
+    "name": "Cydias",
+    "type": "Poet"
+  },
+  "tlg0369": {
+    "century": -5,
+    "name": "Telesilla",
+    "type": "Poet"
+  },
+  "tlg0370": {
+    "century": -5,
+    "name": "Lamprocles",
+    "type": "Poet"
+  },
+  "tlg0371": {
+    "century": -4,
+    "name": "Diagoras",
+    "type": "Poet"
+  },
+  "tlg0372": {
+    "century": -4,
+    "name": "Praxilla",
+    "type": "Poet"
+  },
+  "tlg0373": {
+    "century": -5,
+    "name": "Melanippides",
+    "type": "Poet"
+  },
+  "tlg0374": {
+    "century": -2,
+    "name": "Licymnius",
+    "type": "Poet"
+  },
+  "tlg0375": {
+    "century": -4,
+    "name": "Cinesias",
+    "type": "Poet"
+  },
+  "tlg0376": {
+    "century": -4,
+    "name": "Timotheus",
+    "type": "Poet"
+  },
+  "tlg0377": {
+    "century": -7,
+    "name": "Telestes",
+    "type": "Poet"
+  },
+  "tlg0378": {
+    "century": -3,
+    "name": "Ariphron",
+    "type": "Poet"
+  },
+  "tlg0379": {
+    "century": -5,
+    "name": "Philoxenus",
+    "type": "Poet"
+  },
+  "tlg0380": {
+    "century": -1,
+    "name": "Philoxenus",
+    "type": "Poet"
+  },
+  "tlg0381": {
+    "century": -4,
+    "name": "Lycophronides",
+    "type": "Poet"
+  },
+  "tlg0382": {
+    "century": -5,
+    "name": "Castorion",
+    "type": "Poet"
+  },
+  "tlg0383": {
+    "century": -4,
+    "name": "Alcaeus",
+    "type": "Poet"
+  },
+  "tlg0384": {
+    "century": -5,
+    "name": "Acta Justini Et Septem Sodalium",
+    "type": "Poet"
+  },
+  "tlg0385": {
+    "century": -4,
+    "name": "Cassius Dio",
+    "type": "Poet"
+  },
+  "tlg0386": {
+    "century": -5,
+    "name": "Chilonis Epistula",
+    "type": "Poet"
+  },
+  "tlg0387": {
+    "century": -2,
+    "name": "Sapphus Vel Alcaei Fragmenta",
+    "type": "Poet"
+  },
+  "tlg0388": {
+    "century": -5,
+    "name": "Acta Pauli",
+    "type": "Poet"
+  },
+  "tlg0389": {
+    "century": -5,
+    "name": "Acta Petri",
+    "type": "Poet"
+  },
+  "tlg0390": {
+    "century": -4,
+    "name": "Martyrium Carpi, Papyli Et Agathonicae",
+    "type": "Poet"
+  },
+  "tlg0391": {
+    "century": -5,
+    "name": "Acta Scillitanorum Martyrum",
+    "type": "Poet"
+  },
+  "tlg0392": {
+    "century": -6,
+    "name": "Acusilaus",
+    "type": "Poet"
+  },
+  "tlg0394": {
+    "century": -3,
+    "name": "Apollonius",
+    "type": "Poet"
+  },
+  "tlg0395": {
+    "century": -3,
+    "name": "Diophantus",
+    "type": "Poet"
+  },
+  "tlg0396": {
+    "century": -4,
+    "name": "Euphanes",
+    "type": "Poet"
+  },
+  "tlg0397": {
+    "century": -5,
+    "name": "Pronomus",
+    "type": "Poet"
+  },
+  "tlg0398": {
+    "century": -3,
+    "name": "Simylus",
+    "type": "Poet"
+  },
+  "tlg0399": {
+    "century": -4,
+    "name": "Eudoxus",
+    "type": "Poet"
+  },
+  "tlg0400": {
+    "century": -5,
+    "name": "Alcaeus",
+    "type": "Poet"
+  },
+  "tlg0401": {
+    "century": -1,
+    "name": "Alexander",
+    "type": "Poet"
+  },
+  "tlg0402": {
+    "century": -2,
+    "name": "Alexis",
+    "type": "Poet"
+  },
+  "tlg0403": {
+    "century": -4,
+    "name": "Amipsias",
+    "type": "Poet"
+  },
+  "tlg0404": {
+    "century": -2,
+    "name": "Amphis",
+    "type": "Poet"
+  },
+  "tlg0405": {
+    "century": -4,
+    "name": "Anaxandrides",
+    "type": "Poet"
+  },
+  "tlg0406": {
+    "century": -7,
+    "name": "Anaxilas",
+    "type": "Poet"
+  },
+  "tlg0407": {
+    "century": -5,
+    "name": "Anaxippus",
+    "type": "Poet"
+  },
+  "tlg0408": {
+    "century": -1,
+    "name": "Comica Adespota (Caf)",
+    "type": "Poet"
+  },
+  "tlg0409": {
+    "century": -3,
+    "name": "Antidotus",
+    "type": "Poet"
+  },
+  "tlg0410": {
+    "century": -5,
+    "name": "Antiphanes",
+    "type": "Poet"
+  },
+  "tlg0411": {
+    "century": -3,
+    "name": "Apollodorus",
+    "type": "Poet"
+  },
+  "tlg0412": {
+    "century": -1,
+    "name": "Apollodorus Carystius Vel Apollodorus Gelous",
+    "type": "Poet"
+  },
+  "tlg0413": {
+    "century": -2,
+    "name": "Apollodorus",
+    "type": "Poet"
+  },
+  "tlg0414": {
+    "century": -3,
+    "name": "Apollophanes",
+    "type": "Poet"
+  },
+  "tlg0415": {
+    "century": -4,
+    "name": "Araros",
+    "type": "Poet"
+  },
+  "tlg0416": {
+    "century": -3,
+    "name": "Archedicus",
+    "type": "Poet"
+  },
+  "tlg0417": {
+    "century": -3,
+    "name": "Archippus",
+    "type": "Poet"
+  },
+  "tlg0418": {
+    "century": -4,
+    "name": "Aristagoras",
+    "type": "Poet"
+  },
+  "tlg0419": {
+    "century": -3,
+    "name": "Aristomenes",
+    "type": "Poet"
+  },
+  "tlg0420": {
+    "century": -5,
+    "name": "Aristonymus",
+    "type": "Poet"
+  },
+  "tlg0421": {
+    "century": -4,
+    "name": "Aristophon",
+    "type": "Poet"
+  },
+  "tlg0422": {
+    "century": -2,
+    "name": "Athenio",
+    "type": "Poet"
+  },
+  "tlg0423": {
+    "century": -3,
+    "name": "Autocrates",
+    "type": "Poet"
+  },
+  "tlg0424": {
+    "century": -5,
+    "name": "Axionicus",
+    "type": "Poet"
+  },
+  "tlg0425": {
+    "century": -2,
+    "name": "Bato",
+    "type": "Poet"
+  },
+  "tlg0426": {
+    "century": -3,
+    "name": "Callias",
+    "type": "Poet"
+  },
+  "tlg0427": {
+    "century": -4,
+    "name": "〈Callippus〉",
+    "type": "Poet"
+  },
+  "tlg0428": {
+    "century": -5,
+    "name": "Cantharus",
+    "type": "Poet"
+  },
+  "tlg0429": {
+    "century": -3,
+    "name": "Cephisodorus",
+    "type": "Poet"
+  },
+  "tlg0430": {
+    "century": -1,
+    "name": "Chariclides",
+    "type": "Poet"
+  },
+  "tlg0431": {
+    "century": -5,
+    "name": "Chionides",
+    "type": "Poet"
+  },
+  "tlg0432": {
+    "century": -4,
+    "name": "Clearchus",
+    "type": "Poet"
+  },
+  "tlg0433": {
+    "century": -1,
+    "name": "Crates",
+    "type": "Poet"
+  },
+  "tlg0434": {
+    "century": -4,
+    "name": "Cratinus",
+    "type": "Poet"
+  },
+  "tlg0435": {
+    "century": -1,
+    "name": "Cratinus Junior",
+    "type": "Poet"
+  },
+  "tlg0436": {
+    "century": -3,
+    "name": "Crito",
+    "type": "Poet"
+  },
+  "tlg0437": {
+    "century": -5,
+    "name": "Crobylus",
+    "type": "Poet"
+  },
+  "tlg0438": {
+    "century": -6,
+    "name": "Damoxenus",
+    "type": "Poet"
+  },
+  "tlg0439": {
+    "century": -4,
+    "name": "Demetrius",
+    "type": "Poet"
+  },
+  "tlg0440": {
+    "century": -4,
+    "name": "Demetrius Junior",
+    "type": "Poet"
+  },
+  "tlg0441": {
+    "century": -4,
+    "name": "Demonicus",
+    "type": "Poet"
+  },
+  "tlg0442": {
+    "century": -5,
+    "name": "Dexicrates",
+    "type": "Poet"
+  },
+  "tlg0443": {
+    "century": -3,
+    "name": "Diocles",
+    "type": "Poet"
+  },
+  "tlg0444": {
+    "century": -4,
+    "name": "Diodorus",
+    "type": "Poet"
+  },
+  "tlg0445": {
+    "century": -5,
+    "name": "Dionysius",
+    "type": "Poet"
+  },
+  "tlg0446": {
+    "century": -4,
+    "name": "Dioxippus",
+    "type": "Poet"
+  },
+  "tlg0447": {
+    "century": -4,
+    "name": "Diphilus",
+    "type": "Poet"
+  },
+  "tlg0448": {
+    "century": -4,
+    "name": "Dromo",
+    "type": "Poet"
+  },
+  "tlg0449": {
+    "century": -4,
+    "name": "Ecphantides",
+    "type": "Poet"
+  },
+  "tlg0450": {
+    "century": -4,
+    "name": "Ephippus",
+    "type": "Poet"
+  },
+  "tlg0451": {
+    "century": -4,
+    "name": "Epicrates",
+    "type": "Poet"
+  },
+  "tlg0452": {
+    "century": -6,
+    "name": "Epigenes",
+    "type": "Poet"
+  },
+  "tlg0453": {
+    "century": -6,
+    "name": "Epilycus",
+    "type": "Poet"
+  },
+  "tlg0454": {
+    "century": -3,
+    "name": "Epinicus",
+    "type": "Poet"
+  },
+  "tlg0455": {
+    "century": -1,
+    "name": "Eriphus",
+    "type": "Poet"
+  },
+  "tlg0456": {
+    "century": -4,
+    "name": "Euangelus",
+    "type": "Poet"
+  },
+  "tlg0457": {
+    "century": -4,
+    "name": "Eubulides",
+    "type": "Poet"
+  },
+  "tlg0458": {
+    "century": -5,
+    "name": "Eubulus",
+    "type": "Poet"
+  },
+  "tlg0459": {
+    "century": -4,
+    "name": "Eunicus",
+    "type": "Poet"
+  },
+  "tlg0460": {
+    "century": -3,
+    "name": "Euphro",
+    "type": "Poet"
+  },
+  "tlg0461": {
+    "century": -5,
+    "name": "Eupolis",
+    "type": "Poet"
+  },
+  "tlg0462": {
+    "century": -2,
+    "name": "Euthycles",
+    "type": "Poet"
+  },
+  "tlg0463": {
+    "century": -3,
+    "name": "Hegemon",
+    "type": "Poet"
+  },
+  "tlg0464": {
+    "century": -4,
+    "name": "Hegesippus",
+    "type": "Poet"
+  },
+  "tlg0465": {
+    "century": -5,
+    "name": "Heniochus",
+    "type": "Poet"
+  },
+  "tlg0466": {
+    "century": -2,
+    "name": "Heraclides",
+    "type": "Poet"
+  },
+  "tlg0467": {
+    "century": -3,
+    "name": "Timotheus",
+    "type": "Poet"
+  },
+  "tlg0468": {
+    "century": -2,
+    "name": "Hipparchus",
+    "type": "Poet"
+  },
+  "tlg0469": {
+    "century": -6,
+    "name": "Laon",
+    "type": "Poet"
+  },
+  "tlg0470": {
+    "century": -1,
+    "name": "Leuco",
+    "type": "Poet"
+  },
+  "tlg0471": {
+    "century": -5,
+    "name": "Lynceus",
+    "type": "Poet"
+  },
+  "tlg0472": {
+    "century": -2,
+    "name": "Lysippus",
+    "type": "Poet"
+  },
+  "tlg0473": {
+    "century": -3,
+    "name": "Machon",
+    "type": "Poet"
+  },
+  "tlg0474": {
+    "century": -3,
+    "name": "Magnes",
+    "type": "Poet"
+  },
+  "tlg0475": {
+    "century": -3,
+    "name": "Metagenes",
+    "type": "Poet"
+  },
+  "tlg0476": {
+    "century": -3,
+    "name": "Mnesimachus",
+    "type": "Poet"
+  },
+  "tlg0477": {
+    "century": -4,
+    "name": "Myrtilus",
+    "type": "Poet"
+  },
+  "tlg0478": {
+    "century": -4,
+    "name": "Nausicrates",
+    "type": "Poet"
+  },
+  "tlg0479": {
+    "century": -4,
+    "name": "Nico",
+    "type": "Poet"
+  },
+  "tlg0480": {
+    "century": -1,
+    "name": "Nicochares",
+    "type": "Poet"
+  },
+  "tlg0481": {
+    "century": -1,
+    "name": "Nicolaus",
+    "type": "Poet"
+  },
+  "tlg0482": {
+    "century": -5,
+    "name": "Nicomachus",
+    "type": "Poet"
+  },
+  "tlg0483": {
+    "century": -4,
+    "name": "Nicophon",
+    "type": "Poet"
+  },
+  "tlg0484": {
+    "century": -1,
+    "name": "Nicostratus",
+    "type": "Poet"
+  },
+  "tlg0485": {
+    "century": -2,
+    "name": "Ophelio",
+    "type": "Poet"
+  },
+  "tlg0486": {
+    "century": -6,
+    "name": "Pherecrates",
+    "type": "Poet"
+  },
+  "tlg0487": {
+    "century": -3,
+    "name": "Philemon",
+    "type": "Poet"
+  },
+  "tlg0488": {
+    "century": -4,
+    "name": "Philemon Junior",
+    "type": "Poet"
+  },
+  "tlg0489": {
+    "century": -4,
+    "name": "Philetaerus",
+    "type": "Poet"
+  },
+  "tlg0490": {
+    "century": -4,
+    "name": "Philippides",
+    "type": "Poet"
+  },
+  "tlg0491": {
+    "century": -5,
+    "name": "Philiscus",
+    "type": "Poet"
+  },
+  "tlg0492": {
+    "century": -3,
+    "name": "Philonides",
+    "type": "Poet"
+  },
+  "tlg0493": {
+    "century": -3,
+    "name": "Philostephanus",
+    "type": "Poet"
+  },
+  "tlg0494": {
+    "century": -3,
+    "name": "Philyllius",
+    "type": "Poet"
+  },
+  "tlg0495": {
+    "century": -3,
+    "name": "Phoenicides",
+    "type": "Poet"
+  },
+  "tlg0496": {
+    "century": -6,
+    "name": "Phrynichus",
+    "type": "Poet"
+  },
+  "tlg0497": {
+    "century": -1,
+    "name": "Plato",
+    "type": "Poet"
+  },
+  "tlg0498": {
+    "century": -3,
+    "name": "Poliochus",
+    "type": "Poet"
+  },
+  "tlg0499": {
+    "century": -1,
+    "name": "Polyzelus",
+    "type": "Poet"
+  },
+  "tlg0500": {
+    "century": -3,
+    "name": "Posidippus",
+    "type": "Poet"
+  },
+  "tlg0501": {
+    "century": -7,
+    "name": "Sannyrion",
+    "type": "Poet"
+  },
+  "tlg0502": {
+    "century": -5,
+    "name": "Sophilus",
+    "type": "Poet"
+  },
+  "tlg0503": {
+    "century": -2,
+    "name": "Sosicrates",
+    "type": "Poet"
+  },
+  "tlg0504": {
+    "century": -4,
+    "name": "Sosipater",
+    "type": "Poet"
+  },
+  "tlg0505": {
+    "century": -3,
+    "name": "Sotades",
+    "type": "Poet"
+  },
+  "tlg0506": {
+    "century": -7,
+    "name": "Stephanus",
+    "type": "Poet"
+  },
+  "tlg0507": {
+    "century": -3,
+    "name": "Straton",
+    "type": "Poet"
+  },
+  "tlg0508": {
+    "century": -5,
+    "name": "Strattis",
+    "type": "Poet"
+  },
+  "tlg0509": {
+    "century": -3,
+    "name": "〈Myia〉",
+    "type": "Poet"
+  },
+  "tlg0510": {
+    "century": -6,
+    "name": "Teleclides",
+    "type": "Poet"
+  },
+  "tlg0511": {
+    "century": -6,
+    "name": "Theognetus",
+    "type": "Poet"
+  },
+  "tlg0512": {
+    "century": -4,
+    "name": "Theophilus",
+    "type": "Poet"
+  },
+  "tlg0513": {
+    "century": -4,
+    "name": "Theopompus",
+    "type": "Poet"
+  },
+  "tlg0514": {
+    "century": -1,
+    "name": "Thugenides",
+    "type": "Poet"
+  },
+  "tlg0515": {
+    "century": -5,
+    "name": "Timocles",
+    "type": "Poet"
+  },
+  "tlg0516": {
+    "century": -5,
+    "name": "Timostratus",
+    "type": "Poet"
+  },
+  "tlg0517": {
+    "century": -6,
+    "name": "Timotheus",
+    "type": "Poet"
+  },
+  "tlg0518": {
+    "century": -5,
+    "name": "Xenarchus",
+    "type": "Poet"
+  },
+  "tlg0519": {
+    "century": -5,
+    "name": "Xeno",
+    "type": "Poet"
+  },
+  "tlg0520": {
+    "century": -4,
+    "name": "Arcesilaus",
+    "type": "Poet"
+  },
+  "tlg0521": {
+    "century": -4,
+    "name": "Epicharmus Et Pseudepicharmea",
+    "type": "Poet"
+  },
+  "tlg0522": {
+    "century": -7,
+    "name": "Pisander",
+    "type": "Poet"
+  },
+  "tlg0523": {
+    "century": -4,
+    "name": "Menecrates",
+    "type": "Poet"
+  },
+  "tlg0524": {
+    "century": -3,
+    "name": "Sophron",
+    "type": "Poet"
+  },
+  "tlg0525": {
+    "century": -2,
+    "name": "Pausanias",
+    "type": "Poet"
+  },
+  "tlg0526": {
+    "century": -1,
+    "name": "Flavius Josephus",
+    "type": "Poet"
+  },
+  "tlg0527": {
+    "century": -3,
+    "name": "Septuaginta",
+    "type": "Poet"
+  },
+  "tlg0528": {
+    "century": -1,
+    "name": "Aëtius",
+    "type": "Poet"
+  },
+  "tlg0529": {
+    "century": -5,
+    "name": "Arius Didymus",
+    "type": "Poet"
+  },
+  "tlg0530": {
+    "century": -1,
+    "name": "Pseudo–Galenus",
+    "type": "Poet"
+  },
+  "tlg0531": {
+    "century": -3,
+    "name": "Hermias",
+    "type": "Poet"
+  },
+  "tlg0532": {
+    "century": -2,
+    "name": "Achilles Tatius",
+    "type": "Poet"
+  },
+  "tlg0533": {
+    "century": -3,
+    "name": "Callimachus",
+    "type": "Poet"
+  },
+  "tlg0534": {
+    "century": -1,
+    "name": "Callisthenes",
+    "type": "Poet"
+  },
+  "tlg0535": {
+    "century": -3,
+    "name": "Demades",
+    "type": "Poet"
+  },
+  "tlg0536": {
+    "century": -5,
+    "name": "Ephorus",
+    "type": "Poet"
+  },
+  "tlg0537": {
+    "century": -4,
+    "name": "Epicurus",
+    "type": "Poet"
+  },
+  "tlg0538": {
+    "century": -4,
+    "name": "Hecataeus",
+    "type": "Poet"
+  },
+  "tlg0539": {
+    "century": -4,
+    "name": "Hellanicus",
+    "type": "Poet"
+  },
+  "tlg0540": {
+    "century": -4,
+    "name": "Lysias",
+    "type": "Poet"
+  },
+  "tlg0541": {
+    "century": -2,
+    "name": "Menander",
+    "type": "Poet"
+  },
+  "tlg0542": {
+    "century": -3,
+    "name": "Julius Pollux",
+    "type": "Poet"
+  },
+  "tlg0543": {
+    "century": -2,
+    "name": "Polybius",
+    "type": "Poet"
+  },
+  "tlg0544": {
+    "century": -3,
+    "name": "Sextus Empiricus",
+    "type": "Poet"
+  },
+  "tlg0545": {
+    "century": -4,
+    "name": "Claudius Aelianus",
+    "type": "Poet"
+  },
+  "tlg0546": {
+    "century": -4,
+    "name": "Aelianus",
+    "type": "Poet"
+  },
+  "tlg0547": {
+    "century": -6,
+    "name": "Anaximenes",
+    "type": "Poet"
+  },
+  "tlg0548": {
+    "century": -3,
+    "name": "Pseudo–Apollodorus",
+    "type": "Poet"
+  },
+  "tlg0549": {
+    "century": -4,
+    "name": "Apollodorus",
+    "type": "Poet"
+  },
+  "tlg0550": {
+    "century": -2,
+    "name": "Apollonius",
+    "type": "Poet"
+  },
+  "tlg0551": {
+    "century": -5,
+    "name": "Appianus",
+    "type": "Poet"
+  },
+  "tlg0552": {
+    "century": -3,
+    "name": "Archimedes",
+    "type": "Poet"
+  },
+  "tlg0553": {
+    "century": -2,
+    "name": "Artemidorus",
+    "type": "Poet"
+  },
+  "tlg0554": {
+    "century": -5,
+    "name": "Chariton",
+    "type": "Poet"
+  },
+  "tlg0555": {
+    "century": -6,
+    "name": "Clemens Alexandrinus",
+    "type": "Poet"
+  },
+  "tlg0556": {
+    "century": -6,
+    "name": "Asclepiodotus",
+    "type": "Poet"
+  },
+  "tlg0557": {
+    "century": -4,
+    "name": "Epictetus",
+    "type": "Poet"
+  },
+  "tlg0558": {
+    "century": -4,
+    "name": "Hellenica",
+    "type": "Poet"
+  },
+  "tlg0559": {
+    "century": -7,
+    "name": "Heron",
+    "type": "Poet"
+  },
+  "tlg0560": {
+    "century": -1,
+    "name": "[Longinus]",
+    "type": "Poet"
+  },
+  "tlg0561": {
+    "century": -1,
+    "name": "Longus",
+    "type": "Poet"
+  },
+  "tlg0562": {
+    "century": -4,
+    "name": "Marcus Aurelius Antoninus Imperator",
+    "type": "Poet"
+  },
+  "tlg0563": {
+    "century": -4,
+    "name": "Maximus",
+    "type": "Poet"
+  },
+  "tlg0564": {
+    "century": -2,
+    "name": "Rufus",
+    "type": "Poet"
+  },
+  "tlg0565": {
+    "century": -3,
+    "name": "Soranus",
+    "type": "Poet"
+  },
+  "tlg0566": {
+    "century": -4,
+    "name": "Theopompus",
+    "type": "Poet"
+  },
+  "tlg0568": {
+    "century": -3,
+    "name": "Antigonus",
+    "type": "Poet"
+  },
+  "tlg0569": {
+    "century": -3,
+    "name": "Apollonius",
+    "type": "Poet"
+  },
+  "tlg0570": {
+    "century": -5,
+    "name": "Archelaus",
+    "type": "Poet"
+  },
+  "tlg0571": {
+    "century": -1,
+    "name": "Aristocles",
+    "type": "Poet"
+  },
+  "tlg0572": {
+    "century": -1,
+    "name": "Gaius",
+    "type": "Poet"
+  },
+  "tlg0574": {
+    "century": -5,
+    "name": "Lysimachus",
+    "type": "Poet"
+  },
+  "tlg0576": {
+    "century": -2,
+    "name": "Musaeus",
+    "type": "Poet"
+  },
+  "tlg0577": {
+    "century": -3,
+    "name": "Nicolaus",
+    "type": "Poet"
+  },
+  "tlg0578": {
+    "century": -5,
+    "name": "Nymphodorus",
+    "type": "Poet"
+  },
+  "tlg0579": {
+    "century": -4,
+    "name": "Orphica",
+    "type": "Poet"
+  },
+  "tlg0580": {
+    "century": -5,
+    "name": "Paradoxographus Florentinus",
+    "type": "Poet"
+  },
+  "tlg0581": {
+    "century": -5,
+    "name": "Paradoxographus Palatinus",
+    "type": "Poet"
+  },
+  "tlg0582": {
+    "century": -5,
+    "name": "Paradoxographus Vaticanus",
+    "type": "Poet"
+  },
+  "tlg0583": {
+    "century": -5,
+    "name": "Philochorus",
+    "type": "Poet"
+  },
+  "tlg0584": {
+    "century": -5,
+    "name": "Philostephanus",
+    "type": "Poet"
+  },
+  "tlg0585": {
+    "century": -6,
+    "name": "Publius Aelius Phlegon",
+    "type": "Poet"
+  },
+  "tlg0586": {
+    "century": -3,
+    "name": "Polemon",
+    "type": "Poet"
+  },
+  "tlg0587": {
+    "century": -4,
+    "name": "Sotion",
+    "type": "Poet"
+  },
+  "tlg0591": {
+    "century": -5,
+    "name": "Antisthenes",
+    "type": "Poet"
+  },
+  "tlg0592": {
+    "century": -4,
+    "name": "Hermogenes",
+    "type": "Poet"
+  },
+  "tlg0593": {
+    "century": -2,
+    "name": "Gorgias",
+    "type": "Poet"
+  },
+  "tlg0594": {
+    "century": -1,
+    "name": "Alexander",
+    "type": "Poet"
+  },
+  "tlg0595": {
+    "century": -4,
+    "name": "Zeno",
+    "type": "Poet"
+  },
+  "tlg0597": {
+    "century": -2,
+    "name": "Zenodorus",
+    "type": "Poet"
+  },
+  "tlg0598": {
+    "century": -3,
+    "name": "Rhetorica Anonyma",
+    "type": "Poet"
+  },
+  "tlg0601": {
+    "century": -2,
+    "name": "〈Zaleucus Nomographus〉",
+    "type": "Poet"
+  },
+  "tlg0602": {
+    "century": -1,
+    "name": "Comica Adespota (Fcg)",
+    "type": "Poet"
+  },
+  "tlg0603": {
+    "century": -4,
+    "name": "Silenus",
+    "type": "Poet"
+  },
+  "tlg0604": {
+    "century": -2,
+    "name": "Ptolemaeus Iv Philopator",
+    "type": "Poet"
+  },
+  "tlg0605": {
+    "century": -2,
+    "name": "Polybius",
+    "type": "Poet"
+  },
+  "tlg0606": {
+    "century": -2,
+    "name": "Rufus",
+    "type": "Poet"
+  },
+  "tlg0607": {
+    "century": -1,
+    "name": "Aelius Theon",
+    "type": "Poet"
+  },
+  "tlg0608": {
+    "century": -3,
+    "name": "Satyrus",
+    "type": "Poet"
+  },
+  "tlg0609": {
+    "century": -1,
+    "name": "Tryphon I",
+    "type": "Poet"
+  },
+  "tlg0610": {
+    "century": -4,
+    "name": "Alcidamas",
+    "type": "Poet"
+  },
+  "tlg0611": {
+    "century": -5,
+    "name": "Theodorus",
+    "type": "Poet"
+  },
+  "tlg0612": {
+    "century": -5,
+    "name": "Dio Chrysostomus",
+    "type": "Poet"
+  },
+  "tlg0613": {
+    "century": -3,
+    "name": "〈Demetrius〉",
+    "type": "Poet"
+  },
+  "tlg0614": {
+    "century": -5,
+    "name": "Valerius Babrius",
+    "type": "Poet"
+  },
+  "tlg0615": {
+    "century": -4,
+    "name": "Aspasius",
+    "type": "Poet"
+  },
+  "tlg0616": {
+    "century": -3,
+    "name": "Polyaenus",
+    "type": "Poet"
+  },
+  "tlg0617": {
+    "century": -4,
+    "name": "Anaximenes",
+    "type": "Poet"
+  },
+  "tlg0618": {
+    "century": -3,
+    "name": "Antigoni Epistula",
+    "type": "Poet"
+  },
+  "tlg0619": {
+    "century": -3,
+    "name": "Apollonius",
+    "type": "Poet"
+  },
+  "tlg0620": {
+    "century": -3,
+    "name": "Archytas",
+    "type": "Poet"
+  },
+  "tlg0621": {
+    "century": -1,
+    "name": "[Ath]Enodorus",
+    "type": "Poet"
+  },
+  "tlg0622": {
+    "century": -6,
+    "name": "Cleobuli Epistula",
+    "type": "Poet"
+  },
+  "tlg0623": {
+    "century": -2,
+    "name": "Cratetis Epistulae",
+    "type": "Poet"
+  },
+  "tlg0624": {
+    "century": -1,
+    "name": "Demetrius",
+    "type": "Poet"
+  },
+  "tlg0625": {
+    "century": -3,
+    "name": "Polemaeus",
+    "type": "Poet"
+  },
+  "tlg0626": {
+    "century": -4,
+    "name": "Heraclitus",
+    "type": "Poet"
+  },
+  "tlg0627": {
+    "century": -5,
+    "name": "Hippocrates Et Corpus Hippocraticum",
+    "type": "Poet"
+  },
+  "tlg0628": {
+    "century": -2,
+    "name": "Gaius Musonius Rufus",
+    "type": "Poet"
+  },
+  "tlg0629": {
+    "century": -2,
+    "name": "Periander",
+    "type": "Poet"
+  },
+  "tlg0630": {
+    "century": -5,
+    "name": "Pherecydes",
+    "type": "Poet"
+  },
+  "tlg0631": {
+    "century": -5,
+    "name": "Pittacus",
+    "type": "Poet"
+  },
+  "tlg0632": {
+    "century": -4,
+    "name": "〈Pythagoras〉",
+    "type": "Poet"
+  },
+  "tlg0633": {
+    "century": -3,
+    "name": "〈Lysis〉",
+    "type": "Poet"
+  },
+  "tlg0634": {
+    "century": -5,
+    "name": "Xenocrates",
+    "type": "Poet"
+  },
+  "tlg0635": {
+    "century": -3,
+    "name": "Zeno",
+    "type": "Poet"
+  },
+  "tlg0636": {
+    "century": -7,
+    "name": "Socratis Epistulae",
+    "type": "Poet"
+  },
+  "tlg0637": {
+    "century": -7,
+    "name": "Socraticorum Epistulae",
+    "type": "Poet"
+  },
+  "tlg0638": {
+    "century": -5,
+    "name": "Flavius Philostratus",
+    "type": "Poet"
+  },
+  "tlg0639": {
+    "century": -4,
+    "name": "Menecrates",
+    "type": "Poet"
+  },
+  "tlg0640": {
+    "century": -5,
+    "name": "Alciphron",
+    "type": "Poet"
+  },
+  "tlg0641": {
+    "century": -5,
+    "name": "Xenophon",
+    "type": "Poet"
+  },
+  "tlg0643": {
+    "century": -2,
+    "name": "Anonymus Londinensis",
+    "type": "Poet"
+  },
+  "tlg0644": {
+    "century": -4,
+    "name": "Aristophanes",
+    "type": "Poet"
+  },
+  "tlg0645": {
+    "century": -2,
+    "name": "Justinus Martyr",
+    "type": "Poet"
+  },
+  "tlg0646": {
+    "century": -2,
+    "name": "Pseudo–Justinus Martyr",
+    "type": "Poet"
+  },
+  "tlg0647": {
+    "century": -1,
+    "name": "Triphiodorus",
+    "type": "Poet"
+  },
+  "tlg0648": {
+    "century": -3,
+    "name": "Onasander",
+    "type": "Poet"
+  },
+  "tlg0649": {
+    "century": -2,
+    "name": "Lesbonax",
+    "type": "Poet"
+  },
+  "tlg0650": {
+    "century": -2,
+    "name": "Herodas",
+    "type": "Poet"
+  },
+  "tlg0651": {
+    "century": -4,
+    "name": "Antoninus Liberalis",
+    "type": "Poet"
+  },
+  "tlg0652": {
+    "century": -5,
+    "name": "Philostratus Junior",
+    "type": "Poet"
+  },
+  "tlg0653": {
+    "century": -3,
+    "name": "Aratus",
+    "type": "Poet"
+  },
+  "tlg0654": {
+    "century": -4,
+    "name": "Lucius Annaeus Cornutus",
+    "type": "Poet"
+  },
+  "tlg0655": {
+    "century": -4,
+    "name": "Parthenius",
+    "type": "Poet"
+  },
+  "tlg0656": {
+    "century": -1,
+    "name": "Dioscorides Pedanius",
+    "type": "Poet"
+  },
+  "tlg0657": {
+    "century": -5,
+    "name": "Crateuas",
+    "type": "Poet"
+  },
+  "tlg0658": {
+    "century": -1,
+    "name": "Heliodorus",
+    "type": "Poet"
+  },
+  "tlg0659": {
+    "century": -1,
+    "name": "Comica Adespota (Suppl. Com.)",
+    "type": "Poet"
+  },
+  "tlg0660": {
+    "century": -3,
+    "name": "Apollonius",
+    "type": "Poet"
+  },
+  "tlg0661": {
+    "century": -7,
+    "name": "Archigenes",
+    "type": "Poet"
+  },
+  "tlg0662": {
+    "century": -1,
+    "name": "Comica Adespota (Cgfpr)",
+    "type": "Poet"
+  },
+  "tlg0663": {
+    "century": -6,
+    "name": "Praecepta Salubria",
+    "type": "Poet"
+  },
+  "tlg0666": {
+    "century": -6,
+    "name": "Adrianus",
+    "type": "Poet"
+  },
+  "tlg0667": {
+    "century": -4,
+    "name": "Marcellinus I",
+    "type": "Poet"
+  },
+  "tlg0668": {
+    "century": -4,
+    "name": "Aegimius",
+    "type": "Poet"
+  },
+  "tlg0671": {
+    "century": -5,
+    "name": "Philumenus",
+    "type": "Poet"
+  },
+  "tlg0673": {
+    "century": -4,
+    "name": "Aeschines Socraticus",
+    "type": "Poet"
+  },
+  "tlg0676": {
+    "century": -4,
+    "name": "Aglaïs",
+    "type": "Poet"
+  },
+  "tlg0679": {
+    "century": -6,
+    "name": "Aeschrion",
+    "type": "Poet"
+  },
+  "tlg0683": {
+    "century": -5,
+    "name": "Aethiopis",
+    "type": "Poet"
+  },
+  "tlg0686": {
+    "century": -1,
+    "name": "Aethlius",
+    "type": "Poet"
+  },
+  "tlg0687": {
+    "century": -2,
+    "name": "Agaclytus",
+    "type": "Poet"
+  },
+  "tlg0688": {
+    "century": -5,
+    "name": "Agathocles",
+    "type": "Poet"
+  },
+  "tlg0690": {
+    "century": -3,
+    "name": "Erasistratus",
+    "type": "Poet"
+  },
+  "tlg0691": {
+    "century": -6,
+    "name": "Harpocrationis Epistula",
+    "type": "Poet"
+  },
+  "tlg0693": {
+    "century": -7,
+    "name": "Albinus",
+    "type": "Poet"
+  },
+  "tlg0695": {
+    "century": -5,
+    "name": "Alcimus",
+    "type": "Poet"
+  },
+  "tlg0696": {
+    "century": -7,
+    "name": "Alcmaeonis",
+    "type": "Poet"
+  },
+  "tlg0697": {
+    "century": -4,
+    "name": "Cornelius Alexander",
+    "type": "Poet"
+  },
+  "tlg0698": {
+    "century": -2,
+    "name": "Alexander",
+    "type": "Poet"
+  },
+  "tlg0700": {
+    "century": -3,
+    "name": "Apollodorus",
+    "type": "Poet"
+  },
+  "tlg0703": {
+    "century": -4,
+    "name": "Numenius",
+    "type": "Poet"
+  },
+  "tlg0706": {
+    "century": -3,
+    "name": "Philo",
+    "type": "Poet"
+  },
+  "tlg0707": {
+    "century": -4,
+    "name": "Alexis",
+    "type": "Poet"
+  },
+  "tlg0708": {
+    "century": -4,
+    "name": "〈Ammonius〉",
+    "type": "Poet"
+  },
+  "tlg0710": {
+    "century": -4,
+    "name": "Amphiarai Exilium (?)",
+    "type": "Poet"
+  },
+  "tlg0713": {
+    "century": -3,
+    "name": "Anaxagoras",
+    "type": "Poet"
+  },
+  "tlg0714": {
+    "century": -1,
+    "name": "Anaxarchus",
+    "type": "Poet"
+  },
+  "tlg0715": {
+    "century": -2,
+    "name": "Paulus",
+    "type": "Poet"
+  },
+  "tlg0716": {
+    "century": -1,
+    "name": "Erotianus",
+    "type": "Poet"
+  },
+  "tlg0717": {
+    "century": -6,
+    "name": "Hypsicles",
+    "type": "Poet"
+  },
+  "tlg0718": {
+    "century": -1,
+    "name": "Aëtius",
+    "type": "Poet"
+  },
+  "tlg0719": {
+    "century": -2,
+    "name": "Aretaeus",
+    "type": "Poet"
+  },
+  "tlg0720": {
+    "century": -3,
+    "name": "Harmodius",
+    "type": "Poet"
+  },
+  "tlg0721": {
+    "century": -3,
+    "name": "Anonymi Medici",
+    "type": "Poet"
+  },
+  "tlg0722": {
+    "century": -4,
+    "name": "Oribasius",
+    "type": "Poet"
+  },
+  "tlg0723": {
+    "century": -2,
+    "name": "Leo",
+    "type": "Poet"
+  },
+  "tlg0724": {
+    "century": -7,
+    "name": "Stephanus",
+    "type": "Poet"
+  },
+  "tlg0725": {
+    "century": -4,
+    "name": "Anaximander",
+    "type": "Poet"
+  },
+  "tlg0726": {
+    "century": -4,
+    "name": "Palladius",
+    "type": "Poet"
+  },
+  "tlg0727": {
+    "century": -1,
+    "name": "Joannes",
+    "type": "Poet"
+  },
+  "tlg0728": {
+    "century": -4,
+    "name": "Theophilus Protospatharius, Damascius Et Stephanus Atheniensis",
+    "type": "Poet"
+  },
+  "tlg0729": {
+    "century": -4,
+    "name": "Theophilus Protospatharius",
+    "type": "Poet"
+  },
+  "tlg0730": {
+    "century": -5,
+    "name": "Meletius",
+    "type": "Poet"
+  },
+  "tlg0731": {
+    "century": -6,
+    "name": "Adamantius Judaeus",
+    "type": "Poet"
+  },
+  "tlg0732": {
+    "century": -2,
+    "name": "Alexander",
+    "type": "Poet"
+  },
+  "tlg0733": {
+    "century": -4,
+    "name": "Cassius Iatrosophista",
+    "type": "Poet"
+  },
+  "tlg0734": {
+    "century": -1,
+    "name": "〈Lucas Apostolus〉",
+    "type": "Poet"
+  },
+  "tlg0736": {
+    "century": -7,
+    "name": "Stephanus",
+    "type": "Poet"
+  },
+  "tlg0737": {
+    "century": -2,
+    "name": "Julianus Scriptor Legis De Medicis",
+    "type": "Poet"
+  },
+  "tlg0738": {
+    "century": -5,
+    "name": "Hippiatrica",
+    "type": "Poet"
+  },
+  "tlg0740": {
+    "century": -2,
+    "name": "Jusjurandum Medicum",
+    "type": "Poet"
+  },
+  "tlg0742": {
+    "century": -8,
+    "name": "Hymni Anonymi",
+    "type": "Poet"
+  },
+  "tlg0743": {
+    "century": -5,
+    "name": "Nemesius",
+    "type": "Poet"
+  },
+  "tlg0744": {
+    "century": -2,
+    "name": "Alexander",
+    "type": "Poet"
+  },
+  "tlg0745": {
+    "century": -3,
+    "name": "Hierophilus",
+    "type": "Poet"
+  },
+  "tlg0746": {
+    "century": -4,
+    "name": "Theophilus Protospatharius Et Stephanus Atheniensis",
+    "type": "Poet"
+  },
+  "tlg0748": {
+    "century": -3,
+    "name": "Severus Iatrosophista",
+    "type": "Poet"
+  },
+  "tlg0749": {
+    "century": -4,
+    "name": "Antyllus",
+    "type": "Poet"
+  },
+  "tlg0750": {
+    "century": -2,
+    "name": "Heliodorus",
+    "type": "Poet"
+  },
+  "tlg0751": {
+    "century": -3,
+    "name": "Pseudo–Hippocrates",
+    "type": "Poet"
+  },
+  "tlg0752": {
+    "century": -4,
+    "name": "Eutecnius",
+    "type": "Poet"
+  },
+  "tlg0766": {
+    "century": -6,
+    "name": "Alcmaeon",
+    "type": "Poet"
+  },
+  "tlg0816": {
+    "century": -4,
+    "name": "Theudo[Tus]",
+    "type": "Poet"
+  },
+  "tlg0825": {
+    "century": -1,
+    "name": "Melito",
+    "type": "Poet"
+  },
+  "tlg0833": {
+    "century": -4,
+    "name": "Anaxion",
+    "type": "Poet"
+  },
+  "tlg0845": {
+    "century": -5,
+    "name": "Ctesias",
+    "type": "Poet"
+  },
+  "tlg0856": {
+    "century": -4,
+    "name": "Dieuches",
+    "type": "Poet"
+  },
+  "tlg0876": {
+    "century": -3,
+    "name": "Phrynichus Ii",
+    "type": "Poet"
+  },
+  "tlg0888": {
+    "century": -4,
+    "name": "Eudemus",
+    "type": "Poet"
+  },
+  "tlg0889": {
+    "century": -4,
+    "name": "Timesitheus",
+    "type": "Poet"
+  },
+  "tlg0897": {
+    "century": -2,
+    "name": "Euthydemus",
+    "type": "Poet"
+  },
+  "tlg0900": {
+    "century": -4,
+    "name": "Cleomenes",
+    "type": "Poet"
+  },
+  "tlg0918": {
+    "century": -3,
+    "name": "Lamynthius",
+    "type": "Poet"
+  },
+  "tlg0971": {
+    "century": -5,
+    "name": "Oeniades",
+    "type": "Poet"
+  },
+  "tlg0981": {
+    "century": -2,
+    "name": "Stesichorus Ii",
+    "type": "Poet"
+  },
+  "tlg1004": {
+    "century": -1,
+    "name": "Thessalus",
+    "type": "Poet"
+  },
+  "tlg1016": {
+    "century": -4,
+    "name": "Ostanes Magus",
+    "type": "Poet"
+  },
+  "tlg1021": {
+    "century": -5,
+    "name": "Meropis",
+    "type": "Poet"
+  },
+  "tlg1052": {
+    "century": -3,
+    "name": "Posidonius",
+    "type": "Poet"
+  },
+  "tlg1083": {
+    "century": -5,
+    "name": "Isigonus",
+    "type": "Poet"
+  },
+  "tlg1087": {
+    "century": -6,
+    "name": "Cleophon",
+    "type": "Poet"
+  },
+  "tlg1094": {
+    "century": -2,
+    "name": "Theodorides",
+    "type": "Poet"
+  },
+  "tlg1096": {
+    "century": -5,
+    "name": "Euaretus",
+    "type": "Poet"
+  },
+  "tlg1105": {
+    "century": -1,
+    "name": "Timaeus Praxidas",
+    "type": "Poet"
+  },
+  "tlg1115": {
+    "century": -4,
+    "name": "Archestratus",
+    "type": "Poet"
+  },
+  "tlg1118": {
+    "century": -1,
+    "name": "Pseudo–Dioscorides",
+    "type": "Poet"
+  },
+  "tlg1121": {
+    "century": -4,
+    "name": "Anaximenis Milesii Epistulae",
+    "type": "Poet"
+  },
+  "tlg1123": {
+    "century": -2,
+    "name": "Andron",
+    "type": "Poet"
+  },
+  "tlg1124": {
+    "century": -5,
+    "name": "Andronicus Rhodius",
+    "type": "Poet"
+  },
+  "tlg1125": {
+    "century": -4,
+    "name": "Androtion",
+    "type": "Poet"
+  },
+  "tlg1127": {
+    "century": -4,
+    "name": "Anonyma De Musica Scripta Bellermanniana",
+    "type": "Poet"
+  },
+  "tlg1128": {
+    "century": -4,
+    "name": "Anonymi Commentarius In Platonis Theaetetum",
+    "type": "Poet"
+  },
+  "tlg1129": {
+    "century": -4,
+    "name": "Anonymi De Barbarismo Et Soloecismo",
+    "type": "Poet"
+  },
+  "tlg1131": {
+    "century": -3,
+    "name": "Anonymus Ad Avircium Marcellum Contra Cataphrygas",
+    "type": "Poet"
+  },
+  "tlg1132": {
+    "century": -4,
+    "name": "Anonymus Alexandri",
+    "type": "Poet"
+  },
+  "tlg1133": {
+    "century": -2,
+    "name": "Anonymus Diodori",
+    "type": "Poet"
+  },
+  "tlg1134": {
+    "century": -2,
+    "name": "Anonymus Iamblichi",
+    "type": "Poet"
+  },
+  "tlg1135": {
+    "century": -3,
+    "name": "Anonymus Photii",
+    "type": "Poet"
+  },
+  "tlg1136": {
+    "century": -3,
+    "name": "Anonymus Presbyter",
+    "type": "Poet"
+  },
+  "tlg1138": {
+    "century": -4,
+    "name": "Lycon",
+    "type": "Poet"
+  },
+  "tlg1139": {
+    "century": -4,
+    "name": "Anonymi Historici (Fgrh)",
+    "type": "Poet"
+  },
+  "tlg1141": {
+    "century": -5,
+    "name": "Antimachus",
+    "type": "Poet"
+  },
+  "tlg1143": {
+    "century": -2,
+    "name": "Antiochus",
+    "type": "Poet"
+  },
+  "tlg1145": {
+    "century": -2,
+    "name": "Antiochus",
+    "type": "Poet"
+  },
+  "tlg1146": {
+    "century": -4,
+    "name": "Antipater",
+    "type": "Poet"
+  },
+  "tlg1147": {
+    "century": -5,
+    "name": "Antiphon",
+    "type": "Poet"
+  },
+  "tlg1148": {
+    "century": -4,
+    "name": "Antonius Diogenes",
+    "type": "Poet"
+  },
+  "tlg1149": {
+    "century": -4,
+    "name": "Antonini Pii Imperatoris Epistula",
+    "type": "Poet"
+  },
+  "tlg1150": {
+    "century": -2,
+    "name": "Aphareus",
+    "type": "Poet"
+  },
+  "tlg1152": {
+    "century": -2,
+    "name": "Apion",
+    "type": "Poet"
+  },
+  "tlg1153": {
+    "century": -2,
+    "name": "Apocalypsis Adam",
+    "type": "Poet"
+  },
+  "tlg1154": {
+    "century": -2,
+    "name": "Apocalypsis Baruch",
+    "type": "Poet"
+  },
+  "tlg1155": {
+    "century": -3,
+    "name": "Apocalypsis Syriaca Baruchi",
+    "type": "Poet"
+  },
+  "tlg1156": {
+    "century": -2,
+    "name": "Apocalypsis Eliae",
+    "type": "Poet"
+  },
+  "tlg1157": {
+    "century": -3,
+    "name": "Apocalypsis Esdrae",
+    "type": "Poet"
+  },
+  "tlg1158": {
+    "century": -3,
+    "name": "Apocalypsis Joannis",
+    "type": "Poet"
+  },
+  "tlg1160": {
+    "century": -3,
+    "name": "Apocalypsis Sophoniae",
+    "type": "Poet"
+  },
+  "tlg1161": {
+    "century": -3,
+    "name": "Apocryphon Ezechiel",
+    "type": "Poet"
+  },
+  "tlg1162": {
+    "century": -6,
+    "name": "Apollas",
+    "type": "Poet"
+  },
+  "tlg1163": {
+    "century": -6,
+    "name": "Claudius Apollinarius",
+    "type": "Poet"
+  },
+  "tlg1164": {
+    "century": -5,
+    "name": "Apollodorus",
+    "type": "Poet"
+  },
+  "tlg1165": {
+    "century": -3,
+    "name": "Apollodorus",
+    "type": "Poet"
+  },
+  "tlg1166": {
+    "century": -2,
+    "name": "Apollodorus",
+    "type": "Poet"
+  },
+  "tlg1167": {
+    "century": -3,
+    "name": "Apollonius",
+    "type": "Poet"
+  },
+  "tlg1168": {
+    "century": -3,
+    "name": "Apollonius",
+    "type": "Poet"
+  },
+  "tlg1170": {
+    "century": -1,
+    "name": "Apollonius",
+    "type": "Poet"
+  },
+  "tlg1171": {
+    "century": -3,
+    "name": "Apollonius",
+    "type": "Poet"
+  },
+  "tlg1172": {
+    "century": -3,
+    "name": "Arcesilaus",
+    "type": "Poet"
+  },
+  "tlg1173": {
+    "century": -4,
+    "name": "Archedemus",
+    "type": "Poet"
+  },
+  "tlg1174": {
+    "century": -4,
+    "name": "Archemachus",
+    "type": "Poet"
+  },
+  "tlg1175": {
+    "century": -5,
+    "name": "Archestratus",
+    "type": "Poet"
+  },
+  "tlg1176": {
+    "century": -4,
+    "name": "Archytas",
+    "type": "Poet"
+  },
+  "tlg1177": {
+    "century": -3,
+    "name": "Pseudo–Archytas",
+    "type": "Poet"
+  },
+  "tlg1178": {
+    "century": -2,
+    "name": "〈Aresas〉",
+    "type": "Poet"
+  },
+  "tlg1179": {
+    "century": -4,
+    "name": "〈Arimnestus〉",
+    "type": "Poet"
+  },
+  "tlg1180": {
+    "century": -5,
+    "name": "〈Aristaeus〉",
+    "type": "Poet"
+  },
+  "tlg1181": {
+    "century": -3,
+    "name": "Aristarchus",
+    "type": "Poet"
+  },
+  "tlg1182": {
+    "century": -5,
+    "name": "[Aristeas]",
+    "type": "Poet"
+  },
+  "tlg1183": {
+    "century": -6,
+    "name": "Aristeae Epistula",
+    "type": "Poet"
+  },
+  "tlg1184": {
+    "century": -2,
+    "name": "Aristides",
+    "type": "Poet"
+  },
+  "tlg1186": {
+    "century": -3,
+    "name": "Aristobulus Judaeus",
+    "type": "Poet"
+  },
+  "tlg1188": {
+    "century": -1,
+    "name": "Aristocles",
+    "type": "Poet"
+  },
+  "tlg1189": {
+    "century": -3,
+    "name": "Aristocrates",
+    "type": "Poet"
+  },
+  "tlg1190": {
+    "century": -5,
+    "name": "Aristagoras",
+    "type": "Poet"
+  },
+  "tlg1191": {
+    "century": -5,
+    "name": "〈Aristombrotus〉",
+    "type": "Poet"
+  },
+  "tlg1192": {
+    "century": -3,
+    "name": "Ariston",
+    "type": "Poet"
+  },
+  "tlg1193": {
+    "century": -2,
+    "name": "Ariston",
+    "type": "Poet"
+  },
+  "tlg1194": {
+    "century": -3,
+    "name": "Aristonicus",
+    "type": "Poet"
+  },
+  "tlg1196": {
+    "century": -4,
+    "name": "Aristophanes",
+    "type": "Poet"
+  },
+  "tlg1197": {
+    "century": -4,
+    "name": "Artemon",
+    "type": "Poet"
+  },
+  "tlg1199": {
+    "century": -1,
+    "name": "Asclepiades",
+    "type": "Poet"
+  },
+  "tlg1200": {
+    "century": -1,
+    "name": "Asclepiades",
+    "type": "Poet"
+  },
+  "tlg1201": {
+    "century": -4,
+    "name": "Assumptio Mosis",
+    "type": "Poet"
+  },
+  "tlg1202": {
+    "century": -4,
+    "name": "〈Athamas〉",
+    "type": "Poet"
+  },
+  "tlg1203": {
+    "century": -3,
+    "name": "Paeanes (Ca)",
+    "type": "Poet"
+  },
+  "tlg1204": {
+    "century": -3,
+    "name": "Athenaeus",
+    "type": "Poet"
+  },
+  "tlg1205": {
+    "century": -3,
+    "name": "Athenagoras",
+    "type": "Poet"
+  },
+  "tlg1206": {
+    "century": -7,
+    "name": "Athenodorus",
+    "type": "Poet"
+  },
+  "tlg1207": {
+    "century": -3,
+    "name": "Attalus",
+    "type": "Poet"
+  },
+  "tlg1208": {
+    "century": -3,
+    "name": "Atticus",
+    "type": "Poet"
+  },
+  "tlg1210": {
+    "century": -4,
+    "name": "Autolycus",
+    "type": "Poet"
+  },
+  "tlg1211": {
+    "century": -2,
+    "name": "Balagrus",
+    "type": "Poet"
+  },
+  "tlg1212": {
+    "century": -2,
+    "name": "Atridarum Reditus",
+    "type": "Poet"
+  },
+  "tlg1213": {
+    "century": -2,
+    "name": "Julia Balbilla",
+    "type": "Poet"
+  },
+  "tlg1216": {
+    "century": -2,
+    "name": "Barnabae Epistula",
+    "type": "Poet"
+  },
+  "tlg1218": {
+    "century": -3,
+    "name": "Basilis",
+    "type": "Poet"
+  },
+  "tlg1219": {
+    "century": -1,
+    "name": "Bato",
+    "type": "Poet"
+  },
+  "tlg1220": {
+    "century": -4,
+    "name": "Batrachomyomachia",
+    "type": "Poet"
+  },
+  "tlg1222": {
+    "century": -6,
+    "name": "Beros(S)Us",
+    "type": "Poet"
+  },
+  "tlg1223": {
+    "century": -2,
+    "name": "Bias",
+    "type": "Poet"
+  },
+  "tlg1224": {
+    "century": -4,
+    "name": "Bion",
+    "type": "Poet"
+  },
+  "tlg1225": {
+    "century": -2,
+    "name": "Bion",
+    "type": "Poet"
+  },
+  "tlg1226": {
+    "century": -1,
+    "name": "Biton",
+    "type": "Poet"
+  },
+  "tlg1227": {
+    "century": -4,
+    "name": "Blaesus",
+    "type": "Poet"
+  },
+  "tlg1228": {
+    "century": -1,
+    "name": "[Boeo]",
+    "type": "Poet"
+  },
+  "tlg1229": {
+    "century": -5,
+    "name": "[Boeus]",
+    "type": "Poet"
+  },
+  "tlg1230": {
+    "century": -1,
+    "name": "〈Brotinus〉",
+    "type": "Poet"
+  },
+  "tlg1231": {
+    "century": -1,
+    "name": "〈Bryson〉",
+    "type": "Poet"
+  },
+  "tlg1232": {
+    "century": -5,
+    "name": "〈Butherus〉",
+    "type": "Poet"
+  },
+  "tlg1237": {
+    "century": -4,
+    "name": "〈Callicratidas〉",
+    "type": "Poet"
+  },
+  "tlg1239": {
+    "century": -5,
+    "name": "Domitius Callistratus",
+    "type": "Poet"
+  },
+  "tlg1240": {
+    "century": -5,
+    "name": "Callixenus",
+    "type": "Poet"
+  },
+  "tlg1241": {
+    "century": -4,
+    "name": "Carmen Naupactium",
+    "type": "Poet"
+  },
+  "tlg1242": {
+    "century": -5,
+    "name": "Canon Librorum",
+    "type": "Poet"
+  },
+  "tlg1244": {
+    "century": -2,
+    "name": "Carneiscus",
+    "type": "Poet"
+  },
+  "tlg1245": {
+    "century": -4,
+    "name": "Carystius",
+    "type": "Poet"
+  },
+  "tlg1247": {
+    "century": -5,
+    "name": "〈Cebes〉",
+    "type": "Poet"
+  },
+  "tlg1248": {
+    "century": -5,
+    "name": "Celsus",
+    "type": "Poet"
+  },
+  "tlg1249": {
+    "century": -5,
+    "name": "Cephalion",
+    "type": "Poet"
+  },
+  "tlg1250": {
+    "century": -6,
+    "name": "Cercidas",
+    "type": "Poet"
+  },
+  "tlg1251": {
+    "century": -3,
+    "name": "Chamaeleon",
+    "type": "Poet"
+  },
+  "tlg1252": {
+    "century": -4,
+    "name": "Certamen Homeri Et Hesiodi",
+    "type": "Poet"
+  },
+  "tlg1254": {
+    "century": -3,
+    "name": "Charax",
+    "type": "Poet"
+  },
+  "tlg1256": {
+    "century": -1,
+    "name": "Chares",
+    "type": "Poet"
+  },
+  "tlg1257": {
+    "century": -5,
+    "name": "Charinus",
+    "type": "Poet"
+  },
+  "tlg1258": {
+    "century": -2,
+    "name": "Charon",
+    "type": "Poet"
+  },
+  "tlg1259": {
+    "century": -6,
+    "name": "〈Charondas Nomographus〉",
+    "type": "Poet"
+  },
+  "tlg1260": {
+    "century": -5,
+    "name": "[Chersias]",
+    "type": "Poet"
+  },
+  "tlg1262": {
+    "century": -3,
+    "name": "Choerilus",
+    "type": "Poet"
+  },
+  "tlg1263": {
+    "century": -4,
+    "name": "Choerilus",
+    "type": "Poet"
+  },
+  "tlg1264": {
+    "century": -3,
+    "name": "Chrysippus",
+    "type": "Poet"
+  },
+  "tlg1266": {
+    "century": -1,
+    "name": "Tyrannion",
+    "type": "Poet"
+  },
+  "tlg1268": {
+    "century": -4,
+    "name": "Claudius Iolaus",
+    "type": "Poet"
+  },
+  "tlg1269": {
+    "century": -4,
+    "name": "Cleanthes",
+    "type": "Poet"
+  },
+  "tlg1270": {
+    "century": -6,
+    "name": "Clearchus",
+    "type": "Poet"
+  },
+  "tlg1271": {
+    "century": -6,
+    "name": "Clemens Romanus Et Clementina",
+    "type": "Poet"
+  },
+  "tlg1272": {
+    "century": -5,
+    "name": "Cleomedes",
+    "type": "Poet"
+  },
+  "tlg1273": {
+    "century": -4,
+    "name": "Cleon",
+    "type": "Poet"
+  },
+  "tlg1274": {
+    "century": -5,
+    "name": "Cleobulus",
+    "type": "Poet"
+  },
+  "tlg1275": {
+    "century": -4,
+    "name": "Cleostratus",
+    "type": "Poet"
+  },
+  "tlg1276": {
+    "century": -5,
+    "name": "Clidemus",
+    "type": "Poet"
+  },
+  "tlg1277": {
+    "century": -4,
+    "name": "〈Clinias〉",
+    "type": "Poet"
+  },
+  "tlg1278": {
+    "century": -4,
+    "name": "Clitarchus",
+    "type": "Poet"
+  },
+  "tlg1281": {
+    "century": -4,
+    "name": "[Clitophon]",
+    "type": "Poet"
+  },
+  "tlg1282": {
+    "century": -1,
+    "name": "Clytus",
+    "type": "Poet"
+  },
+  "tlg1285": {
+    "century": -3,
+    "name": "Conon",
+    "type": "Poet"
+  },
+  "tlg1286": {
+    "century": -4,
+    "name": "Corpus Hermeticum",
+    "type": "Poet"
+  },
+  "tlg1287": {
+    "century": -4,
+    "name": "Crantor",
+    "type": "Poet"
+  },
+  "tlg1288": {
+    "century": -4,
+    "name": "Craterus",
+    "type": "Poet"
+  },
+  "tlg1289": {
+    "century": -2,
+    "name": "Crates",
+    "type": "Poet"
+  },
+  "tlg1291": {
+    "century": -2,
+    "name": "Creophylus",
+    "type": "Poet"
+  },
+  "tlg1292": {
+    "century": -2,
+    "name": "Crito",
+    "type": "Poet"
+  },
+  "tlg1293": {
+    "century": -5,
+    "name": "Crinis",
+    "type": "Poet"
+  },
+  "tlg1294": {
+    "century": -1,
+    "name": "Critolaus",
+    "type": "Poet"
+  },
+  "tlg1296": {
+    "century": -4,
+    "name": "Cypria",
+    "type": "Poet"
+  },
+  "tlg1297": {
+    "century": -5,
+    "name": "Damippus",
+    "type": "Poet"
+  },
+  "tlg1298": {
+    "century": -4,
+    "name": "Demetrii Phalerei Epistula",
+    "type": "Poet"
+  },
+  "tlg1301": {
+    "century": -1,
+    "name": "Demetrius",
+    "type": "Poet"
+  },
+  "tlg1302": {
+    "century": -3,
+    "name": "Demetrius",
+    "type": "Poet"
+  },
+  "tlg1303": {
+    "century": -5,
+    "name": "Demochares",
+    "type": "Poet"
+  },
+  "tlg1304": {
+    "century": -3,
+    "name": "Democritus",
+    "type": "Poet"
+  },
+  "tlg1305": {
+    "century": -6,
+    "name": "Democritus",
+    "type": "Poet"
+  },
+  "tlg1306": {
+    "century": -2,
+    "name": "Bolus",
+    "type": "Poet"
+  },
+  "tlg1307": {
+    "century": -4,
+    "name": "Demon",
+    "type": "Poet"
+  },
+  "tlg1308": {
+    "century": -3,
+    "name": "Demosthenes",
+    "type": "Poet"
+  },
+  "tlg1309": {
+    "century": -4,
+    "name": "Dialexeis (Δισσοὶ Λόγοι)",
+    "type": "Poet"
+  },
+  "tlg1310": {
+    "century": -4,
+    "name": "Dictys",
+    "type": "Poet"
+  },
+  "tlg1311": {
+    "century": -4,
+    "name": "Didache Xii Apostolorum",
+    "type": "Poet"
+  },
+  "tlg1312": {
+    "century": -1,
+    "name": "Didymus",
+    "type": "Poet"
+  },
+  "tlg1313": {
+    "century": -4,
+    "name": "Dieuchidas",
+    "type": "Poet"
+  },
+  "tlg1314": {
+    "century": -5,
+    "name": "Dinias",
+    "type": "Poet"
+  },
+  "tlg1315": {
+    "century": -4,
+    "name": "Dinolochus",
+    "type": "Poet"
+  },
+  "tlg1316": {
+    "century": -5,
+    "name": "Dinon",
+    "type": "Poet"
+  },
+  "tlg1318": {
+    "century": -1,
+    "name": "Diodorus",
+    "type": "Poet"
+  },
+  "tlg1319": {
+    "century": -5,
+    "name": "Diogenes",
+    "type": "Poet"
+  },
+  "tlg1320": {
+    "century": -4,
+    "name": "Diogenes",
+    "type": "Poet"
+  },
+  "tlg1321": {
+    "century": -4,
+    "name": "Diogenes",
+    "type": "Poet"
+  },
+  "tlg1322": {
+    "century": -4,
+    "name": "Diogenianus",
+    "type": "Poet"
+  },
+  "tlg1323": {
+    "century": -4,
+    "name": "Aelius Dionysius",
+    "type": "Poet"
+  },
+  "tlg1324": {
+    "century": -4,
+    "name": "Dionysius",
+    "type": "Poet"
+  },
+  "tlg1325": {
+    "century": -4,
+    "name": "Diogenis Sinopensis Epistulae",
+    "type": "Poet"
+  },
+  "tlg1326": {
+    "century": -5,
+    "name": "Dionysius",
+    "type": "Poet"
+  },
+  "tlg1327": {
+    "century": -4,
+    "name": "Dionis Epistulae",
+    "type": "Poet"
+  },
+  "tlg1328": {
+    "century": -4,
+    "name": "Dionysius",
+    "type": "Poet"
+  },
+  "tlg1329": {
+    "century": -4,
+    "name": "Dionysius",
+    "type": "Poet"
+  },
+  "tlg1332": {
+    "century": -4,
+    "name": "〈Diotogenes〉",
+    "type": "Poet"
+  },
+  "tlg1334": {
+    "century": -4,
+    "name": "Dius",
+    "type": "Poet"
+  },
+  "tlg1337": {
+    "century": -2,
+    "name": "Dorotheus",
+    "type": "Poet"
+  },
+  "tlg1338": {
+    "century": -4,
+    "name": "Dosiadas",
+    "type": "Poet"
+  },
+  "tlg1339": {
+    "century": -2,
+    "name": "Duris",
+    "type": "Poet"
+  },
+  "tlg1340": {
+    "century": -5,
+    "name": "〈Eccelus〉",
+    "type": "Poet"
+  },
+  "tlg1341": {
+    "century": -5,
+    "name": "〈Ecphantus〉",
+    "type": "Poet"
+  },
+  "tlg1342": {
+    "century": -3,
+    "name": "Empedocles",
+    "type": "Poet"
+  },
+  "tlg1343": {
+    "century": -4,
+    "name": "Eparchides",
+    "type": "Poet"
+  },
+  "tlg1344": {
+    "century": -5,
+    "name": "Epica Adespota (Ca)",
+    "type": "Poet"
+  },
+  "tlg1345": {
+    "century": -5,
+    "name": "Epica Incerta (Ca)",
+    "type": "Poet"
+  },
+  "tlg1346": {
+    "century": -5,
+    "name": "Ephraem",
+    "type": "Poet"
+  },
+  "tlg1347": {
+    "century": -2,
+    "name": "Epimenides",
+    "type": "Poet"
+  },
+  "tlg1349": {
+    "century": -3,
+    "name": "Epistula A Martyribus Lugdunensibus",
+    "type": "Poet"
+  },
+  "tlg1350": {
+    "century": -3,
+    "name": "Epistula Ad Diognetum",
+    "type": "Poet"
+  },
+  "tlg1351": {
+    "century": -4,
+    "name": "Epigoni",
+    "type": "Poet"
+  },
+  "tlg1352": {
+    "century": -3,
+    "name": "Epistula Ecclesiarum Apud Lugdunum Et Viennam",
+    "type": "Poet"
+  },
+  "tlg1353": {
+    "century": -3,
+    "name": "Epitaphium Abercii",
+    "type": "Poet"
+  },
+  "tlg1354": {
+    "century": -4,
+    "name": "Ergias",
+    "type": "Poet"
+  },
+  "tlg1355": {
+    "century": -4,
+    "name": "Erinna",
+    "type": "Poet"
+  },
+  "tlg1357": {
+    "century": -4,
+    "name": "Eudemus",
+    "type": "Poet"
+  },
+  "tlg1358": {
+    "century": -3,
+    "name": "Eudoxus",
+    "type": "Poet"
+  },
+  "tlg1360": {
+    "century": -3,
+    "name": "〈Euryphamus〉",
+    "type": "Poet"
+  },
+  "tlg1361": {
+    "century": -7,
+    "name": "Eumedes",
+    "type": "Poet"
+  },
+  "tlg1362": {
+    "century": -4,
+    "name": "〈Eurytus〉",
+    "type": "Poet"
+  },
+  "tlg1364": {
+    "century": -2,
+    "name": "Evangelium Aegyptium",
+    "type": "Poet"
+  },
+  "tlg1365": {
+    "century": -5,
+    "name": "Melampus Scriptor De Divinatione",
+    "type": "Poet"
+  },
+  "tlg1366": {
+    "century": -2,
+    "name": "Evangelium Bartholomaei",
+    "type": "Poet"
+  },
+  "tlg1367": {
+    "century": -3,
+    "name": "Euripidis Epistulae",
+    "type": "Poet"
+  },
+  "tlg1368": {
+    "century": -2,
+    "name": "Evangelium Ebionitum",
+    "type": "Poet"
+  },
+  "tlg1369": {
+    "century": -2,
+    "name": "Evangelium Mariae",
+    "type": "Poet"
+  },
+  "tlg1371": {
+    "century": -2,
+    "name": "Evangelium Petri",
+    "type": "Poet"
+  },
+  "tlg1372": {
+    "century": -2,
+    "name": "Evangelium Evae",
+    "type": "Poet"
+  },
+  "tlg1373": {
+    "century": -2,
+    "name": "Evangelium Philippi",
+    "type": "Poet"
+  },
+  "tlg1374": {
+    "century": -2,
+    "name": "Evangelium Secundum Hebraeos",
+    "type": "Poet"
+  },
+  "tlg1375": {
+    "century": -2,
+    "name": "Evangelium Thomae",
+    "type": "Poet"
+  },
+  "tlg1376": {
+    "century": -4,
+    "name": "Eudemus",
+    "type": "Poet"
+  },
+  "tlg1377": {
+    "century": -1,
+    "name": "Favorinus",
+    "type": "Poet"
+  },
+  "tlg1379": {
+    "century": -1,
+    "name": "Fragmenta Alchemica",
+    "type": "Poet"
+  },
+  "tlg1381": {
+    "century": -1,
+    "name": "Fragmentum Synodicae Epistulae Concilii Caesariensis",
+    "type": "Poet"
+  },
+  "tlg1382": {
+    "century": -1,
+    "name": "Fragmentum Teliambicum",
+    "type": "Poet"
+  },
+  "tlg1383": {
+    "century": -2,
+    "name": "Geminus",
+    "type": "Poet"
+  },
+  "tlg1386": {
+    "century": -8,
+    "name": "Historia Alexandri Magni",
+    "type": "Poet"
+  },
+  "tlg1387": {
+    "century": -1,
+    "name": "(H)Agias–Dercylus",
+    "type": "Poet"
+  },
+  "tlg1388": {
+    "century": -6,
+    "name": "Harmodius",
+    "type": "Poet"
+  },
+  "tlg1389": {
+    "century": -6,
+    "name": "Harpocration",
+    "type": "Poet"
+  },
+  "tlg1390": {
+    "century": -4,
+    "name": "Hecataeus",
+    "type": "Poet"
+  },
+  "tlg1391": {
+    "century": -3,
+    "name": "Hegemon",
+    "type": "Poet"
+  },
+  "tlg1392": {
+    "century": -2,
+    "name": "Hegesander",
+    "type": "Poet"
+  },
+  "tlg1393": {
+    "century": -3,
+    "name": "Hegesianax",
+    "type": "Poet"
+  },
+  "tlg1395": {
+    "century": -3,
+    "name": "[Hegesinus]",
+    "type": "Poet"
+  },
+  "tlg1397": {
+    "century": -1,
+    "name": "Hegesippus",
+    "type": "Poet"
+  },
+  "tlg1398": {
+    "century": -1,
+    "name": "Hegesippus",
+    "type": "Poet"
+  },
+  "tlg1399": {
+    "century": -4,
+    "name": "Pamphilus",
+    "type": "Poet"
+  },
+  "tlg1400": {
+    "century": -5,
+    "name": "Heliodorus",
+    "type": "Poet"
+  },
+  "tlg1402": {
+    "century": -5,
+    "name": "Hephaestion",
+    "type": "Poet"
+  },
+  "tlg1405": {
+    "century": -4,
+    "name": "Heraclides Criticus",
+    "type": "Poet"
+  },
+  "tlg1406": {
+    "century": -2,
+    "name": "Heraclides",
+    "type": "Poet"
+  },
+  "tlg1407": {
+    "century": -4,
+    "name": "Heraclides Lembus",
+    "type": "Poet"
+  },
+  "tlg1408": {
+    "century": -2,
+    "name": "Heraclides",
+    "type": "Poet"
+  },
+  "tlg1409": {
+    "century": -6,
+    "name": "Heraclides Ponticus",
+    "type": "Poet"
+  },
+  "tlg1411": {
+    "century": -6,
+    "name": "Heracliti Ephesii Epistulae",
+    "type": "Poet"
+  },
+  "tlg1412": {
+    "century": -6,
+    "name": "Pseudo–Heracliti Epistulae",
+    "type": "Poet"
+  },
+  "tlg1413": {
+    "century": -4,
+    "name": "Heraclitus",
+    "type": "Poet"
+  },
+  "tlg1414": {
+    "century": -4,
+    "name": "Heraclitus",
+    "type": "Poet"
+  },
+  "tlg1416": {
+    "century": -3,
+    "name": "(H)Eren(N)Ius Philo",
+    "type": "Poet"
+  },
+  "tlg1419": {
+    "century": -4,
+    "name": "Hermas",
+    "type": "Poet"
+  },
+  "tlg1420": {
+    "century": -4,
+    "name": "Hermias",
+    "type": "Poet"
+  },
+  "tlg1421": {
+    "century": -4,
+    "name": "Hermippus",
+    "type": "Poet"
+  },
+  "tlg1425": {
+    "century": -3,
+    "name": "Hermonax",
+    "type": "Poet"
+  },
+  "tlg1426": {
+    "century": -2,
+    "name": "Herodes Atticus",
+    "type": "Poet"
+  },
+  "tlg1427": {
+    "century": -5,
+    "name": "Herodorus",
+    "type": "Poet"
+  },
+  "tlg1428": {
+    "century": -5,
+    "name": "Hestiaeus",
+    "type": "Poet"
+  },
+  "tlg1429": {
+    "century": -3,
+    "name": "Hierocles",
+    "type": "Poet"
+  },
+  "tlg1430": {
+    "century": -3,
+    "name": "Hieronymus",
+    "type": "Poet"
+  },
+  "tlg1431": {
+    "century": -6,
+    "name": "Hipparchus",
+    "type": "Poet"
+  },
+  "tlg1432": {
+    "century": -6,
+    "name": "〈Hipparchus〉",
+    "type": "Poet"
+  },
+  "tlg1433": {
+    "century": -3,
+    "name": "Hipparchus",
+    "type": "Poet"
+  },
+  "tlg1434": {
+    "century": -4,
+    "name": "Hippias",
+    "type": "Poet"
+  },
+  "tlg1435": {
+    "century": -5,
+    "name": "Hippias",
+    "type": "Poet"
+  },
+  "tlg1436": {
+    "century": -5,
+    "name": "〈Hippodamus〉",
+    "type": "Poet"
+  },
+  "tlg1437": {
+    "century": -6,
+    "name": "Hippon",
+    "type": "Poet"
+  },
+  "tlg1438": {
+    "century": -8,
+    "name": "Hippys",
+    "type": "Poet"
+  },
+  "tlg1439": {
+    "century": -4,
+    "name": "Hermarchus",
+    "type": "Poet"
+  },
+  "tlg1441": {
+    "century": -6,
+    "name": "Iamblichus",
+    "type": "Poet"
+  },
+  "tlg1442": {
+    "century": -6,
+    "name": "Idomeneus",
+    "type": "Poet"
+  },
+  "tlg1443": {
+    "century": -6,
+    "name": "Ignatius",
+    "type": "Poet"
+  },
+  "tlg1444": {
+    "century": -6,
+    "name": "Ilias Parva",
+    "type": "Poet"
+  },
+  "tlg1445": {
+    "century": -5,
+    "name": "Iliu Persis",
+    "type": "Poet"
+  },
+  "tlg1446": {
+    "century": -5,
+    "name": "Ion",
+    "type": "Poet"
+  },
+  "tlg1447": {
+    "century": -5,
+    "name": "Irenaeus",
+    "type": "Poet"
+  },
+  "tlg1450": {
+    "century": -3,
+    "name": "Ister",
+    "type": "Poet"
+  },
+  "tlg1451": {
+    "century": -1,
+    "name": "Josephus Et Aseneth",
+    "type": "Poet"
+  },
+  "tlg1452": {
+    "century": -2,
+    "name": "Juba Ii Rex Mauretaniae",
+    "type": "Poet"
+  },
+  "tlg1459": {
+    "century": -2,
+    "name": "Lepidus",
+    "type": "Poet"
+  },
+  "tlg1460": {
+    "century": -2,
+    "name": "Lesbonax",
+    "type": "Poet"
+  },
+  "tlg1461": {
+    "century": -5,
+    "name": "Leucippus",
+    "type": "Poet"
+  },
+  "tlg1462": {
+    "century": -1,
+    "name": "Liber Eldad Et Modad",
+    "type": "Poet"
+  },
+  "tlg1463": {
+    "century": -1,
+    "name": "Liber Enoch",
+    "type": "Poet"
+  },
+  "tlg1464": {
+    "century": -5,
+    "name": "Liber Jubilaeorum",
+    "type": "Poet"
+  },
+  "tlg1466": {
+    "century": -1,
+    "name": "Lollianus",
+    "type": "Poet"
+  },
+  "tlg1469": {
+    "century": -3,
+    "name": "Lyceas",
+    "type": "Poet"
+  },
+  "tlg1470": {
+    "century": -3,
+    "name": "Lycus",
+    "type": "Poet"
+  },
+  "tlg1471": {
+    "century": -5,
+    "name": "Lyrica Adespota (Slg)",
+    "type": "Poet"
+  },
+  "tlg1475": {
+    "century": -4,
+    "name": "Maiistas",
+    "type": "Poet"
+  },
+  "tlg1476": {
+    "century": -3,
+    "name": "Mamercus",
+    "type": "Poet"
+  },
+  "tlg1477": {
+    "century": -4,
+    "name": "Manetho",
+    "type": "Poet"
+  },
+  "tlg1479": {
+    "century": -4,
+    "name": "Marci Aurelii Epistula",
+    "type": "Poet"
+  },
+  "tlg1482": {
+    "century": -4,
+    "name": "Cyranides",
+    "type": "Poet"
+  },
+  "tlg1483": {
+    "century": -4,
+    "name": "Martyrium Et Ascensio Isaiae",
+    "type": "Poet"
+  },
+  "tlg1484": {
+    "century": -4,
+    "name": "Martyrium Polycarpi",
+    "type": "Poet"
+  },
+  "tlg1485": {
+    "century": -4,
+    "name": "Martyrium Ptolemaei Et Lucii",
+    "type": "Poet"
+  },
+  "tlg1486": {
+    "century": -4,
+    "name": "Matron",
+    "type": "Poet"
+  },
+  "tlg1487": {
+    "century": -4,
+    "name": "Maximus",
+    "type": "Poet"
+  },
+  "tlg1488": {
+    "century": -4,
+    "name": "Maximus",
+    "type": "Poet"
+  },
+  "tlg1489": {
+    "century": -2,
+    "name": "Megasthenes",
+    "type": "Poet"
+  },
+  "tlg1490": {
+    "century": -3,
+    "name": "〈Megillus〉",
+    "type": "Poet"
+  },
+  "tlg1491": {
+    "century": -5,
+    "name": "Melanthius",
+    "type": "Poet"
+  },
+  "tlg1493": {
+    "century": -3,
+    "name": "Melinno",
+    "type": "Poet"
+  },
+  "tlg1494": {
+    "century": -1,
+    "name": "Melissus",
+    "type": "Poet"
+  },
+  "tlg1495": {
+    "century": -1,
+    "name": "Melito",
+    "type": "Poet"
+  },
+  "tlg1496": {
+    "century": -4,
+    "name": "Memnon",
+    "type": "Poet"
+  },
+  "tlg1498": {
+    "century": -2,
+    "name": "Menander",
+    "type": "Poet"
+  },
+  "tlg1499": {
+    "century": -5,
+    "name": "Menecles",
+    "type": "Poet"
+  },
+  "tlg1500": {
+    "century": -4,
+    "name": "Menecrates",
+    "type": "Poet"
+  },
+  "tlg1503": {
+    "century": -4,
+    "name": "Menecrates",
+    "type": "Poet"
+  },
+  "tlg1504": {
+    "century": -5,
+    "name": "Menelaus",
+    "type": "Poet"
+  },
+  "tlg1505": {
+    "century": -5,
+    "name": "Menesthenes",
+    "type": "Poet"
+  },
+  "tlg1506": {
+    "century": -6,
+    "name": "Menodotus",
+    "type": "Poet"
+  },
+  "tlg1507": {
+    "century": -4,
+    "name": "〈Metopus〉",
+    "type": "Poet"
+  },
+  "tlg1508": {
+    "century": -1,
+    "name": "Metrodorus",
+    "type": "Poet"
+  },
+  "tlg1509": {
+    "century": -7,
+    "name": "〈Milon〉",
+    "type": "Poet"
+  },
+  "tlg1511": {
+    "century": -5,
+    "name": "Mimnermus",
+    "type": "Poet"
+  },
+  "tlg1512": {
+    "century": -1,
+    "name": "Minyas",
+    "type": "Poet"
+  },
+  "tlg1514": {
+    "century": -4,
+    "name": "Mnaseas",
+    "type": "Poet"
+  },
+  "tlg1515": {
+    "century": -4,
+    "name": "Moeris",
+    "type": "Poet"
+  },
+  "tlg1516": {
+    "century": -4,
+    "name": "Molpis",
+    "type": "Poet"
+  },
+  "tlg1521": {
+    "century": -5,
+    "name": "Vita Et Sententiae Secundi",
+    "type": "Poet"
+  },
+  "tlg1523": {
+    "century": -3,
+    "name": "Myron",
+    "type": "Poet"
+  },
+  "tlg1524": {
+    "century": -4,
+    "name": "Naumachius",
+    "type": "Poet"
+  },
+  "tlg1525": {
+    "century": -5,
+    "name": "Neanthes",
+    "type": "Poet"
+  },
+  "tlg1526": {
+    "century": -5,
+    "name": "Neoptolemus",
+    "type": "Poet"
+  },
+  "tlg1527": {
+    "century": -5,
+    "name": "Nepualius",
+    "type": "Poet"
+  },
+  "tlg1529": {
+    "century": -2,
+    "name": "Nicander",
+    "type": "Poet"
+  },
+  "tlg1530": {
+    "century": -5,
+    "name": "Nicanor",
+    "type": "Poet"
+  },
+  "tlg1533": {
+    "century": -5,
+    "name": "Nicias",
+    "type": "Poet"
+  },
+  "tlg1534": {
+    "century": -2,
+    "name": "Nicocles",
+    "type": "Poet"
+  },
+  "tlg1535": {
+    "century": -4,
+    "name": "Nicocrates",
+    "type": "Poet"
+  },
+  "tlg1541": {
+    "century": -3,
+    "name": "Nostoi",
+    "type": "Poet"
+  },
+  "tlg1542": {
+    "century": -4,
+    "name": "Numenius",
+    "type": "Poet"
+  },
+  "tlg1544": {
+    "century": -4,
+    "name": "Nymphis",
+    "type": "Poet"
+  },
+  "tlg1545": {
+    "century": -6,
+    "name": "Ocellus",
+    "type": "Poet"
+  },
+  "tlg1546": {
+    "century": -6,
+    "name": "Oechaliae Halosis",
+    "type": "Poet"
+  },
+  "tlg1547": {
+    "century": -4,
+    "name": "Oedipodea",
+    "type": "Poet"
+  },
+  "tlg1548": {
+    "century": -5,
+    "name": "Oenomaus",
+    "type": "Poet"
+  },
+  "tlg1549": {
+    "century": -4,
+    "name": "〈Onatas〉",
+    "type": "Poet"
+  },
+  "tlg1550": {
+    "century": -2,
+    "name": "Oracula Chaldaica",
+    "type": "Poet"
+  },
+  "tlg1551": {
+    "century": -1,
+    "name": "Oracula Sibyllina",
+    "type": "Poet"
+  },
+  "tlg1552": {
+    "century": -1,
+    "name": "Oratio Josephi",
+    "type": "Poet"
+  },
+  "tlg1553": {
+    "century": -4,
+    "name": "〈Palaephatus〉",
+    "type": "Poet"
+  },
+  "tlg1555": {
+    "century": -2,
+    "name": "Pancrates",
+    "type": "Poet"
+  },
+  "tlg1556": {
+    "century": -5,
+    "name": "Pancrates",
+    "type": "Poet"
+  },
+  "tlg1557": {
+    "century": -5,
+    "name": "Panyassis",
+    "type": "Poet"
+  },
+  "tlg1558": {
+    "century": -5,
+    "name": "Papias",
+    "type": "Poet"
+  },
+  "tlg1559": {
+    "century": -1,
+    "name": "Bucolicum",
+    "type": "Poet"
+  },
+  "tlg1560": {
+    "century": -4,
+    "name": "Matthiae Traditiones",
+    "type": "Poet"
+  },
+  "tlg1562": {
+    "century": -6,
+    "name": "Parmenides",
+    "type": "Poet"
+  },
+  "tlg1566": {
+    "century": -6,
+    "name": "Parmeno",
+    "type": "Poet"
+  },
+  "tlg1567": {
+    "century": -1,
+    "name": "Parrhasius",
+    "type": "Poet"
+  },
+  "tlg1568": {
+    "century": -1,
+    "name": "Parthax",
+    "type": "Poet"
+  },
+  "tlg1569": {
+    "century": -2,
+    "name": "Pausanias",
+    "type": "Poet"
+  },
+  "tlg1570": {
+    "century": -3,
+    "name": "Epitaphium Pectorii",
+    "type": "Poet"
+  },
+  "tlg1571": {
+    "century": -7,
+    "name": "〈Pempelus〉",
+    "type": "Poet"
+  },
+  "tlg1572": {
+    "century": -4,
+    "name": "〈Perictione〉",
+    "type": "Poet"
+  },
+  "tlg1574": {
+    "century": -4,
+    "name": "Persaeus",
+    "type": "Poet"
+  },
+  "tlg1576": {
+    "century": -3,
+    "name": "Phaedimus",
+    "type": "Poet"
+  },
+  "tlg1577": {
+    "century": -4,
+    "name": "Phaedimus",
+    "type": "Poet"
+  },
+  "tlg1578": {
+    "century": -4,
+    "name": "Phaenias",
+    "type": "Poet"
+  },
+  "tlg1580": {
+    "century": -3,
+    "name": "Phaestus",
+    "type": "Poet"
+  },
+  "tlg1583": {
+    "century": -2,
+    "name": "Phanodemus",
+    "type": "Poet"
+  },
+  "tlg1584": {
+    "century": -2,
+    "name": "Pherecydes",
+    "type": "Poet"
+  },
+  "tlg1585": {
+    "century": -2,
+    "name": "Pherecydis Epistula",
+    "type": "Poet"
+  },
+  "tlg1587": {
+    "century": -3,
+    "name": "Philiades",
+    "type": "Poet"
+  },
+  "tlg1588": {
+    "century": -3,
+    "name": "Philicus",
+    "type": "Poet"
+  },
+  "tlg1590": {
+    "century": -5,
+    "name": "Philippus",
+    "type": "Poet"
+  },
+  "tlg1591": {
+    "century": -4,
+    "name": "Philistus",
+    "type": "Poet"
+  },
+  "tlg1594": {
+    "century": -4,
+    "name": "Philo Judaeus Senior",
+    "type": "Poet"
+  },
+  "tlg1595": {
+    "century": -5,
+    "name": "Philodemus",
+    "type": "Poet"
+  },
+  "tlg1596": {
+    "century": -5,
+    "name": "Philolaus",
+    "type": "Poet"
+  },
+  "tlg1597": {
+    "century": -5,
+    "name": "〈Telauges〉",
+    "type": "Poet"
+  },
+  "tlg1599": {
+    "century": -5,
+    "name": "Philo",
+    "type": "Poet"
+  },
+  "tlg1600": {
+    "century": -5,
+    "name": "Philostratus Major",
+    "type": "Poet"
+  },
+  "tlg1602": {
+    "century": -5,
+    "name": "Philoxenus",
+    "type": "Poet"
+  },
+  "tlg1603": {
+    "century": -6,
+    "name": "〈Phintys〉",
+    "type": "Poet"
+  },
+  "tlg1604": {
+    "century": -3,
+    "name": "Phocylides",
+    "type": "Poet"
+  },
+  "tlg1605": {
+    "century": -3,
+    "name": "Pseudo–Phocylides",
+    "type": "Poet"
+  },
+  "tlg1606": {
+    "century": -6,
+    "name": "Phoenix",
+    "type": "Poet"
+  },
+  "tlg1607": {
+    "century": -5,
+    "name": "Phoronis",
+    "type": "Poet"
+  },
+  "tlg1608": {
+    "century": -5,
+    "name": "Phrynichus",
+    "type": "Poet"
+  },
+  "tlg1609": {
+    "century": -6,
+    "name": "Phylarchus",
+    "type": "Poet"
+  },
+  "tlg1611": {
+    "century": -7,
+    "name": "Tyrannion Junior",
+    "type": "Poet"
+  },
+  "tlg1613": {
+    "century": -7,
+    "name": "Pittaci Epistula",
+    "type": "Poet"
+  },
+  "tlg1615": {
+    "century": -1,
+    "name": "Platonius",
+    "type": "Poet"
+  },
+  "tlg1617": {
+    "century": -3,
+    "name": "Marcus Antonius Polemon",
+    "type": "Poet"
+  },
+  "tlg1622": {
+    "century": -2,
+    "name": "Polycarpus",
+    "type": "Poet"
+  },
+  "tlg1623": {
+    "century": -5,
+    "name": "Polycharmus",
+    "type": "Poet"
+  },
+  "tlg1625": {
+    "century": -1,
+    "name": "Polyclitus",
+    "type": "Poet"
+  },
+  "tlg1626": {
+    "century": -4,
+    "name": "Polycrates",
+    "type": "Poet"
+  },
+  "tlg1627": {
+    "century": -4,
+    "name": "Polycrates",
+    "type": "Poet"
+  },
+  "tlg1629": {
+    "century": -5,
+    "name": "Polystratus",
+    "type": "Poet"
+  },
+  "tlg1632": {
+    "century": -2,
+    "name": "Posidippus",
+    "type": "Poet"
+  },
+  "tlg1633": {
+    "century": -1,
+    "name": "Praxiteles",
+    "type": "Poet"
+  },
+  "tlg1634": {
+    "century": -4,
+    "name": "Prodicus",
+    "type": "Poet"
+  },
+  "tlg1635": {
+    "century": -2,
+    "name": "Protagoras",
+    "type": "Poet"
+  },
+  "tlg1636": {
+    "century": -3,
+    "name": "Protagorides",
+    "type": "Poet"
+  },
+  "tlg1637": {
+    "century": -3,
+    "name": "Protevangelium Jacobi",
+    "type": "Poet"
+  },
+  "tlg1638": {
+    "century": -2,
+    "name": "Proxenus",
+    "type": "Poet"
+  },
+  "tlg1639": {
+    "century": -2,
+    "name": "Pseudo–Auctores Hellenistae (Psvtgr)",
+    "type": "Poet"
+  },
+  "tlg1641": {
+    "century": -2,
+    "name": "Ptolemaeus",
+    "type": "Poet"
+  },
+  "tlg1642": {
+    "century": -3,
+    "name": "Pseudo–Ptolemaeus",
+    "type": "Poet"
+  },
+  "tlg1643": {
+    "century": -3,
+    "name": "Ptolemaeus",
+    "type": "Poet"
+  },
+  "tlg1645": {
+    "century": -4,
+    "name": "Ptolemaeus Viii Euergetes Ii",
+    "type": "Poet"
+  },
+  "tlg1646": {
+    "century": -3,
+    "name": "Ptolemaeus",
+    "type": "Poet"
+  },
+  "tlg1648": {
+    "century": -3,
+    "name": "Pyrgion",
+    "type": "Poet"
+  },
+  "tlg1649": {
+    "century": -6,
+    "name": "Pythaenetus",
+    "type": "Poet"
+  },
+  "tlg1650": {
+    "century": -3,
+    "name": "Pytheas",
+    "type": "Poet"
+  },
+  "tlg1651": {
+    "century": -4,
+    "name": "Pythermus",
+    "type": "Poet"
+  },
+  "tlg1654": {
+    "century": -2,
+    "name": "Rhinthon",
+    "type": "Poet"
+  },
+  "tlg1661": {
+    "century": -4,
+    "name": "Satyrus",
+    "type": "Poet"
+  },
+  "tlg1662": {
+    "century": -4,
+    "name": "Sciras",
+    "type": "Poet"
+  },
+  "tlg1663": {
+    "century": -7,
+    "name": "Semus",
+    "type": "Poet"
+  },
+  "tlg1664": {
+    "century": -7,
+    "name": "Seniores Alexandrini",
+    "type": "Poet"
+  },
+  "tlg1665": {
+    "century": -7,
+    "name": "Seniores Apud Irenaeum",
+    "type": "Poet"
+  },
+  "tlg1666": {
+    "century": -7,
+    "name": "Sententiae Sexti",
+    "type": "Poet"
+  },
+  "tlg1667": {
+    "century": -3,
+    "name": "〈Septem Sapientes〉",
+    "type": "Poet"
+  },
+  "tlg1670": {
+    "century": -3,
+    "name": "Serapion",
+    "type": "Poet"
+  },
+  "tlg1675": {
+    "century": -4,
+    "name": "Simylus",
+    "type": "Poet"
+  },
+  "tlg1676": {
+    "century": -4,
+    "name": "Simylus",
+    "type": "Poet"
+  },
+  "tlg1678": {
+    "century": -1,
+    "name": "Socrates",
+    "type": "Poet"
+  },
+  "tlg1679": {
+    "century": -7,
+    "name": "Socrates",
+    "type": "Poet"
+  },
+  "tlg1680": {
+    "century": -7,
+    "name": "〈Sodamus〉",
+    "type": "Poet"
+  },
+  "tlg1681": {
+    "century": -4,
+    "name": "Solonis Epistulae",
+    "type": "Poet"
+  },
+  "tlg1682": {
+    "century": -5,
+    "name": "Sopater",
+    "type": "Poet"
+  },
+  "tlg1683": {
+    "century": -4,
+    "name": "Sophaenetus",
+    "type": "Poet"
+  },
+  "tlg1685": {
+    "century": -3,
+    "name": "Sosibius",
+    "type": "Poet"
+  },
+  "tlg1687": {
+    "century": -2,
+    "name": "Sosicrates",
+    "type": "Poet"
+  },
+  "tlg1688": {
+    "century": -1,
+    "name": "Sostratus",
+    "type": "Poet"
+  },
+  "tlg1690": {
+    "century": -4,
+    "name": "Sotadea",
+    "type": "Poet"
+  },
+  "tlg1691": {
+    "century": -4,
+    "name": "Sotades",
+    "type": "Poet"
+  },
+  "tlg1692": {
+    "century": -3,
+    "name": "Speusippus",
+    "type": "Poet"
+  },
+  "tlg1693": {
+    "century": -4,
+    "name": "Sphaerus",
+    "type": "Poet"
+  },
+  "tlg1695": {
+    "century": -1,
+    "name": "〈Sthenidas〉",
+    "type": "Poet"
+  },
+  "tlg1696": {
+    "century": -5,
+    "name": "Straton",
+    "type": "Poet"
+  },
+  "tlg1698": {
+    "century": -3,
+    "name": "Telephus",
+    "type": "Poet"
+  },
+  "tlg1699": {
+    "century": -5,
+    "name": "Teles",
+    "type": "Poet"
+  },
+  "tlg1700": {
+    "century": -1,
+    "name": "Testamenta Xii Patriarcharum",
+    "type": "Poet"
+  },
+  "tlg1701": {
+    "century": -1,
+    "name": "Testamentum Abrahae",
+    "type": "Poet"
+  },
+  "tlg1702": {
+    "century": -1,
+    "name": "Testamentum Jobi",
+    "type": "Poet"
+  },
+  "tlg1703": {
+    "century": -1,
+    "name": "Teucer",
+    "type": "Poet"
+  },
+  "tlg1704": {
+    "century": -6,
+    "name": "Teucer",
+    "type": "Poet"
+  },
+  "tlg1705": {
+    "century": -3,
+    "name": "Thales",
+    "type": "Poet"
+  },
+  "tlg1706": {
+    "century": -3,
+    "name": "Thallus",
+    "type": "Poet"
+  },
+  "tlg1709": {
+    "century": -6,
+    "name": "Theagenes",
+    "type": "Poet"
+  },
+  "tlg1710": {
+    "century": -4,
+    "name": "〈Theages〉",
+    "type": "Poet"
+  },
+  "tlg1711": {
+    "century": -6,
+    "name": "〈Thearidas〉",
+    "type": "Poet"
+  },
+  "tlg1712": {
+    "century": -3,
+    "name": "Thebaïs",
+    "type": "Poet"
+  },
+  "tlg1713": {
+    "century": -3,
+    "name": "Themison",
+    "type": "Poet"
+  },
+  "tlg1714": {
+    "century": -4,
+    "name": "Theocritus",
+    "type": "Poet"
+  },
+  "tlg1715": {
+    "century": -4,
+    "name": "Theodoridas",
+    "type": "Poet"
+  },
+  "tlg1719": {
+    "century": -1,
+    "name": "Theodosius",
+    "type": "Poet"
+  },
+  "tlg1720": {
+    "century": -3,
+    "name": "Theodotus Judaeus",
+    "type": "Poet"
+  },
+  "tlg1723": {
+    "century": -1,
+    "name": "Theolytus",
+    "type": "Poet"
+  },
+  "tlg1724": {
+    "century": -1,
+    "name": "Theon",
+    "type": "Poet"
+  },
+  "tlg1725": {
+    "century": -4,
+    "name": "Theophilus",
+    "type": "Poet"
+  },
+  "tlg1726": {
+    "century": -2,
+    "name": "Theopompus",
+    "type": "Poet"
+  },
+  "tlg1727": {
+    "century": -6,
+    "name": "Theotimus",
+    "type": "Poet"
+  },
+  "tlg1728": {
+    "century": -6,
+    "name": "Theseus",
+    "type": "Poet"
+  },
+  "tlg1729": {
+    "century": -5,
+    "name": "Thrasymachus",
+    "type": "Poet"
+  },
+  "tlg1732": {
+    "century": -4,
+    "name": "Timachidas",
+    "type": "Poet"
+  },
+  "tlg1733": {
+    "century": -2,
+    "name": "Timaeus",
+    "type": "Poet"
+  },
+  "tlg1734": {
+    "century": -2,
+    "name": "Timaeus",
+    "type": "Poet"
+  },
+  "tlg1735": {
+    "century": -3,
+    "name": "Timon",
+    "type": "Poet"
+  },
+  "tlg1736": {
+    "century": -4,
+    "name": "Timonax",
+    "type": "Poet"
+  },
+  "tlg1737": {
+    "century": -1,
+    "name": "Titanomachia",
+    "type": "Poet"
+  },
+  "tlg1738": {
+    "century": -1,
+    "name": "Tragica Adespota",
+    "type": "Poet"
+  },
+  "tlg1746": {
+    "century": -1,
+    "name": "Valentinus",
+    "type": "Poet"
+  },
+  "tlg1747": {
+    "century": -5,
+    "name": "Vita Adam Et Evae",
+    "type": "Poet"
+  },
+  "tlg1748": {
+    "century": -3,
+    "name": "Sosigenes",
+    "type": "Poet"
+  },
+  "tlg1749": {
+    "century": -5,
+    "name": "Vitae Hesiodi Particula",
+    "type": "Poet"
+  },
+  "tlg1750": {
+    "century": -5,
+    "name": "Vitae Prophetarum",
+    "type": "Poet"
+  },
+  "tlg1751": {
+    "century": -1,
+    "name": "Xanthus",
+    "type": "Poet"
+  },
+  "tlg1752": {
+    "century": -4,
+    "name": "Xenagoras",
+    "type": "Poet"
+  },
+  "tlg1753": {
+    "century": -3,
+    "name": "Xenion",
+    "type": "Poet"
+  },
+  "tlg1754": {
+    "century": -5,
+    "name": "Xenophontis Epistulae",
+    "type": "Poet"
+  },
+  "tlg1756": {
+    "century": -5,
+    "name": "Demetrius",
+    "type": "Poet"
+  },
+  "tlg1757": {
+    "century": -2,
+    "name": "Julius",
+    "type": "Poet"
+  },
+  "tlg1759": {
+    "century": -7,
+    "name": "Sententiae Pythagoreorum",
+    "type": "Poet"
+  },
+  "tlg1760": {
+    "century": -5,
+    "name": "Gaius Suetonius Tranquillus",
+    "type": "Poet"
+  },
+  "tlg1763": {
+    "century": -5,
+    "name": "Tryphon Ii",
+    "type": "Poet"
+  },
+  "tlg1764": {
+    "century": -1,
+    "name": "Vettius Valens",
+    "type": "Poet"
+  },
+  "tlg1765": {
+    "century": -5,
+    "name": "Vitae Aesopi",
+    "type": "Poet"
+  },
+  "tlg1766": {
+    "century": -5,
+    "name": "Tatianus",
+    "type": "Poet"
+  },
+  "tlg1771": {
+    "century": -5,
+    "name": "Montanus Et Montanistae",
+    "type": "Poet"
+  },
+  "tlg1772": {
+    "century": -5,
+    "name": "Paraleipomena Jeremiou",
+    "type": "Poet"
+  },
+  "tlg1775": {
+    "century": -1,
+    "name": "Pseudo–Agathon",
+    "type": "Poet"
+  },
+  "tlg1779": {
+    "century": -5,
+    "name": "Anonymus Epicureus",
+    "type": "Poet"
+  },
+  "tlg1780": {
+    "century": -4,
+    "name": "Alcimenes",
+    "type": "Poet"
+  },
+  "tlg1781": {
+    "century": -3,
+    "name": "Philippus",
+    "type": "Poet"
+  },
+  "tlg1782": {
+    "century": -3,
+    "name": "Augeas",
+    "type": "Poet"
+  },
+  "tlg1783": {
+    "century": -3,
+    "name": "Callicrates",
+    "type": "Poet"
+  },
+  "tlg1784": {
+    "century": -4,
+    "name": "〈Heraclitus〉",
+    "type": "Poet"
+  },
+  "tlg1785": {
+    "century": -5,
+    "name": "Paramonus",
+    "type": "Poet"
+  },
+  "tlg1786": {
+    "century": -7,
+    "name": "Sogenes",
+    "type": "Poet"
+  },
+  "tlg1787": {
+    "century": -3,
+    "name": "[Menippus]",
+    "type": "Poet"
+  },
+  "tlg1788": {
+    "century": -6,
+    "name": "Phormis",
+    "type": "Poet"
+  },
+  "tlg1791": {
+    "century": -2,
+    "name": "Menandri Et Philistionis Sententiae",
+    "type": "Poet"
+  },
+  "tlg1792": {
+    "century": -2,
+    "name": "Biottus",
+    "type": "Poet"
+  },
+  "tlg1793": {
+    "century": -6,
+    "name": "Timoxenus",
+    "type": "Poet"
+  },
+  "tlg1794": {
+    "century": -4,
+    "name": "Philocles",
+    "type": "Poet"
+  },
+  "tlg1795": {
+    "century": -4,
+    "name": "Chaerion",
+    "type": "Poet"
+  },
+  "tlg1797": {
+    "century": -3,
+    "name": "Choliambica Adespota (Alg)",
+    "type": "Poet"
+  },
+  "tlg1799": {
+    "century": -4,
+    "name": "Euclides",
+    "type": "Poet"
+  },
+  "tlg1800": {
+    "century": -4,
+    "name": "Euboeus",
+    "type": "Poet"
+  },
+  "tlg1801": {
+    "century": -6,
+    "name": "Parodica Anonyma",
+    "type": "Poet"
+  },
+  "tlg1802": {
+    "century": -8,
+    "name": "Homerica",
+    "type": "Poet"
+  },
+  "tlg1803": {
+    "century": -3,
+    "name": "Bruti Epistulae",
+    "type": "Poet"
+  },
+  "tlg1804": {
+    "century": -6,
+    "name": "Ninus",
+    "type": "Poet"
+  },
+  "tlg1805": {
+    "century": -5,
+    "name": "Vitae Homeri",
+    "type": "Poet"
+  },
+  "tlg1811": {
+    "century": -7,
+    "name": "Metrodorus Major",
+    "type": "Poet"
+  },
+  "tlg1812": {
+    "century": -4,
+    "name": "Demaratus",
+    "type": "Poet"
+  },
+  "tlg1813": {
+    "century": -4,
+    "name": "Anonymus De Plantis Aegyptiis",
+    "type": "Poet"
+  },
+  "tlg1814": {
+    "century": -3,
+    "name": "Ptolemais",
+    "type": "Poet"
+  },
+  "tlg1815": {
+    "century": -7,
+    "name": "Sappho Et Alcaeus",
+    "type": "Poet"
+  },
+  "tlg1816": {
+    "century": -5,
+    "name": "Epica Adespota (Gdrk)",
+    "type": "Poet"
+  },
+  "tlg1817": {
+    "century": -1,
+    "name": "Fragmenta Anonyma (Psvtgr)",
+    "type": "Poet"
+  },
+  "tlg1819": {
+    "century": -3,
+    "name": "Pseudo–Demosthenes",
+    "type": "Poet"
+  },
+  "tlg1821": {
+    "century": -6,
+    "name": "Iambica Adespota (Alg)",
+    "type": "Poet"
+  },
+  "tlg1828": {
+    "century": -4,
+    "name": "Pamphila",
+    "type": "Poet"
+  },
+  "tlg1832": {
+    "century": -5,
+    "name": "Acesander",
+    "type": "Poet"
+  },
+  "tlg1833": {
+    "century": -5,
+    "name": "Pratinas",
+    "type": "Poet"
+  },
+  "tlg1835": {
+    "century": -7,
+    "name": "Agroetas",
+    "type": "Poet"
+  },
+  "tlg1836": {
+    "century": -4,
+    "name": "Anonymi Aulodia",
+    "type": "Poet"
+  },
+  "tlg1838": {
+    "century": -1,
+    "name": "Theon",
+    "type": "Poet"
+  },
+  "tlg1839": {
+    "century": -3,
+    "name": "Polyphrasmon",
+    "type": "Poet"
+  },
+  "tlg1840": {
+    "century": -3,
+    "name": "Euripides Ii",
+    "type": "Poet"
+  },
+  "tlg1843": {
+    "century": -3,
+    "name": "Nicomachus",
+    "type": "Poet"
+  },
+  "tlg1844": {
+    "century": -4,
+    "name": "Hera[Clides]",
+    "type": "Poet"
+  },
+  "tlg1845": {
+    "century": -2,
+    "name": "Callistratus",
+    "type": "Poet"
+  },
+  "tlg1846": {
+    "century": -2,
+    "name": "Spintharus",
+    "type": "Poet"
+  },
+  "tlg1848": {
+    "century": -2,
+    "name": "Meletus Junior",
+    "type": "Poet"
+  },
+  "tlg1849": {
+    "century": -1,
+    "name": "Demetrius",
+    "type": "Poet"
+  },
+  "tlg1858": {
+    "century": -4,
+    "name": "Oratio Manassis",
+    "type": "Poet"
+  },
+  "tlg1859": {
+    "century": -1,
+    "name": "Liber Jannes Et Jambres",
+    "type": "Poet"
+  },
+  "tlg1867": {
+    "century": -2,
+    "name": "Crito",
+    "type": "Poet"
+  },
+  "tlg1868": {
+    "century": -3,
+    "name": "Damastes",
+    "type": "Poet"
+  },
+  "tlg1871": {
+    "century": -3,
+    "name": "Bion",
+    "type": "Poet"
+  },
+  "tlg1875": {
+    "century": -4,
+    "name": "Aristodemus",
+    "type": "Poet"
+  },
+  "tlg1881": {
+    "century": -2,
+    "name": "Dionysius Scytobrachion",
+    "type": "Poet"
+  },
+  "tlg1890": {
+    "century": -4,
+    "name": "Moderatus",
+    "type": "Poet"
+  },
+  "tlg1896": {
+    "century": -4,
+    "name": "[Dositheus]",
+    "type": "Poet"
+  },
+  "tlg1899": {
+    "century": -3,
+    "name": "Aristonicus",
+    "type": "Poet"
+  },
+  "tlg1906": {
+    "century": -4,
+    "name": "Simonides",
+    "type": "Poet"
+  },
+  "tlg1907": {
+    "century": -5,
+    "name": "Cratippus",
+    "type": "Poet"
+  },
+  "tlg1908": {
+    "century": -3,
+    "name": "Daimachus",
+    "type": "Poet"
+  },
+  "tlg1911": {
+    "century": -1,
+    "name": "Diyllus",
+    "type": "Poet"
+  },
+  "tlg1912": {
+    "century": -3,
+    "name": "Euphantus",
+    "type": "Poet"
+  },
+  "tlg1915": {
+    "century": -2,
+    "name": "Eudoxus",
+    "type": "Poet"
+  },
+  "tlg1917": {
+    "century": -3,
+    "name": "Demetrius",
+    "type": "Poet"
+  },
+  "tlg1918": {
+    "century": -3,
+    "name": "Timagenes",
+    "type": "Poet"
+  },
+  "tlg1923": {
+    "century": -5,
+    "name": "Stesimbrotus",
+    "type": "Poet"
+  },
+  "tlg1941": {
+    "century": -3,
+    "name": "Leo",
+    "type": "Poet"
+  },
+  "tlg1945": {
+    "century": -3,
+    "name": "Antigenes",
+    "type": "Poet"
+  },
+  "tlg1949": {
+    "century": -1,
+    "name": "Potamon",
+    "type": "Poet"
+  },
+  "tlg1953": {
+    "century": -3,
+    "name": "Hieronymus",
+    "type": "Poet"
+  },
+  "tlg1954": {
+    "century": -3,
+    "name": "Heraclides",
+    "type": "Poet"
+  },
+  "tlg1967": {
+    "century": -5,
+    "name": "Leschides",
+    "type": "Poet"
+  },
+  "tlg1969": {
+    "century": -4,
+    "name": "Philinus",
+    "type": "Poet"
+  },
+  "tlg1970": {
+    "century": -2,
+    "name": "Silenus",
+    "type": "Poet"
+  },
+  "tlg1972": {
+    "century": -4,
+    "name": "Eumachus",
+    "type": "Poet"
+  },
+  "tlg1976": {
+    "century": -6,
+    "name": "Metrodorus",
+    "type": "Poet"
+  },
+  "tlg1977": {
+    "century": -4,
+    "name": "Lucius Licinius Lucullus",
+    "type": "Poet"
+  },
+  "tlg1978": {
+    "century": -2,
+    "name": "Leo",
+    "type": "Poet"
+  },
+  "tlg1981": {
+    "century": -4,
+    "name": "Theophanes",
+    "type": "Poet"
+  },
+  "tlg1987": {
+    "century": -2,
+    "name": "Theodorus",
+    "type": "Poet"
+  },
+  "tlg1992": {
+    "century": -3,
+    "name": "Ariston",
+    "type": "Poet"
+  },
+  "tlg2000": {
+    "century": -1,
+    "name": "Plotinus",
+    "type": "Poet"
+  },
+  "tlg2001": {
+    "century": -3,
+    "name": "Themistius",
+    "type": "Poet"
+  },
+  "tlg2002": {
+    "century": -3,
+    "name": "Anonymus Seguerianus",
+    "type": "Poet"
+  },
+  "tlg2003": {
+    "century": -2,
+    "name": "Flavius Claudius Julianus Imperator",
+    "type": "Poet"
+  },
+  "tlg2004": {
+    "century": -5,
+    "name": "Amelii Epistula",
+    "type": "Poet"
+  },
+  "tlg2005": {
+    "century": -4,
+    "name": "Martyrium Pionii",
+    "type": "Poet"
+  },
+  "tlg2006": {
+    "century": -5,
+    "name": "Synesius",
+    "type": "Poet"
+  },
+  "tlg2007": {
+    "century": -4,
+    "name": "Martyrium Potamiaenae Et Basilidis",
+    "type": "Poet"
+  },
+  "tlg2008": {
+    "century": -4,
+    "name": "Martyrium Cononis",
+    "type": "Poet"
+  },
+  "tlg2009": {
+    "century": -4,
+    "name": "Martyrium Marini",
+    "type": "Poet"
+  },
+  "tlg2010": {
+    "century": -4,
+    "name": "Martyrium Dasii",
+    "type": "Poet"
+  },
+  "tlg2011": {
+    "century": -4,
+    "name": "Martyrium Agapae, Irenae, Chionae Et Sodalium",
+    "type": "Poet"
+  },
+  "tlg2012": {
+    "century": -5,
+    "name": "Acta Eupli",
+    "type": "Poet"
+  },
+  "tlg2014": {
+    "century": -5,
+    "name": "Acta Phileae",
+    "type": "Poet"
+  },
+  "tlg2015": {
+    "century": -1,
+    "name": "Testamentum Xl Martyrum",
+    "type": "Poet"
+  },
+  "tlg2016": {
+    "century": -4,
+    "name": "Passio Perpetuae Et Felicitatis",
+    "type": "Poet"
+  },
+  "tlg2017": {
+    "century": -4,
+    "name": "Gregorius Nyssenus",
+    "type": "Poet"
+  },
+  "tlg2018": {
+    "century": -4,
+    "name": "Eusebius",
+    "type": "Poet"
+  },
+  "tlg2019": {
+    "century": -2,
+    "name": "Pelagius",
+    "type": "Poet"
+  },
+  "tlg2020": {
+    "century": -1,
+    "name": "Theodosius",
+    "type": "Poet"
+  },
+  "tlg2021": {
+    "century": -3,
+    "name": "Epiphanius",
+    "type": "Poet"
+  },
+  "tlg2022": {
+    "century": -4,
+    "name": "Gregorius Nazianzenus",
+    "type": "Poet"
+  },
+  "tlg2023": {
+    "century": -6,
+    "name": "Iamblichus",
+    "type": "Poet"
+  },
+  "tlg2025": {
+    "century": -4,
+    "name": "Maximus",
+    "type": "Poet"
+  },
+  "tlg2027": {
+    "century": -5,
+    "name": "Valerius Apsines",
+    "type": "Poet"
+  },
+  "tlg2029": {
+    "century": -4,
+    "name": "Anonymi Geographia In Sphaera Intelligenda",
+    "type": "Poet"
+  },
+  "tlg2030": {
+    "century": -2,
+    "name": "Geographica Adespota (Ggm)",
+    "type": "Poet"
+  },
+  "tlg2031": {
+    "century": -5,
+    "name": "Sopater",
+    "type": "Poet"
+  },
+  "tlg2032": {
+    "century": -5,
+    "name": "Pappus",
+    "type": "Poet"
+  },
+  "tlg2033": {
+    "century": -1,
+    "name": "Theon",
+    "type": "Poet"
+  },
+  "tlg2034": {
+    "century": -3,
+    "name": "Porphyrius",
+    "type": "Poet"
+  },
+  "tlg2035": {
+    "century": -4,
+    "name": "Athanasius",
+    "type": "Poet"
+  },
+  "tlg2036": {
+    "century": -5,
+    "name": "Dexippus",
+    "type": "Poet"
+  },
+  "tlg2037": {
+    "century": -1,
+    "name": "Joannes Stobaeus Anthologus",
+    "type": "Poet"
+  },
+  "tlg2038": {
+    "century": -5,
+    "name": "Acta Thomae",
+    "type": "Poet"
+  },
+  "tlg2039": {
+    "century": -3,
+    "name": "Diophantus",
+    "type": "Poet"
+  },
+  "tlg2040": {
+    "century": -3,
+    "name": "Basilius",
+    "type": "Poet"
+  },
+  "tlg2041": {
+    "century": -4,
+    "name": "Marcellus",
+    "type": "Poet"
+  },
+  "tlg2042": {
+    "century": -4,
+    "name": "Origenes",
+    "type": "Poet"
+  },
+  "tlg2043": {
+    "century": -5,
+    "name": "Hephaestion",
+    "type": "Poet"
+  },
+  "tlg2045": {
+    "century": -6,
+    "name": "Nonnus",
+    "type": "Poet"
+  },
+  "tlg2046": {
+    "century": -3,
+    "name": "Quintus",
+    "type": "Poet"
+  },
+  "tlg2047": {
+    "century": -5,
+    "name": "Syriani, Sopatri Et Marcellini Scholia Ad Hermogenis Status",
+    "type": "Poet"
+  },
+  "tlg2048": {
+    "century": -4,
+    "name": "Salaminius Hermias Sozomenus",
+    "type": "Poet"
+  },
+  "tlg2049": {
+    "century": -5,
+    "name": "Sallustius",
+    "type": "Poet"
+  },
+  "tlg2050": {
+    "century": -5,
+    "name": "Eunapius",
+    "type": "Poet"
+  },
+  "tlg2051": {
+    "century": -3,
+    "name": "Himerius",
+    "type": "Poet"
+  },
+  "tlg2052": {
+    "century": -8,
+    "name": "Horapollo",
+    "type": "Poet"
+  },
+  "tlg2053": {
+    "century": -2,
+    "name": "Paulus",
+    "type": "Poet"
+  },
+  "tlg2054": {
+    "century": -2,
+    "name": "Aristides Quintilianus",
+    "type": "Poet"
+  },
+  "tlg2055": {
+    "century": -3,
+    "name": "Serenus",
+    "type": "Poet"
+  },
+  "tlg2057": {
+    "century": -7,
+    "name": "Socrates Scholasticus",
+    "type": "Poet"
+  },
+  "tlg2058": {
+    "century": -5,
+    "name": "Philostorgius",
+    "type": "Poet"
+  },
+  "tlg2059": {
+    "century": -2,
+    "name": "Alexander",
+    "type": "Poet"
+  },
+  "tlg2060": {
+    "century": -4,
+    "name": "Asterius",
+    "type": "Poet"
+  },
+  "tlg2061": {
+    "century": -4,
+    "name": "Asterius Sophista",
+    "type": "Poet"
+  },
+  "tlg2062": {
+    "century": -1,
+    "name": "Joannes Chrysostomus",
+    "type": "Poet"
+  },
+  "tlg2063": {
+    "century": -4,
+    "name": "Gregorius Thaumaturgus",
+    "type": "Poet"
+  },
+  "tlg2064": {
+    "century": -2,
+    "name": "Acacius",
+    "type": "Poet"
+  },
+  "tlg2074": {
+    "century": -6,
+    "name": "Apollinaris",
+    "type": "Poet"
+  },
+  "tlg2084": {
+    "century": -3,
+    "name": "Basilius",
+    "type": "Poet"
+  },
+  "tlg2102": {
+    "century": -1,
+    "name": "Didymus Caecus",
+    "type": "Poet"
+  },
+  "tlg2109": {
+    "century": -3,
+    "name": "Pseudo–Macarius",
+    "type": "Poet"
+  },
+  "tlg2110": {
+    "century": -4,
+    "name": "Cyrillus",
+    "type": "Poet"
+  },
+  "tlg2111": {
+    "century": -4,
+    "name": "Palladius",
+    "type": "Poet"
+  },
+  "tlg2112": {
+    "century": -4,
+    "name": "Amphilochius",
+    "type": "Poet"
+  },
+  "tlg2115": {
+    "century": -5,
+    "name": "Hippolytus",
+    "type": "Poet"
+  },
+  "tlg2116": {
+    "century": -5,
+    "name": "Arcadius",
+    "type": "Poet"
+  },
+  "tlg2117": {
+    "century": -4,
+    "name": "Anonymus De Metrorum Ratione",
+    "type": "Poet"
+  },
+  "tlg2118": {
+    "century": -4,
+    "name": "Gryllus",
+    "type": "Poet"
+  },
+  "tlg2119": {
+    "century": -3,
+    "name": "Christodorus",
+    "type": "Poet"
+  },
+  "tlg2120": {
+    "century": -5,
+    "name": "Panteleius",
+    "type": "Poet"
+  },
+  "tlg2121": {
+    "century": -1,
+    "name": "Dioscorus",
+    "type": "Poet"
+  },
+  "tlg2122": {
+    "century": -6,
+    "name": "Gaius Asinius Quadratus",
+    "type": "Poet"
+  },
+  "tlg2127": {
+    "century": -1,
+    "name": "Troilus",
+    "type": "Poet"
+  },
+  "tlg2130": {
+    "century": -2,
+    "name": "Arethas",
+    "type": "Poet"
+  },
+  "tlg2133": {
+    "century": -2,
+    "name": "Achilles Tatius",
+    "type": "Poet"
+  },
+  "tlg2140": {
+    "century": -6,
+    "name": "Iamblichus",
+    "type": "Poet"
+  },
+  "tlg2141": {
+    "century": -5,
+    "name": "Publius Herennius Dexippus",
+    "type": "Poet"
+  },
+  "tlg2148": {
+    "century": -4,
+    "name": "Aristodemus",
+    "type": "Poet"
+  },
+  "tlg2151": {
+    "century": -5,
+    "name": "Praxagoras",
+    "type": "Poet"
+  },
+  "tlg2153": {
+    "century": -4,
+    "name": "Bion",
+    "type": "Poet"
+  },
+  "tlg2157": {
+    "century": -3,
+    "name": "Magnus",
+    "type": "Poet"
+  },
+  "tlg2158": {
+    "century": -2,
+    "name": "Eutychianus",
+    "type": "Poet"
+  },
+  "tlg2160": {
+    "century": -3,
+    "name": "Pyrrhus",
+    "type": "Poet"
+  },
+  "tlg2162": {
+    "century": -5,
+    "name": "Aratus",
+    "type": "Poet"
+  },
+  "tlg2168": {
+    "century": -5,
+    "name": "Apollophanes",
+    "type": "Poet"
+  },
+  "tlg2169": {
+    "century": -4,
+    "name": "Herillus",
+    "type": "Poet"
+  },
+  "tlg2171": {
+    "century": -5,
+    "name": "Stesiclides",
+    "type": "Poet"
+  },
+  "tlg2172": {
+    "century": -4,
+    "name": "Andron",
+    "type": "Poet"
+  },
+  "tlg2173": {
+    "century": -4,
+    "name": "Antileon",
+    "type": "Poet"
+  },
+  "tlg2175": {
+    "century": -5,
+    "name": "〈Autocharis〉",
+    "type": "Poet"
+  },
+  "tlg2178": {
+    "century": -1,
+    "name": "Cassius Longinus",
+    "type": "Poet"
+  },
+  "tlg2181": {
+    "century": -2,
+    "name": "Moses",
+    "type": "Poet"
+  },
+  "tlg2182": {
+    "century": -4,
+    "name": "Staphylus",
+    "type": "Poet"
+  },
+  "tlg2185": {
+    "century": -2,
+    "name": "Dionysius Μεταθέμενος",
+    "type": "Poet"
+  },
+  "tlg2186": {
+    "century": -2,
+    "name": "Leo",
+    "type": "Poet"
+  },
+  "tlg2187": {
+    "century": -3,
+    "name": "Posidonius",
+    "type": "Poet"
+  },
+  "tlg2189": {
+    "century": -7,
+    "name": "Callinicus",
+    "type": "Poet"
+  },
+  "tlg2190": {
+    "century": -4,
+    "name": "[Clitonymus]",
+    "type": "Poet"
+  },
+  "tlg2192": {
+    "century": -1,
+    "name": "[Agatharchides]",
+    "type": "Poet"
+  },
+  "tlg2193": {
+    "century": -2,
+    "name": "[Aretades]",
+    "type": "Poet"
+  },
+  "tlg2194": {
+    "century": -2,
+    "name": "[Aristides]",
+    "type": "Poet"
+  },
+  "tlg2195": {
+    "century": -3,
+    "name": "[Chrysermus]",
+    "type": "Poet"
+  },
+  "tlg2196": {
+    "century": -3,
+    "name": "[Dercyllus]",
+    "type": "Poet"
+  },
+  "tlg2200": {
+    "century": -1,
+    "name": "Libanius",
+    "type": "Poet"
+  },
+  "tlg2201": {
+    "century": -5,
+    "name": "[Ctesiphon]",
+    "type": "Poet"
+  },
+  "tlg2202": {
+    "century": -6,
+    "name": "[Menyllus]",
+    "type": "Poet"
+  },
+  "tlg2203": {
+    "century": -4,
+    "name": "[Theophilus]",
+    "type": "Poet"
+  },
+  "tlg2204": {
+    "century": -4,
+    "name": "Autocrates",
+    "type": "Poet"
+  },
+  "tlg2205": {
+    "century": -5,
+    "name": "Autesion",
+    "type": "Poet"
+  },
+  "tlg2210": {
+    "century": -4,
+    "name": "Anaxicrates",
+    "type": "Poet"
+  },
+  "tlg2212": {
+    "century": -3,
+    "name": "Lyceas",
+    "type": "Poet"
+  },
+  "tlg2213": {
+    "century": -6,
+    "name": "[Timotheus]",
+    "type": "Poet"
+  },
+  "tlg2215": {
+    "century": -4,
+    "name": "Ar(I)Aethus",
+    "type": "Poet"
+  },
+  "tlg2216": {
+    "century": -2,
+    "name": "Aristippus",
+    "type": "Poet"
+  },
+  "tlg2217": {
+    "century": -5,
+    "name": "Nicias",
+    "type": "Poet"
+  },
+  "tlg2218": {
+    "century": -4,
+    "name": "Calliphon Et Democedes",
+    "type": "Poet"
+  },
+  "tlg2219": {
+    "century": -5,
+    "name": "Amelesagoras",
+    "type": "Poet"
+  },
+  "tlg2225": {
+    "century": -3,
+    "name": "Parm(En)Iscus",
+    "type": "Poet"
+  },
+  "tlg2226": {
+    "century": -5,
+    "name": "Iccus",
+    "type": "Poet"
+  },
+  "tlg2227": {
+    "century": -4,
+    "name": "Paron",
+    "type": "Poet"
+  },
+  "tlg2228": {
+    "century": -1,
+    "name": "Menestor",
+    "type": "Poet"
+  },
+  "tlg2229": {
+    "century": -2,
+    "name": "Xuthus",
+    "type": "Poet"
+  },
+  "tlg2230": {
+    "century": -2,
+    "name": "Boïdas",
+    "type": "Poet"
+  },
+  "tlg2231": {
+    "century": -5,
+    "name": "Thrasyalces",
+    "type": "Poet"
+  },
+  "tlg2232": {
+    "century": -4,
+    "name": "Damon",
+    "type": "Poet"
+  },
+  "tlg2233": {
+    "century": -3,
+    "name": "Pseudo–Polemon",
+    "type": "Poet"
+  },
+  "tlg2234": {
+    "century": -3,
+    "name": "Oenopides",
+    "type": "Poet"
+  },
+  "tlg2235": {
+    "century": -5,
+    "name": "Hippocrates",
+    "type": "Poet"
+  },
+  "tlg2236": {
+    "century": -2,
+    "name": "Eutropius",
+    "type": "Poet"
+  },
+  "tlg2237": {
+    "century": -4,
+    "name": "Theodorus",
+    "type": "Poet"
+  },
+  "tlg2239": {
+    "century": -4,
+    "name": "Pythagoristae (D–K)",
+    "type": "Poet"
+  },
+  "tlg2240": {
+    "century": -3,
+    "name": "Hicetas",
+    "type": "Poet"
+  },
+  "tlg2241": {
+    "century": -5,
+    "name": "Xenophilus",
+    "type": "Poet"
+  },
+  "tlg2242": {
+    "century": -6,
+    "name": "Echecrates",
+    "type": "Poet"
+  },
+  "tlg2243": {
+    "century": -3,
+    "name": "Apocalypsis Sedrach",
+    "type": "Poet"
+  },
+  "tlg2244": {
+    "century": -3,
+    "name": "Damon Et Phintias",
+    "type": "Poet"
+  },
+  "tlg2245": {
+    "century": -3,
+    "name": "Simus",
+    "type": "Poet"
+  },
+  "tlg2246": {
+    "century": -4,
+    "name": "Lycon",
+    "type": "Poet"
+  },
+  "tlg2247": {
+    "century": -3,
+    "name": "Petron",
+    "type": "Poet"
+  },
+  "tlg2248": {
+    "century": -5,
+    "name": "Acta Xanthippae Et Polyxenae",
+    "type": "Poet"
+  },
+  "tlg2255": {
+    "century": -2,
+    "name": "Gorgias",
+    "type": "Poet"
+  },
+  "tlg2260": {
+    "century": -5,
+    "name": "Hippasus",
+    "type": "Poet"
+  },
+  "tlg2265": {
+    "century": -1,
+    "name": "Diodorus",
+    "type": "Poet"
+  },
+  "tlg2268": {
+    "century": -4,
+    "name": "Timagoras",
+    "type": "Poet"
+  },
+  "tlg2270": {
+    "century": -4,
+    "name": "Callippus",
+    "type": "Poet"
+  },
+  "tlg2273": {
+    "century": -4,
+    "name": "Damon",
+    "type": "Poet"
+  },
+  "tlg2274": {
+    "century": -5,
+    "name": "Hesychius Illustrius",
+    "type": "Poet"
+  },
+  "tlg2275": {
+    "century": -3,
+    "name": "Theagenes",
+    "type": "Poet"
+  },
+  "tlg2277": {
+    "century": -3,
+    "name": "Hypermenes",
+    "type": "Poet"
+  },
+  "tlg2278": {
+    "century": -5,
+    "name": "Phanodicus",
+    "type": "Poet"
+  },
+  "tlg2282": {
+    "century": -5,
+    "name": "Melisseus",
+    "type": "Poet"
+  },
+  "tlg2284": {
+    "century": -4,
+    "name": "Anaxandridas",
+    "type": "Poet"
+  },
+  "tlg2286": {
+    "century": -3,
+    "name": "Cercops",
+    "type": "Poet"
+  },
+  "tlg2287": {
+    "century": -1,
+    "name": "Fragmentum Stoicum",
+    "type": "Poet"
+  },
+  "tlg2289": {
+    "century": -5,
+    "name": "Echephylidas",
+    "type": "Poet"
+  },
+  "tlg2291": {
+    "century": -5,
+    "name": "Cratylus",
+    "type": "Poet"
+  },
+  "tlg2294": {
+    "century": -2,
+    "name": "Zeno",
+    "type": "Poet"
+  },
+  "tlg2298": {
+    "century": -5,
+    "name": "Lysanias",
+    "type": "Poet"
+  },
+  "tlg2300": {
+    "century": -3,
+    "name": "Promathidas",
+    "type": "Poet"
+  },
+  "tlg2303": {
+    "century": -3,
+    "name": "Archelaus",
+    "type": "Poet"
+  },
+  "tlg2304": {
+    "century": -4,
+    "name": "Idaeus",
+    "type": "Poet"
+  },
+  "tlg2305": {
+    "century": -4,
+    "name": "Clidemus",
+    "type": "Poet"
+  },
+  "tlg2306": {
+    "century": -6,
+    "name": "Xenomedes",
+    "type": "Poet"
+  },
+  "tlg2307": {
+    "century": -2,
+    "name": "Artemon",
+    "type": "Poet"
+  },
+  "tlg2313": {
+    "century": -4,
+    "name": "Antisthenes",
+    "type": "Poet"
+  },
+  "tlg2314": {
+    "century": -2,
+    "name": "Diogenes",
+    "type": "Poet"
+  },
+  "tlg2317": {
+    "century": -4,
+    "name": "Hermias",
+    "type": "Poet"
+  },
+  "tlg2319": {
+    "century": -2,
+    "name": "Apollodorus",
+    "type": "Poet"
+  },
+  "tlg2322": {
+    "century": -4,
+    "name": "Antenor",
+    "type": "Poet"
+  },
+  "tlg2326": {
+    "century": -4,
+    "name": "Dei(L)Ochus",
+    "type": "Poet"
+  },
+  "tlg2328": {
+    "century": -5,
+    "name": "Diogenes",
+    "type": "Poet"
+  },
+  "tlg2330": {
+    "century": -3,
+    "name": "Scamon",
+    "type": "Poet"
+  },
+  "tlg2331": {
+    "century": -5,
+    "name": "Myrsilus",
+    "type": "Poet"
+  },
+  "tlg2333": {
+    "century": -1,
+    "name": "Possis",
+    "type": "Poet"
+  },
+  "tlg2334": {
+    "century": -3,
+    "name": "Nausiphanes",
+    "type": "Poet"
+  },
+  "tlg2336": {
+    "century": -3,
+    "name": "Hereas",
+    "type": "Poet"
+  },
+  "tlg2339": {
+    "century": -5,
+    "name": "Maeandrius",
+    "type": "Poet"
+  },
+  "tlg2340": {
+    "century": -4,
+    "name": "Diotimus",
+    "type": "Poet"
+  },
+  "tlg2341": {
+    "century": -1,
+    "name": "Aristocritus",
+    "type": "Poet"
+  },
+  "tlg2345": {
+    "century": -2,
+    "name": "Agl(A)Osthenes",
+    "type": "Poet"
+  },
+  "tlg2346": {
+    "century": -3,
+    "name": "Andriscus",
+    "type": "Poet"
+  },
+  "tlg2349": {
+    "century": -3,
+    "name": "[Pyrander]",
+    "type": "Poet"
+  },
+  "tlg2354": {
+    "century": -4,
+    "name": "Dionysius",
+    "type": "Poet"
+  },
+  "tlg2355": {
+    "century": -4,
+    "name": "Xeniades",
+    "type": "Poet"
+  },
+  "tlg2357": {
+    "century": -4,
+    "name": "Gorgon",
+    "type": "Poet"
+  },
+  "tlg2364": {
+    "century": -5,
+    "name": "Zeno",
+    "type": "Poet"
+  },
+  "tlg2367": {
+    "century": -3,
+    "name": "Theognis",
+    "type": "Poet"
+  },
+  "tlg2371": {
+    "century": -3,
+    "name": "Chronicon Paschale",
+    "type": "Poet"
+  },
+  "tlg2372": {
+    "century": -4,
+    "name": "Euagon",
+    "type": "Poet"
+  },
+  "tlg2383": {
+    "century": -1,
+    "name": "Diodorus",
+    "type": "Poet"
+  },
+  "tlg2384": {
+    "century": -3,
+    "name": "Hermias",
+    "type": "Poet"
+  },
+  "tlg2385": {
+    "century": -4,
+    "name": "Polycritus",
+    "type": "Poet"
+  },
+  "tlg2386": {
+    "century": -2,
+    "name": "Timonides",
+    "type": "Poet"
+  },
+  "tlg2387": {
+    "century": -1,
+    "name": "Athanis",
+    "type": "Poet"
+  },
+  "tlg2391": {
+    "century": -5,
+    "name": "Hippostratus",
+    "type": "Poet"
+  },
+  "tlg2392": {
+    "century": -3,
+    "name": "Artemon",
+    "type": "Poet"
+  },
+  "tlg2393": {
+    "century": -4,
+    "name": "Andreas",
+    "type": "Poet"
+  },
+  "tlg2396": {
+    "century": -2,
+    "name": "Hyperochus",
+    "type": "Poet"
+  },
+  "tlg2397": {
+    "century": -4,
+    "name": "Boethus",
+    "type": "Poet"
+  },
+  "tlg2398": {
+    "century": -2,
+    "name": "Basilides",
+    "type": "Poet"
+  },
+  "tlg2399": {
+    "century": -5,
+    "name": "Eudromus",
+    "type": "Poet"
+  },
+  "tlg2404": {
+    "century": -5,
+    "name": "Philogelos",
+    "type": "Poet"
+  },
+  "tlg2409": {
+    "century": -3,
+    "name": "Dioscurides",
+    "type": "Poet"
+  },
+  "tlg2412": {
+    "century": -4,
+    "name": "Androetas",
+    "type": "Poet"
+  },
+  "tlg2417": {
+    "century": -5,
+    "name": "Cineas",
+    "type": "Poet"
+  },
+  "tlg2418": {
+    "century": -5,
+    "name": "Archinus",
+    "type": "Poet"
+  },
+  "tlg2423": {
+    "century": -1,
+    "name": "Asclepiades",
+    "type": "Poet"
+  },
+  "tlg2424": {
+    "century": -4,
+    "name": "Chaeremon",
+    "type": "Poet"
+  },
+  "tlg2426": {
+    "century": -4,
+    "name": "Hermaeus",
+    "type": "Poet"
+  },
+  "tlg2428": {
+    "century": -5,
+    "name": "Thrasyllus",
+    "type": "Poet"
+  },
+  "tlg2434": {
+    "century": -4,
+    "name": "Aelius Dius",
+    "type": "Poet"
+  },
+  "tlg2444": {
+    "century": -4,
+    "name": "Lycophron",
+    "type": "Poet"
+  },
+  "tlg2445": {
+    "century": -6,
+    "name": "Amometus",
+    "type": "Poet"
+  },
+  "tlg2449": {
+    "century": -6,
+    "name": "Timotheus",
+    "type": "Poet"
+  },
+  "tlg2455": {
+    "century": -3,
+    "name": "Aristocreon",
+    "type": "Poet"
+  },
+  "tlg2456": {
+    "century": -3,
+    "name": "Nessas",
+    "type": "Poet"
+  },
+  "tlg2458": {
+    "century": -4,
+    "name": "Marcellus",
+    "type": "Poet"
+  },
+  "tlg2460": {
+    "century": -5,
+    "name": "Glaucus",
+    "type": "Poet"
+  },
+  "tlg2461": {
+    "century": -1,
+    "name": "Uranius",
+    "type": "Poet"
+  },
+  "tlg2466": {
+    "century": -4,
+    "name": "Dionysius",
+    "type": "Poet"
+  },
+  "tlg2474": {
+    "century": -5,
+    "name": "Nicander",
+    "type": "Poet"
+  },
+  "tlg2475": {
+    "century": -4,
+    "name": "Menecrates",
+    "type": "Poet"
+  },
+  "tlg2479": {
+    "century": -2,
+    "name": "Patrocles",
+    "type": "Poet"
+  },
+  "tlg2482": {
+    "century": -5,
+    "name": "Daimachus",
+    "type": "Poet"
+  },
+  "tlg2499": {
+    "century": -4,
+    "name": "Eustochius",
+    "type": "Poet"
+  },
+  "tlg2506": {
+    "century": -5,
+    "name": "Capito",
+    "type": "Poet"
+  },
+  "tlg2511": {
+    "century": -3,
+    "name": "Demetrius",
+    "type": "Poet"
+  },
+  "tlg2512": {
+    "century": -4,
+    "name": "Paeon",
+    "type": "Poet"
+  },
+  "tlg2525": {
+    "century": -5,
+    "name": "Laetus",
+    "type": "Poet"
+  },
+  "tlg2531": {
+    "century": -7,
+    "name": "Metrophanes",
+    "type": "Poet"
+  },
+  "tlg2532": {
+    "century": -3,
+    "name": "[Hermesianax]",
+    "type": "Poet"
+  },
+  "tlg2533": {
+    "century": -4,
+    "name": "Timolaus",
+    "type": "Poet"
+  },
+  "tlg2536": {
+    "century": -4,
+    "name": "Andron",
+    "type": "Poet"
+  },
+  "tlg2539": {
+    "century": -4,
+    "name": "Diophantus",
+    "type": "Poet"
+  },
+  "tlg2542": {
+    "century": -1,
+    "name": "Quintus Fabius Pictor",
+    "type": "Poet"
+  },
+  "tlg2543": {
+    "century": -3,
+    "name": "Lucius Cincius Alimentus",
+    "type": "Poet"
+  },
+  "tlg2545": {
+    "century": -5,
+    "name": "Gaius Acilius",
+    "type": "Poet"
+  },
+  "tlg2546": {
+    "century": -5,
+    "name": "Publius Rutilius Rufus",
+    "type": "Poet"
+  },
+  "tlg2547": {
+    "century": -2,
+    "name": "Antigonus",
+    "type": "Poet"
+  },
+  "tlg2548": {
+    "century": -5,
+    "name": "Promathion",
+    "type": "Poet"
+  },
+  "tlg2552": {
+    "century": -4,
+    "name": "Critolaus",
+    "type": "Poet"
+  },
+  "tlg2555": {
+    "century": -4,
+    "name": "Agesilaus",
+    "type": "Poet"
+  },
+  "tlg2556": {
+    "century": -4,
+    "name": "[Alexarchus]",
+    "type": "Poet"
+  },
+  "tlg2557": {
+    "century": -2,
+    "name": "[Aristobulus]",
+    "type": "Poet"
+  },
+  "tlg2559": {
+    "century": -3,
+    "name": "[Chrysippus]",
+    "type": "Poet"
+  },
+  "tlg2560": {
+    "century": -4,
+    "name": "Pythocles",
+    "type": "Poet"
+  },
+  "tlg2565": {
+    "century": -4,
+    "name": "Mnesimachus",
+    "type": "Poet"
+  },
+  "tlg2566": {
+    "century": -1,
+    "name": "[Agathon]",
+    "type": "Poet"
+  },
+  "tlg2568": {
+    "century": -1,
+    "name": "[Sosthenes]",
+    "type": "Poet"
+  },
+  "tlg2571": {
+    "century": -3,
+    "name": "Hierocles",
+    "type": "Poet"
+  },
+  "tlg2573": {
+    "century": -2,
+    "name": "Pausanias",
+    "type": "Poet"
+  },
+  "tlg2577": {
+    "century": -6,
+    "name": "Anatolius",
+    "type": "Poet"
+  },
+  "tlg2578": {
+    "century": -1,
+    "name": "Joannes",
+    "type": "Poet"
+  },
+  "tlg2580": {
+    "century": -3,
+    "name": "Joannes Laurentius Lydus",
+    "type": "Poet"
+  },
+  "tlg2583": {
+    "century": -3,
+    "name": "Manetho",
+    "type": "Poet"
+  },
+  "tlg2585": {
+    "century": -4,
+    "name": "Marcellinus",
+    "type": "Poet"
+  },
+  "tlg2586": {
+    "century": -2,
+    "name": "Menander",
+    "type": "Poet"
+  },
+  "tlg2587": {
+    "century": -1,
+    "name": "Ariston",
+    "type": "Poet"
+  },
+  "tlg2589": {
+    "century": -3,
+    "name": "Olympiodorus",
+    "type": "Poet"
+  },
+  "tlg2591": {
+    "century": -4,
+    "name": "Orion",
+    "type": "Poet"
+  },
+  "tlg2592": {
+    "century": -2,
+    "name": "Joannes Pediasimus",
+    "type": "Poet"
+  },
+  "tlg2594": {
+    "century": -3,
+    "name": "Phillis",
+    "type": "Poet"
+  },
+  "tlg2595": {
+    "century": -5,
+    "name": "Philo",
+    "type": "Poet"
+  },
+  "tlg2596": {
+    "century": -3,
+    "name": "Phoebammon",
+    "type": "Poet"
+  },
+  "tlg2598": {
+    "century": -5,
+    "name": "Procopius",
+    "type": "Poet"
+  },
+  "tlg2600": {
+    "century": -6,
+    "name": "Simon Scriptor De Re Equestri",
+    "type": "Poet"
+  },
+  "tlg2601": {
+    "century": -1,
+    "name": "Tiberius",
+    "type": "Poet"
+  },
+  "tlg2602": {
+    "century": -1,
+    "name": "Timaeus Sophista",
+    "type": "Poet"
+  },
+  "tlg2604": {
+    "century": -1,
+    "name": "Ulpianus",
+    "type": "Poet"
+  },
+  "tlg2605": {
+    "century": -2,
+    "name": "Agamestor",
+    "type": "Poet"
+  },
+  "tlg2606": {
+    "century": -4,
+    "name": "Agathyllus",
+    "type": "Poet"
+  },
+  "tlg2607": {
+    "century": -4,
+    "name": "Alexinus",
+    "type": "Poet"
+  },
+  "tlg2608": {
+    "century": -2,
+    "name": "Archebulus",
+    "type": "Poet"
+  },
+  "tlg2609": {
+    "century": -4,
+    "name": "Asopodorus",
+    "type": "Poet"
+  },
+  "tlg2610": {
+    "century": -2,
+    "name": "Boiscus",
+    "type": "Poet"
+  },
+  "tlg2611": {
+    "century": -4,
+    "name": "Butas",
+    "type": "Poet"
+  },
+  "tlg2612": {
+    "century": -5,
+    "name": "Caecalus (?)",
+    "type": "Poet"
+  },
+  "tlg2613": {
+    "century": -7,
+    "name": "Callimachus Junior",
+    "type": "Poet"
+  },
+  "tlg2614": {
+    "century": -5,
+    "name": "Cleomachus",
+    "type": "Poet"
+  },
+  "tlg2615": {
+    "century": -5,
+    "name": "Daphitas",
+    "type": "Poet"
+  },
+  "tlg2616": {
+    "century": -4,
+    "name": "Demareta",
+    "type": "Poet"
+  },
+  "tlg2617": {
+    "century": -1,
+    "name": "Demetrius",
+    "type": "Poet"
+  },
+  "tlg2618": {
+    "century": -1,
+    "name": "Didymarchus",
+    "type": "Poet"
+  },
+  "tlg2619": {
+    "century": -5,
+    "name": "Dionysius",
+    "type": "Poet"
+  },
+  "tlg2620": {
+    "century": -3,
+    "name": "Dionysius Iambus",
+    "type": "Poet"
+  },
+  "tlg2621": {
+    "century": -1,
+    "name": "Diophilus Vel Diophila",
+    "type": "Poet"
+  },
+  "tlg2622": {
+    "century": -1,
+    "name": "Dorieus",
+    "type": "Poet"
+  },
+  "tlg2623": {
+    "century": -4,
+    "name": "Euanthes",
+    "type": "Poet"
+  },
+  "tlg2624": {
+    "century": -5,
+    "name": "Hermias",
+    "type": "Poet"
+  },
+  "tlg2625": {
+    "century": -5,
+    "name": "Herodicus",
+    "type": "Poet"
+  },
+  "tlg2626": {
+    "century": -3,
+    "name": "Hipparchus",
+    "type": "Poet"
+  },
+  "tlg2627": {
+    "century": -3,
+    "name": "Damianus Scriptor De Opticis",
+    "type": "Poet"
+  },
+  "tlg2628": {
+    "century": -4,
+    "name": "Idaeus",
+    "type": "Poet"
+  },
+  "tlg2630": {
+    "century": -1,
+    "name": "Lobo",
+    "type": "Poet"
+  },
+  "tlg2631": {
+    "century": -6,
+    "name": "Menophilus",
+    "type": "Poet"
+  },
+  "tlg2632": {
+    "century": -1,
+    "name": "Comarius",
+    "type": "Poet"
+  },
+  "tlg2633": {
+    "century": -3,
+    "name": "Niceratus",
+    "type": "Poet"
+  },
+  "tlg2634": {
+    "century": -5,
+    "name": "Pamphilus",
+    "type": "Poet"
+  },
+  "tlg2635": {
+    "century": -6,
+    "name": "Persinus",
+    "type": "Poet"
+  },
+  "tlg2636": {
+    "century": -4,
+    "name": "Pherenicus",
+    "type": "Poet"
+  },
+  "tlg2638": {
+    "century": -1,
+    "name": "Philo",
+    "type": "Poet"
+  },
+  "tlg2639": {
+    "century": -3,
+    "name": "Posidonius",
+    "type": "Poet"
+  },
+  "tlg2640": {
+    "century": -4,
+    "name": "Eusebius",
+    "type": "Poet"
+  },
+  "tlg2641": {
+    "century": -5,
+    "name": "Priscus",
+    "type": "Poet"
+  },
+  "tlg2642": {
+    "century": -4,
+    "name": "〈Astrampsychus Magus〉",
+    "type": "Poet"
+  },
+  "tlg2644": {
+    "century": -5,
+    "name": "Sminthes",
+    "type": "Poet"
+  },
+  "tlg2645": {
+    "century": -5,
+    "name": "Stratonicus",
+    "type": "Poet"
+  },
+  "tlg2646": {
+    "century": -1,
+    "name": "Fragmenta Adespota (Sh)",
+    "type": "Poet"
+  },
+  "tlg2647": {
+    "century": -3,
+    "name": "Zenothemis",
+    "type": "Poet"
+  },
+  "tlg2648": {
+    "century": -6,
+    "name": "Adespota Papyracea (Sh)",
+    "type": "Poet"
+  },
+  "tlg2649": {
+    "century": -6,
+    "name": "Amyntas",
+    "type": "Poet"
+  },
+  "tlg2650": {
+    "century": -2,
+    "name": "Arrianus",
+    "type": "Poet"
+  },
+  "tlg2651": {
+    "century": -1,
+    "name": "Artemidorus",
+    "type": "Poet"
+  },
+  "tlg2652": {
+    "century": -4,
+    "name": "Diodorus",
+    "type": "Poet"
+  },
+  "tlg2653": {
+    "century": -5,
+    "name": "Erycius",
+    "type": "Poet"
+  },
+  "tlg2654": {
+    "century": -6,
+    "name": "Physiologus",
+    "type": "Poet"
+  },
+  "tlg2655": {
+    "century": -3,
+    "name": "〈Damigeron Magus〉",
+    "type": "Poet"
+  },
+  "tlg2657": {
+    "century": -4,
+    "name": "Martyrium Ignatii",
+    "type": "Poet"
+  },
+  "tlg2679": {
+    "century": -1,
+    "name": "Testamentum Salomonis",
+    "type": "Poet"
+  },
+  "tlg2680": {
+    "century": -2,
+    "name": "Scythinus",
+    "type": "Poet"
+  },
+  "tlg2681": {
+    "century": -2,
+    "name": "Diodorus",
+    "type": "Poet"
+  },
+  "tlg2691": {
+    "century": -2,
+    "name": "[Musaeus]",
+    "type": "Poet"
+  },
+  "tlg2693": {
+    "century": -3,
+    "name": "Ptolemaeus Iii Euergetes I",
+    "type": "Poet"
+  },
+  "tlg2694": {
+    "century": -4,
+    "name": "Sostratus",
+    "type": "Poet"
+  },
+  "tlg2695": {
+    "century": -5,
+    "name": "Vitae Aristotelis",
+    "type": "Poet"
+  },
+  "tlg2696": {
+    "century": -1,
+    "name": "Theodorus",
+    "type": "Poet"
+  },
+  "tlg2697": {
+    "century": -4,
+    "name": "Timolaus",
+    "type": "Poet"
+  },
+  "tlg2699": {
+    "century": -4,
+    "name": "Amphicrates",
+    "type": "Poet"
+  },
+  "tlg2701": {
+    "century": -2,
+    "name": "Georgius Pisides",
+    "type": "Poet"
+  },
+  "tlg2702": {
+    "century": -2,
+    "name": "Michael Psellus",
+    "type": "Poet"
+  },
+  "tlg2703": {
+    "century": -1,
+    "name": "Anna Comnena",
+    "type": "Poet"
+  },
+  "tlg2714": {
+    "century": -2,
+    "name": "Theodorus Studites",
+    "type": "Poet"
+  },
+  "tlg2718": {
+    "century": -4,
+    "name": "Manuel Philes",
+    "type": "Poet"
+  },
+  "tlg2721": {
+    "century": -4,
+    "name": "Theodorus Prodromus",
+    "type": "Poet"
+  },
+  "tlg2724": {
+    "century": -4,
+    "name": "Ammonius",
+    "type": "Poet"
+  },
+  "tlg2729": {
+    "century": -5,
+    "name": "Prorus",
+    "type": "Poet"
+  },
+  "tlg2733": {
+    "century": -2,
+    "name": "Evagrius Scholasticus",
+    "type": "Poet"
+  },
+  "tlg2734": {
+    "century": -2,
+    "name": "Flavius Justinianus Imperator",
+    "type": "Poet"
+  },
+  "tlg2738": {
+    "century": -3,
+    "name": "Chronographiae Anonymae",
+    "type": "Poet"
+  },
+  "tlg2742": {
+    "century": -5,
+    "name": "Apophthegmata",
+    "type": "Poet"
+  },
+  "tlg2744": {
+    "century": -8,
+    "name": "Historia Monachorum In Aegypto",
+    "type": "Poet"
+  },
+  "tlg2762": {
+    "century": -2,
+    "name": "Gennadius I",
+    "type": "Poet"
+  },
+  "tlg2766": {
+    "century": -4,
+    "name": "Eudocia Augusta",
+    "type": "Poet"
+  },
+  "tlg2770": {
+    "century": -7,
+    "name": "Callinicus",
+    "type": "Poet"
+  },
+  "tlg2797": {
+    "century": -5,
+    "name": "Hesychius",
+    "type": "Poet"
+  },
+  "tlg2798": {
+    "century": -1,
+    "name": "Pseudo–Dionysius Areopagita",
+    "type": "Poet"
+  },
+  "tlg2800": {
+    "century": -3,
+    "name": "Basilius",
+    "type": "Poet"
+  },
+  "tlg2806": {
+    "century": -4,
+    "name": "Marcus Diaconus",
+    "type": "Poet"
+  },
+  "tlg2807": {
+    "century": -4,
+    "name": "Antonius Hagiographus",
+    "type": "Poet"
+  },
+  "tlg2816": {
+    "century": -1,
+    "name": "Joannes",
+    "type": "Poet"
+  },
+  "tlg2860": {
+    "century": -2,
+    "name": "Alexander",
+    "type": "Poet"
+  },
+  "tlg2865": {
+    "century": -3,
+    "name": "Olympiodorus Diaconus",
+    "type": "Poet"
+  },
+  "tlg2866": {
+    "century": -6,
+    "name": "Oecumenius",
+    "type": "Poet"
+  },
+  "tlg2871": {
+    "century": -1,
+    "name": "Joannes Malalas",
+    "type": "Poet"
+  },
+  "tlg2877": {
+    "century": -4,
+    "name": "Cyrillus",
+    "type": "Poet"
+  },
+  "tlg2881": {
+    "century": -2,
+    "name": "Romanus Melodus",
+    "type": "Poet"
+  },
+  "tlg2892": {
+    "century": -4,
+    "name": "Maximus Confessor",
+    "type": "Poet"
+  },
+  "tlg2894": {
+    "century": -3,
+    "name": "Constitutiones Apostolorum",
+    "type": "Poet"
+  },
+  "tlg2903": {
+    "century": -5,
+    "name": "Minucianus Junior",
+    "type": "Poet"
+  },
+  "tlg2904": {
+    "century": -3,
+    "name": "Nicolaus",
+    "type": "Poet"
+  },
+  "tlg2914": {
+    "century": -2,
+    "name": "Leontius",
+    "type": "Poet"
+  },
+  "tlg2934": {
+    "century": -1,
+    "name": "Joannes Damascenus",
+    "type": "Poet"
+  },
+  "tlg2937": {
+    "century": -2,
+    "name": "Lachares",
+    "type": "Poet"
+  },
+  "tlg2945": {
+    "century": -5,
+    "name": "Gnomologium Vaticanum",
+    "type": "Poet"
+  },
+  "tlg2946": {
+    "century": -5,
+    "name": "Priscus",
+    "type": "Poet"
+  },
+  "tlg2948": {
+    "century": -5,
+    "name": "Acta Philippi",
+    "type": "Poet"
+  },
+  "tlg2949": {
+    "century": -5,
+    "name": "Acta Barnabae",
+    "type": "Poet"
+  },
+  "tlg2950": {
+    "century": -6,
+    "name": "Adamantius",
+    "type": "Poet"
+  },
+  "tlg2956": {
+    "century": -2,
+    "name": "Sextus Julius Africanus",
+    "type": "Poet"
+  },
+  "tlg2960": {
+    "century": -1,
+    "name": "Oracula Tiburtina",
+    "type": "Poet"
+  },
+  "tlg2962": {
+    "century": -3,
+    "name": "Petrus",
+    "type": "Poet"
+  },
+  "tlg2966": {
+    "century": -4,
+    "name": "Phileas",
+    "type": "Poet"
+  },
+  "tlg2967": {
+    "century": -4,
+    "name": "Theodorus Heracleensis Vel Theodorus Mopsuestenus",
+    "type": "Poet"
+  },
+  "tlg2968": {
+    "century": -5,
+    "name": "Monimus",
+    "type": "Poet"
+  },
+  "tlg2969": {
+    "century": -4,
+    "name": "Demonax",
+    "type": "Poet"
+  },
+  "tlg2970": {
+    "century": -3,
+    "name": "Severus",
+    "type": "Poet"
+  },
+  "tlg2971": {
+    "century": -2,
+    "name": "Georgius Peccator",
+    "type": "Poet"
+  },
+  "tlg2972": {
+    "century": -4,
+    "name": "Anonymi De Terrae Motibus",
+    "type": "Poet"
+  },
+  "tlg2995": {
+    "century": -4,
+    "name": "Orus",
+    "type": "Poet"
+  },
+  "tlg3002": {
+    "century": -4,
+    "name": "Prolegomena De Comoedia",
+    "type": "Poet"
+  },
+  "tlg3014": {
+    "century": -1,
+    "name": "Joannes Camaterus",
+    "type": "Poet"
+  },
+  "tlg3015": {
+    "century": -5,
+    "name": "Joannes Cameniates",
+    "type": "Poet"
+  },
+  "tlg3018": {
+    "century": -2,
+    "name": "Georgius Cedrenus",
+    "type": "Poet"
+  },
+  "tlg3020": {
+    "century": -4,
+    "name": "Joannes Cinnamus",
+    "type": "Poet"
+  },
+  "tlg3023": {
+    "century": -3,
+    "name": "Constantinus Vii Porphyrogenitus Imperator",
+    "type": "Poet"
+  },
+  "tlg3027": {
+    "century": -4,
+    "name": "Joannes Doxapatres",
+    "type": "Poet"
+  },
+  "tlg3039": {
+    "century": -1,
+    "name": "Joannes Galenus",
+    "type": "Poet"
+  },
+  "tlg3040": {
+    "century": -1,
+    "name": "Josephus Genesius",
+    "type": "Poet"
+  },
+  "tlg3043": {
+    "century": -2,
+    "name": "Georgius Monachus",
+    "type": "Poet"
+  },
+  "tlg3045": {
+    "century": -2,
+    "name": "Georgius Syncellus",
+    "type": "Poet"
+  },
+  "tlg3047": {
+    "century": -5,
+    "name": "Michael Glycas",
+    "type": "Poet"
+  },
+  "tlg3051": {
+    "century": -2,
+    "name": "Georgius Monachus Continuatus",
+    "type": "Poet"
+  },
+  "tlg3063": {
+    "century": -1,
+    "name": "Joannes Scylitzes",
+    "type": "Poet"
+  },
+  "tlg3064": {
+    "century": -1,
+    "name": "Scylitzes Continuatus",
+    "type": "Poet"
+  },
+  "tlg3069": {
+    "century": -2,
+    "name": "Leo Diaconus",
+    "type": "Poet"
+  },
+  "tlg3070": {
+    "century": -5,
+    "name": "Symeon Logothetes",
+    "type": "Poet"
+  },
+  "tlg3074": {
+    "century": -3,
+    "name": "Constantinus Manasses",
+    "type": "Poet"
+  },
+  "tlg3075": {
+    "century": -4,
+    "name": "Pseudo–Mauricius",
+    "type": "Poet"
+  },
+  "tlg3079": {
+    "century": -7,
+    "name": "Michael Attaliates",
+    "type": "Poet"
+  },
+  "tlg3086": {
+    "century": -5,
+    "name": "Nicephorus I",
+    "type": "Poet"
+  },
+  "tlg3088": {
+    "century": -5,
+    "name": "Nicephorus Bryennius",
+    "type": "Poet"
+  },
+  "tlg3094": {
+    "century": -3,
+    "name": "Nicetas Choniates",
+    "type": "Poet"
+  },
+  "tlg3100": {
+    "century": -3,
+    "name": "Nicolaus I Mysticus",
+    "type": "Poet"
+  },
+  "tlg3115": {
+    "century": -5,
+    "name": "Symeon Metaphrastes",
+    "type": "Poet"
+  },
+  "tlg3120": {
+    "century": -4,
+    "name": "Patria Constantinopoleos",
+    "type": "Poet"
+  },
+  "tlg3125": {
+    "century": -1,
+    "name": "Theodosius Diaconus",
+    "type": "Poet"
+  },
+  "tlg3127": {
+    "century": -6,
+    "name": "Pseudo–Nonnus",
+    "type": "Poet"
+  },
+  "tlg3128": {
+    "century": -3,
+    "name": "Theognostus",
+    "type": "Poet"
+  },
+  "tlg3130": {
+    "century": -5,
+    "name": "Theophylactus Simocatta",
+    "type": "Poet"
+  },
+  "tlg3135": {
+    "century": -3,
+    "name": "Joannes Zonaras",
+    "type": "Poet"
+  },
+  "tlg3136": {
+    "century": -3,
+    "name": "Pseudo–Zonaras",
+    "type": "Poet"
+  },
+  "tlg3139": {
+    "century": -6,
+    "name": "Laonicus Chalcocondyles",
+    "type": "Poet"
+  },
+  "tlg3140": {
+    "century": -1,
+    "name": "Joel",
+    "type": "Poet"
+  },
+  "tlg3141": {
+    "century": -5,
+    "name": "Georgius Acropolites",
+    "type": "Poet"
+  },
+  "tlg3142": {
+    "century": -4,
+    "name": "Georgius Pachymeres",
+    "type": "Poet"
+  },
+  "tlg3143": {
+    "century": -4,
+    "name": "Georgius Sphrantzes",
+    "type": "Poet"
+  },
+  "tlg3144": {
+    "century": -5,
+    "name": "Joannes Cananus",
+    "type": "Poet"
+  },
+  "tlg3145": {
+    "century": -6,
+    "name": "Joannes Anagnostes",
+    "type": "Poet"
+  },
+  "tlg3146": {
+    "century": -4,
+    "name": "Ducas",
+    "type": "Poet"
+  },
+  "tlg3147": {
+    "century": -2,
+    "name": "Michael Critobulus",
+    "type": "Poet"
+  },
+  "tlg3155": {
+    "century": -1,
+    "name": "Joannes Protospatharius",
+    "type": "Poet"
+  },
+  "tlg3156": {
+    "century": -4,
+    "name": "Anonymi Exegesis In Hesiodi Theogoniam",
+    "type": "Poet"
+  },
+  "tlg3157": {
+    "century": -2,
+    "name": "Theodorus Scutariota",
+    "type": "Poet"
+  },
+  "tlg3158": {
+    "century": -4,
+    "name": "Theodorus",
+    "type": "Poet"
+  },
+  "tlg3159": {
+    "century": -2,
+    "name": "Barlaam",
+    "type": "Poet"
+  },
+  "tlg3168": {
+    "century": -1,
+    "name": "Pseudo–Codinus",
+    "type": "Poet"
+  },
+  "tlg3169": {
+    "century": -1,
+    "name": "Joannes Vi Cantacuzenus",
+    "type": "Poet"
+  },
+  "tlg3170": {
+    "century": -5,
+    "name": "Ephraem",
+    "type": "Poet"
+  },
+  "tlg3173": {
+    "century": -1,
+    "name": "Joannes",
+    "type": "Poet"
+  },
+  "tlg3176": {
+    "century": -4,
+    "name": "Pseudo–Sphrantzes",
+    "type": "Poet"
+  },
+  "tlg3177": {
+    "century": -4,
+    "name": "Scriptor Incertus De Leone Armenio",
+    "type": "Poet"
+  },
+  "tlg3178": {
+    "century": -3,
+    "name": "Anonymi Lexeis Rhetoricae",
+    "type": "Poet"
+  },
+  "tlg3181": {
+    "century": -5,
+    "name": "Nicephorus Ii Phocas Imperator",
+    "type": "Poet"
+  },
+  "tlg3182": {
+    "century": -2,
+    "name": "Pseudo–Symeon",
+    "type": "Poet"
+  },
+  "tlg3185": {
+    "century": -4,
+    "name": "Anonymus De Scientia Politica",
+    "type": "Poet"
+  },
+  "tlg3186": {
+    "century": -4,
+    "name": "Anonymus Dialogus Cum Judaeis",
+    "type": "Poet"
+  },
+  "tlg3187": {
+    "century": -2,
+    "name": "Georgius",
+    "type": "Poet"
+  },
+  "tlg3188": {
+    "century": -5,
+    "name": "Joannes Actuarius",
+    "type": "Poet"
+  },
+  "tlg4000": {
+    "century": -3,
+    "name": "Aristaenetus",
+    "type": "Poet"
+  },
+  "tlg4001": {
+    "century": -4,
+    "name": "Aeneas",
+    "type": "Poet"
+  },
+  "tlg4003": {
+    "century": -4,
+    "name": "Marcianus",
+    "type": "Poet"
+  },
+  "tlg4005": {
+    "century": -2,
+    "name": "Anonymus Discipulus Isidori Milesii",
+    "type": "Poet"
+  },
+  "tlg4013": {
+    "century": -4,
+    "name": "Simplicius",
+    "type": "Poet"
+  },
+  "tlg4014": {
+    "century": -1,
+    "name": "Priscianus",
+    "type": "Poet"
+  },
+  "tlg4015": {
+    "century": -1,
+    "name": "Joannes Philoponus",
+    "type": "Poet"
+  },
+  "tlg4016": {
+    "century": -4,
+    "name": "Ammonius",
+    "type": "Poet"
+  },
+  "tlg4017": {
+    "century": -5,
+    "name": "Syrianus",
+    "type": "Poet"
+  },
+  "tlg4018": {
+    "century": -6,
+    "name": "Asclepius",
+    "type": "Poet"
+  },
+  "tlg4019": {
+    "century": -3,
+    "name": "Olympiodorus",
+    "type": "Poet"
+  },
+  "tlg4020": {
+    "century": -5,
+    "name": "Elias",
+    "type": "Poet"
+  },
+  "tlg4021": {
+    "century": -5,
+    "name": "David",
+    "type": "Poet"
+  },
+  "tlg4024": {
+    "century": -3,
+    "name": "Agathias Scholasticus",
+    "type": "Poet"
+  },
+  "tlg4026": {
+    "century": -3,
+    "name": "Anonymi In Aristotelis Artem Rhetoricam",
+    "type": "Poet"
+  },
+  "tlg4027": {
+    "century": -3,
+    "name": "Anonymi In Aristotelis Categorias",
+    "type": "Poet"
+  },
+  "tlg4028": {
+    "century": -7,
+    "name": "Stephanus",
+    "type": "Poet"
+  },
+  "tlg4029": {
+    "century": -5,
+    "name": "Procopius",
+    "type": "Poet"
+  },
+  "tlg4030": {
+    "century": -5,
+    "name": "Sophonias",
+    "type": "Poet"
+  },
+  "tlg4031": {
+    "century": -4,
+    "name": "Eustratius",
+    "type": "Poet"
+  },
+  "tlg4032": {
+    "century": -3,
+    "name": "Anonymi In Aristotelis Librum Primum Analyticorum Posteriorum Commentarium",
+    "type": "Poet"
+  },
+  "tlg4033": {
+    "century": -3,
+    "name": "Anonymi In Aristotelis Ethica Nicomachea",
+    "type": "Poet"
+  },
+  "tlg4034": {
+    "century": -7,
+    "name": "Michael",
+    "type": "Poet"
+  },
+  "tlg4036": {
+    "century": -5,
+    "name": "Proclus",
+    "type": "Poet"
+  },
+  "tlg4037": {
+    "century": -3,
+    "name": "Anonymi Paradoxographi",
+    "type": "Poet"
+  },
+  "tlg4038": {
+    "century": -5,
+    "name": "Pamprepius",
+    "type": "Poet"
+  },
+  "tlg4039": {
+    "century": -2,
+    "name": "Paulus Silentiarius",
+    "type": "Poet"
+  },
+  "tlg4040": {
+    "century": -5,
+    "name": "Photius",
+    "type": "Poet"
+  },
+  "tlg4046": {
+    "century": -4,
+    "name": "Theophanes Confessor",
+    "type": "Poet"
+  },
+  "tlg4061": {
+    "century": -4,
+    "name": "Cosmas Indicopleustes",
+    "type": "Poet"
+  },
+  "tlg4066": {
+    "century": -5,
+    "name": "Damascius",
+    "type": "Poet"
+  },
+  "tlg4072": {
+    "century": -2,
+    "name": "Eutocius",
+    "type": "Poet"
+  },
+  "tlg4075": {
+    "century": -4,
+    "name": "Marinus",
+    "type": "Poet"
+  },
+  "tlg4076": {
+    "century": -2,
+    "name": "Menander Protector",
+    "type": "Poet"
+  },
+  "tlg4080": {
+    "century": -2,
+    "name": "Geoponica",
+    "type": "Poet"
+  },
+  "tlg4081": {
+    "century": -1,
+    "name": "Colluthus",
+    "type": "Poet"
+  },
+  "tlg4082": {
+    "century": -2,
+    "name": "Musaeus Grammaticus",
+    "type": "Poet"
+  },
+  "tlg4083": {
+    "century": -4,
+    "name": "Eustathius",
+    "type": "Poet"
+  },
+  "tlg4084": {
+    "century": 3,
+    "name": "Zosimus",
+    "type": "Alchemist"
+  },
+  "tlg4085": {
+    "century": -5,
+    "name": "Hesychius",
+    "type": "Poet"
+  },
+  "tlg4086": {
+    "century": -5,
+    "name": "[Agathodaemon]",
+    "type": "Poet"
+  },
+  "tlg4088": {
+    "century": -4,
+    "name": "Anthemius",
+    "type": "Poet"
+  },
+  "tlg4089": {
+    "century": -3,
+    "name": "Theodoretus",
+    "type": "Poet"
+  },
+  "tlg4090": {
+    "century": -4,
+    "name": "Cyrillus",
+    "type": "Poet"
+  },
+  "tlg4091": {
+    "century": -5,
+    "name": "Callistratus",
+    "type": "Poet"
+  },
+  "tlg4093": {
+    "century": -3,
+    "name": "Georgius Choeroboscus",
+    "type": "Poet"
+  },
+  "tlg4094": {
+    "century": -3,
+    "name": "Choricius",
+    "type": "Poet"
+  },
+  "tlg4096": {
+    "century": -4,
+    "name": "Dositheus Magister",
+    "type": "Poet"
+  },
+  "tlg4097": {
+    "century": -5,
+    "name": "Etymologicum Genuinum",
+    "type": "Poet"
+  },
+  "tlg4098": {
+    "century": -5,
+    "name": "Etymologicum Gudianum",
+    "type": "Poet"
+  },
+  "tlg4099": {
+    "century": -5,
+    "name": "Etymologicum Magnum",
+    "type": "Poet"
+  },
+  "tlg4100": {
+    "century": -2,
+    "name": "Aphthonius",
+    "type": "Poet"
+  },
+  "tlg4101": {
+    "century": -5,
+    "name": "Etymologicum Parvum",
+    "type": "Poet"
+  },
+  "tlg4102": {
+    "century": -5,
+    "name": "Catenae (Novum Testamentum)",
+    "type": "Poet"
+  },
+  "tlg4105": {
+    "century": -2,
+    "name": "Julianus",
+    "type": "Poet"
+  },
+  "tlg4110": {
+    "century": -2,
+    "name": "Evagrius",
+    "type": "Poet"
+  },
+  "tlg4115": {
+    "century": -4,
+    "name": "Theophilus",
+    "type": "Poet"
+  },
+  "tlg4117": {
+    "century": -4,
+    "name": "Eustathius",
+    "type": "Poet"
+  },
+  "tlg4124": {
+    "century": -4,
+    "name": "Eusebius",
+    "type": "Poet"
+  },
+  "tlg4126": {
+    "century": -4,
+    "name": "Theodorus",
+    "type": "Poet"
+  },
+  "tlg4134": {
+    "century": -4,
+    "name": "Diodorus",
+    "type": "Poet"
+  },
+  "tlg4135": {
+    "century": -4,
+    "name": "Theodorus",
+    "type": "Poet"
+  },
+  "tlg4138": {
+    "century": -5,
+    "name": "Ephraem Syrus",
+    "type": "Poet"
+  },
+  "tlg4139": {
+    "century": -3,
+    "name": "Severianus",
+    "type": "Poet"
+  },
+  "tlg4145": {
+    "century": -4,
+    "name": "Nicephorus Gregoras",
+    "type": "Poet"
+  },
+  "tlg4147": {
+    "century": -1,
+    "name": "Florilegium Cyrillianum",
+    "type": "Poet"
+  },
+  "tlg4149": {
+    "century": -3,
+    "name": "Sophronius",
+    "type": "Poet"
+  },
+  "tlg4150": {
+    "century": -6,
+    "name": "Anacreontea",
+    "type": "Poet"
+  },
+  "tlg4153": {
+    "century": -4,
+    "name": "Theophanes Continuatus",
+    "type": "Poet"
+  },
+  "tlg4157": {
+    "century": -1,
+    "name": "Joannes",
+    "type": "Poet"
+  },
+  "tlg4161": {
+    "century": -5,
+    "name": "Vitae Arati Et Varia De Arato",
+    "type": "Poet"
+  },
+  "tlg4163": {
+    "century": -3,
+    "name": "Telegonia",
+    "type": "Poet"
+  },
+  "tlg4165": {
+    "century": -3,
+    "name": "Anonymi In Aristotelis Librum De Interpretatione",
+    "type": "Poet"
+  },
+  "tlg4166": {
+    "century": -5,
+    "name": "Vitae Aeschinis",
+    "type": "Poet"
+  },
+  "tlg4167": {
+    "century": -2,
+    "name": "Leontius",
+    "type": "Poet"
+  },
+  "tlg4170": {
+    "century": -5,
+    "name": "Vitae Pindari Et Varia De Pindaro",
+    "type": "Poet"
+  },
+  "tlg4171": {
+    "century": -3,
+    "name": "Anonymi In Oppiani Opera",
+    "type": "Poet"
+  },
+  "tlg4172": {
+    "century": -5,
+    "name": "Vitae Oppiani",
+    "type": "Poet"
+  },
+  "tlg4173": {
+    "century": -5,
+    "name": "Vitae Dionysii Periegetae",
+    "type": "Poet"
+  },
+  "tlg4174": {
+    "century": -5,
+    "name": "Paraphrases In Dionysium Periegetam",
+    "type": "Poet"
+  },
+  "tlg4175": {
+    "century": -1,
+    "name": "Commentaria In Dionysii Thracis Artem Grammaticam",
+    "type": "Poet"
+  },
+  "tlg4184": {
+    "century": -4,
+    "name": "Dionysius",
+    "type": "Poet"
+  },
+  "tlg4187": {
+    "century": -2,
+    "name": "Leo Magentinus",
+    "type": "Poet"
+  },
+  "tlg4193": {
+    "century": -3,
+    "name": "Anonymi In Aristotelis Sophisticos Elenchos",
+    "type": "Poet"
+  },
+  "tlg4201": {
+    "century": -3,
+    "name": "Joannes Chortasmenus",
+    "type": "Poet"
+  },
+  "tlg4227": {
+    "century": -4,
+    "name": "Anonymus De Philosophia Platonica",
+    "type": "Poet"
+  },
+  "tlg4235": {
+    "century": -1,
+    "name": "Joannes",
+    "type": "Poet"
+  },
+  "tlg4236": {
+    "century": -1,
+    "name": "Trophonius",
+    "type": "Poet"
+  },
+  "tlg4237": {
+    "century": -2,
+    "name": "Joannes Argyropulus",
+    "type": "Poet"
+  },
+  "tlg4238": {
+    "century": -4,
+    "name": "Athanasius",
+    "type": "Poet"
+  },
+  "tlg4239": {
+    "century": -3,
+    "name": "Severus",
+    "type": "Poet"
+  },
+  "tlg4242": {
+    "century": -4,
+    "name": "Cyrus",
+    "type": "Poet"
+  },
+  "tlg4282": {
+    "century": -2,
+    "name": "Anonymus Manichaeus",
+    "type": "Poet"
+  },
+  "tlg4286": {
+    "century": -1,
+    "name": "Lexica Syntactica",
+    "type": "Poet"
+  },
+  "tlg4287": {
+    "century": -5,
+    "name": "Etymologia Alphabeti",
+    "type": "Poet"
+  },
+  "tlg4288": {
+    "century": -1,
+    "name": "Lexicon Αἱμωδεῖν",
+    "type": "Poet"
+  },
+  "tlg4289": {
+    "century": -1,
+    "name": "Lexica Segueriana",
+    "type": "Poet"
+  },
+  "tlg4290": {
+    "century": -1,
+    "name": "Lexicon Artis Grammaticae",
+    "type": "Poet"
+  },
+  "tlg4291": {
+    "century": -1,
+    "name": "Verba In Scripturis De Christo",
+    "type": "Poet"
+  },
+  "tlg4292": {
+    "century": -1,
+    "name": "Lexicon De Atticis Nominibus",
+    "type": "Poet"
+  },
+  "tlg4293": {
+    "century": -1,
+    "name": "Fragmentum Lexici Graeci",
+    "type": "Poet"
+  },
+  "tlg4294": {
+    "century": -1,
+    "name": "Lexicon Vindobonense",
+    "type": "Poet"
+  },
+  "tlg4300": {
+    "century": -1,
+    "name": "Lexicon Sabbaiticum",
+    "type": "Poet"
+  },
+  "tlg4301": {
+    "century": -1,
+    "name": "Lexicon Rhetoricum Cantabrigiense",
+    "type": "Poet"
+  },
+  "tlg4302": {
+    "century": -1,
+    "name": "Lexicon Patmense",
+    "type": "Poet"
+  },
+  "tlg4303": {
+    "century": -1,
+    "name": "Lexica In Opera Gregorii Nazianzeni",
+    "type": "Poet"
+  },
+  "tlg4304": {
+    "century": -5,
+    "name": "Glossae In Herodotum",
+    "type": "Poet"
+  },
+  "tlg4305": {
+    "century": -4,
+    "name": "Claudius Casilon",
+    "type": "Poet"
+  },
+  "tlg4307": {
+    "century": -1,
+    "name": "Lexica Synonymica",
+    "type": "Poet"
+  },
+  "tlg4311": {
+    "century": -5,
+    "name": "Etymologicum Symeonis",
+    "type": "Poet"
+  },
+  "tlg4318": {
+    "century": -5,
+    "name": "Vita Sophoclis",
+    "type": "Poet"
+  },
+  "tlg4319": {
+    "century": 0,
+    "name": "Zosimus",
+    "type": "Miscellaneous"
+  },
+  "tlg4323": {
+    "century": -3,
+    "name": "Eugenius",
+    "type": "Poet"
+  },
+  "tlg4324": {
+    "century": -5,
+    "name": "Synesius",
+    "type": "Poet"
+  },
+  "tlg4325": {
+    "century": -4,
+    "name": "[Hermes]",
+    "type": "Poet"
+  },
+  "tlg4326": {
+    "century": -5,
+    "name": "Pappus",
+    "type": "Poet"
+  },
+  "tlg4327": {
+    "century": -1,
+    "name": "Joannes Archiereus",
+    "type": "Poet"
+  },
+  "tlg4328": {
+    "century": -3,
+    "name": "Philosophus Christianus",
+    "type": "Poet"
+  },
+  "tlg4329": {
+    "century": -3,
+    "name": "Philosophus Anonymus",
+    "type": "Poet"
+  },
+  "tlg4330": {
+    "century": -4,
+    "name": "Cosmas Hieromonachus",
+    "type": "Poet"
+  },
+  "tlg4331": {
+    "century": -3,
+    "name": "Hierotheus",
+    "type": "Poet"
+  },
+  "tlg4332": {
+    "century": -3,
+    "name": "Hierotheus",
+    "type": "Poet"
+  },
+  "tlg4333": {
+    "century": -5,
+    "name": "Nicephorus Blemmydes",
+    "type": "Poet"
+  },
+  "tlg4334": {
+    "century": -5,
+    "name": "[Isis Prophetissa]",
+    "type": "Poet"
+  },
+  "tlg4335": {
+    "century": -4,
+    "name": "Cleopatra",
+    "type": "Poet"
+  },
+  "tlg4337": {
+    "century": -5,
+    "name": "Heliodorus",
+    "type": "Poet"
+  },
+  "tlg4338": {
+    "century": -5,
+    "name": "Theophrastus",
+    "type": "Poet"
+  },
+  "tlg4339": {
+    "century": -3,
+    "name": "Archelaus",
+    "type": "Poet"
+  },
+  "tlg4340": {
+    "century": -5,
+    "name": "Salmanas",
+    "type": "Poet"
+  },
+  "tlg4344": {
+    "century": -1,
+    "name": "Menecrates",
+    "type": "Poet"
+  },
+  "tlg4345": {
+    "century": -1,
+    "name": "Menecrates",
+    "type": "Poet"
+  },
+  "tlg4346": {
+    "century": -1,
+    "name": "Menecrates",
+    "type": "Poet"
+  },
+  "tlg4347": {
+    "century": -1,
+    "name": "Andron",
+    "type": "Poet"
+  },
+  "tlg4361": {
+    "century": -5,
+    "name": "Apomasar",
+    "type": "Poet"
+  },
+  "tlg4374": {
+    "century": -4,
+    "name": "Anonymi De Astrologia Dialogus",
+    "type": "Poet"
+  },
+  "tlg4390": {
+    "century": -5,
+    "name": "Democles",
+    "type": "Poet"
+  },
+  "tlg4391": {
+    "century": -5,
+    "name": "Glaucus",
+    "type": "Poet"
+  },
+  "tlg4392": {
+    "century": -1,
+    "name": "Joannes Epiphaniensis",
+    "type": "Poet"
+  },
+  "tlg4393": {
+    "century": -6,
+    "name": "Nonnosus",
+    "type": "Poet"
+  },
+  "tlg4394": {
+    "century": -1,
+    "name": "Joannes Antiochenus",
+    "type": "Poet"
+  },
+  "tlg4395": {
+    "century": -3,
+    "name": "Menetor",
+    "type": "Poet"
+  },
+  "tlg4396": {
+    "century": -4,
+    "name": "Timagetus",
+    "type": "Poet"
+  },
+  "tlg4397": {
+    "century": -3,
+    "name": "Myronianus",
+    "type": "Poet"
+  },
+  "tlg5000": {
+    "century": -1,
+    "name": "Concilia Oecumenica (Aco)",
+    "type": "Poet"
+  },
+  "tlg5002": {
+    "century": -5,
+    "name": "Magica",
+    "type": "Poet"
+  },
+  "tlg5003": {
+    "century": -1,
+    "name": "Erotica Adespota",
+    "type": "Poet"
+  },
+  "tlg5004": {
+    "century": -2,
+    "name": "Epimerismi",
+    "type": "Poet"
+  },
+  "tlg5008": {
+    "century": -3,
+    "name": "Scholia In Aelium Aristidem",
+    "type": "Poet"
+  },
+  "tlg5009": {
+    "century": -3,
+    "name": "Scholia In Aeschinem",
+    "type": "Poet"
+  },
+  "tlg5010": {
+    "century": -3,
+    "name": "Scholia In Aeschylum",
+    "type": "Poet"
+  },
+  "tlg5012": {
+    "century": -3,
+    "name": "Scholia In Apollonium Rhodium",
+    "type": "Poet"
+  },
+  "tlg5013": {
+    "century": -3,
+    "name": "Scholia In Aratum",
+    "type": "Poet"
+  },
+  "tlg5014": {
+    "century": -3,
+    "name": "Scholia In Aristophanem",
+    "type": "Poet"
+  },
+  "tlg5015": {
+    "century": -3,
+    "name": "Scholia In Aristotelem",
+    "type": "Poet"
+  },
+  "tlg5016": {
+    "century": -3,
+    "name": "Scholia In Callimachum",
+    "type": "Poet"
+  },
+  "tlg5017": {
+    "century": -3,
+    "name": "Scholia In Demosthenem",
+    "type": "Poet"
+  },
+  "tlg5018": {
+    "century": -3,
+    "name": "Scholia In Dionysium Byzantium",
+    "type": "Poet"
+  },
+  "tlg5019": {
+    "century": -3,
+    "name": "Scholia In Dionysium Periegetam",
+    "type": "Poet"
+  },
+  "tlg5021": {
+    "century": -3,
+    "name": "Scholia In Diophantum",
+    "type": "Poet"
+  },
+  "tlg5022": {
+    "century": -3,
+    "name": "Scholia In Euclidem",
+    "type": "Poet"
+  },
+  "tlg5023": {
+    "century": -3,
+    "name": "Scholia In Euripidem",
+    "type": "Poet"
+  },
+  "tlg5024": {
+    "century": -3,
+    "name": "Anonymi In Hermogenem",
+    "type": "Poet"
+  },
+  "tlg5025": {
+    "century": -3,
+    "name": "Scholia In Hesiodum",
+    "type": "Poet"
+  },
+  "tlg5026": {
+    "century": -3,
+    "name": "Scholia In Homerum",
+    "type": "Poet"
+  },
+  "tlg5027": {
+    "century": -3,
+    "name": "Scholia In Iamblichum Philosophum",
+    "type": "Poet"
+  },
+  "tlg5028": {
+    "century": -3,
+    "name": "Scholia In Isocratem",
+    "type": "Poet"
+  },
+  "tlg5029": {
+    "century": -3,
+    "name": "Scholia In Lucianum",
+    "type": "Poet"
+  },
+  "tlg5030": {
+    "century": -3,
+    "name": "Scholia In Lycophronem",
+    "type": "Poet"
+  },
+  "tlg5031": {
+    "century": -3,
+    "name": "Scholia In Nicandrum",
+    "type": "Poet"
+  },
+  "tlg5032": {
+    "century": -3,
+    "name": "Scholia In Oppianum",
+    "type": "Poet"
+  },
+  "tlg5033": {
+    "century": -3,
+    "name": "Scholia In Pausaniam",
+    "type": "Poet"
+  },
+  "tlg5034": {
+    "century": -3,
+    "name": "Scholia In Pindarum",
+    "type": "Poet"
+  },
+  "tlg5035": {
+    "century": -3,
+    "name": "Scholia In Platonem",
+    "type": "Poet"
+  },
+  "tlg5037": {
+    "century": -3,
+    "name": "Scholia In Sophoclem",
+    "type": "Poet"
+  },
+  "tlg5038": {
+    "century": -3,
+    "name": "Scholia In Theocritum",
+    "type": "Poet"
+  },
+  "tlg5039": {
+    "century": -3,
+    "name": "Scholia In Thucydidem",
+    "type": "Poet"
+  },
+  "tlg5040": {
+    "century": -3,
+    "name": "Scholia In Xenophontem",
+    "type": "Poet"
+  },
+  "tlg5045": {
+    "century": -3,
+    "name": "Anonymi In Aphthonium",
+    "type": "Poet"
+  },
+  "tlg5046": {
+    "century": -3,
+    "name": "Scholia In Theonem Rhetorem",
+    "type": "Poet"
+  },
+  "tlg5048": {
+    "century": -3,
+    "name": "Scholia In Clementem Alexandrinum",
+    "type": "Poet"
+  },
+  "tlg5052": {
+    "century": -3,
+    "name": "Scholia In Maximum Confessorem",
+    "type": "Poet"
+  },
+  "tlg7000": {
+    "century": -4,
+    "name": "Anthologia Graeca",
+    "type": "Poet"
+  },
+  "tlg7051": {
+    "century": -1,
+    "name": "Doctrina Patrum",
+    "type": "Poet"
+  },
+  "tlg7052": {
+    "century": -4,
+    "name": "Anthologiae Graecae Appendix",
+    "type": "Poet"
+  },
+  "tlg9003": {
+    "century": -2,
+    "name": "Anonymus Lexicographus",
+    "type": "Poet"
+  },
+  "tlg9004": {
+    "century": -3,
+    "name": "Anonymi In Aristotelis Librum Alterum Analyticorum Posteriorum Commentarium",
+    "type": "Poet"
+  },
+  "tlg9006": {
+    "century": -4,
+    "name": "Gregorius",
+    "type": "Poet"
+  },
+  "tlg9007": {
+    "century": -5,
+    "name": "Appendix Proverbiorum",
+    "type": "Poet"
+  },
+  "tlg9008": {
+    "century": -3,
+    "name": "Macarius Chrysocephalus",
+    "type": "Poet"
+  },
+  "tlg9009": {
+    "century": -5,
+    "name": "Michael Apostolius",
+    "type": "Poet"
+  },
+  "tlg9010": {
+    "century": -5,
+    "name": "Suda",
+    "type": "Poet"
+  },
+  "tlg9012": {
+    "century": -6,
+    "name": "Ignatius",
+    "type": "Poet"
+  },
+  "tlg9018": {
+    "century": -2,
+    "name": "Arsenius",
+    "type": "Poet"
+  },
+  "tlg9019": {
+    "century": -7,
+    "name": "Stephanus",
+    "type": "Poet"
+  },
+  "tlg9020": {
+    "century": -7,
+    "name": "Stephanus",
+    "type": "Poet"
+  },
+  "tlg9021": {
+    "century": -7,
+    "name": "Stephanus",
+    "type": "Poet"
+  },
+  "tlg9022": {
+    "century": -1,
+    "name": "Joannes Tzetzes",
+    "type": "Poet"
+  },
+  "tlg9023": {
+    "century": -4,
+    "name": "Thomas Magister",
+    "type": "Poet"
+  }
+}

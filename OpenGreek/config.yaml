@@ -1,0 +1,77 @@
+# TLG Corpus Extraction Configuration
+# Adapted from proven Daphnet extraction patterns
+
+project:
+  name: "TLG Corpus Extraction"
+  version: "1.0.0"
+  purpose: "Complete ancient Greek literature corpus from TLG"
+  
+source:
+  base_url: "http://217.71.231.54:8080"
+  index_url: "/indices/indexA.htm"
+  user_agent: "TLG-Extractor/1.0 (academic research; james@example.edu)"
+  
+  # TLG-specific patterns
+  patterns:
+    author_directory: "/TLG{tlg_id}/"
+    work_file: "/TLG{tlg_id}/{tlg_id}_{work_id:03d}.htm"
+    work_file_encoded: "/TLG{tlg_id}/{tlg_id}%5F{work_id:03d}.htm"  # URL encoded underscore
+    
+extraction:
+  rate_limit:
+    base_delay: 1.0  # Conservative for comprehensive extraction
+    jitter: 0.5
+    max_backoff: 300  # 5 minutes max
+  timeout: 45
+  max_retries: 5
+
+  progress_log_frequency: 50  # Log every 50 works
+  
+  retry_on_status: [429, 500, 502, 503, 504]
+  redirect_status: [301, 302, 303, 307, 308]
+  
+  content_validation:
+    check_greek: true
+    greek_threshold: 0.3  # 30% Greek character ratio minimum
+    min_text_length: 50   # Minimum viable text length
+    
+  selectors:
+    primary:
+      - 'td'  # TLG uses table cells for main content
+      - 'table'  # Try full tables
+    fallback:
+      - 'div[lang="grc"]'
+      - '.greek-text'
+      - '.text'
+      - 'pre'
+      - 'p'
+      - 'div'
+      - 'body'
+
+output:
+  directory: "./data/tlg"
+  checkpoint_dir: "./data/tlg/checkpoints"
+  
+  formats:
+    json:
+      enabled: true
+      filename: "tlg_corpus.json"
+      checkpoint_frequency: 100  # Save every 100 works
+      
+    text:
+      enabled: true
+      filename: "tlg_texts.txt"
+      
+    authors:
+      enabled: true
+      filename: "tlg_authors.json"
+      
+    statistics:
+      enabled: true
+      filename: "tlg_stats.json"
+
+validation:
+  check_encoding: true
+  normalize_unicode: true
+  track_coverage: true
+  min_coverage: 0.90  # 90% minimum for TLG

@@ -1,0 +1,20 @@
+# TLG Extraction Dependencies
+# Core requirements for robust web scraping and Greek text processing
+
+# HTTP and async
+aiohttp>=3.9.0
+requests>=2.31.0
+
+# HTML parsing
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Configuration and data
+pyyaml>=6.0
+jsonlines>=4.0.0
+
+# Text processing and validation
+unicodedata2>=15.0.0  # Better Unicode handling
+
+# Optional but recommended
+tqdm>=4.66.0  # Progress bars
